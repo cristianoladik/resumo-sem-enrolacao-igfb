@@ -6,7 +6,7 @@
       "id": "reel-20260927-1457-7fc1ed1d54",
       "data": "2026-09-27",
       "horario": "14:57",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 01 - Termostato do dinheiro.mp4",
         "sha256": "7fc1ed1d54ec5e99e9918c5f0b2f38a34f262b8835b7e94992831480f01d4e1b"
@@ -19,12 +19,17 @@
       },
       "instagram": {
         "legenda": "Por que quem ganha na loteria costuma voltar a ficar pobre? Não é falta de sorte. O livro Os Segredos da Mente Milionária explica que você tem um termostato de dinheiro na cabeça, que sempre te leva de volta pro mesmo ponto. Antes de ganhar mais, regula esse termostato.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17906420277483283",
+        "publicado_em": "2026-09-27T15:13:30.102245-03:00"
       },
       "facebook": {
         "legenda": "Por que quem ganha na loteria costuma voltar a ficar pobre? Não é falta de sorte. O livro Os Segredos da Mente Milionária explica que você tem um termostato de dinheiro na cabeça, que sempre te leva de volta pro mesmo ponto. Antes de ganhar mais, regula esse termostato.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1414445276822958",
+        "publicado_em": "2026-09-27T15:13:41.927538-03:00"
+      },
+      "concluido_em": "2026-09-27T15:13:41.928932-03:00"
     },
     {
       "id": "reel-20260927-1900-171fb34342",
