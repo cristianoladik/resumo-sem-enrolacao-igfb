@@ -7,5 +7,68 @@
   "estoque_minimo_dias": 30,
   "estoque_alvo_dias": 30,
   "reposicao_em_andamento": false,
-  "pacotes": []
+  "pacotes": [
+    {
+      "id": "story-20260927-395fee283c",
+      "data": "2026-09-27",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 01 - As muralhas da Babilonia.mp4",
+        "sha256": "395fee283c449e798fb554e88cbbe8899998087c6ed964c9de75ab572c908c72",
+        "pacote": "Babilonia 01 - As muralhas da Babilonia",
+        "pacote_id": "story-395fee283c44"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-395fee283c-Babilonia-01---As-muralhas-da-Babilonia.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-395fee283c-Babilonia-01---As-muralhas-da-Babilonia.mp4",
+            "sha256": "395fee283c449e798fb554e88cbbe8899998087c6ed964c9de75ab572c908c72",
+            "tamanho_bytes": 8520279,
+            "duracao_segundos": 27.7
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260928-d897d336ce",
+      "data": "2026-09-28",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 02 - Bansir e Kobbi.mp4",
+        "sha256": "d897d336cebff29c8c3b4747aa488adc9df8f93157af41a5a6f02c27c5d4f71a",
+        "pacote": "Babilonia 02 - Bansir e Kobbi",
+        "pacote_id": "story-d897d336cebf"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-d897d336ce-Babilonia-02---Bansir-e-Kobbi.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-d897d336ce-Babilonia-02---Bansir-e-Kobbi.mp4",
+            "sha256": "d897d336cebff29c8c3b4747aa488adc9df8f93157af41a5a6f02c27c5d4f71a",
+            "tamanho_bytes": 9472733,
+            "duracao_segundos": 32.333
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    }
+  ]
 }

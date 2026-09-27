@@ -1,5 +1,582 @@
 {
   "canal": "instagram-facebook-reels",
   "timezone": "America/Sao_Paulo",
-  "conteudos": []
+  "conteudos": [
+    {
+      "id": "reel-20260927-1457-7fc1ed1d54",
+      "data": "2026-09-27",
+      "horario": "14:57",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 01 - Termostato do dinheiro.mp4",
+        "sha256": "7fc1ed1d54ec5e99e9918c5f0b2f38a34f262b8835b7e94992831480f01d4e1b"
+      },
+      "midia": {
+        "asset": "reel-7fc1ed1d54-Mente-Milionaria-01---Termostato-do-dinheiro.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-7fc1ed1d54-Mente-Milionaria-01---Termostato-do-dinheiro.mp4",
+        "sha256": "7fc1ed1d54ec5e99e9918c5f0b2f38a34f262b8835b7e94992831480f01d4e1b",
+        "tamanho_bytes": 7763534
+      },
+      "instagram": {
+        "legenda": "Por que quem ganha na loteria costuma voltar a ficar pobre? Não é falta de sorte. O livro Os Segredos da Mente Milionária explica que você tem um termostato de dinheiro na cabeça, que sempre te leva de volta pro mesmo ponto. Antes de ganhar mais, regula esse termostato.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Por que quem ganha na loteria costuma voltar a ficar pobre? Não é falta de sorte. O livro Os Segredos da Mente Milionária explica que você tem um termostato de dinheiro na cabeça, que sempre te leva de volta pro mesmo ponto. Antes de ganhar mais, regula esse termostato.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20260927-1900-171fb34342",
+      "data": "2026-09-27",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 02 - Frases de infancia.mp4",
+        "sha256": "171fb34342fe5fcf2dcd266c1aeb6317e95f692eebb41693384ade308f904e54"
+      },
+      "midia": {
+        "asset": "reel-171fb34342-Mente-Milionaria-02---Frases-de-infancia.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-171fb34342-Mente-Milionaria-02---Frases-de-infancia.mp4",
+        "sha256": "171fb34342fe5fcf2dcd266c1aeb6317e95f692eebb41693384ade308f904e54",
+        "tamanho_bytes": 8082134
+      },
+      "instagram": {
+        "legenda": "Uma frase que você ouviu quando criança pode estar te deixando pobre até hoje. \"Dinheiro não dá em árvore\", \"rico é tudo ladrão\": frases assim programam a cabeça, segundo o livro Os Segredos da Mente Milionária. Não é culpa sua ter ouvido isso, mas mudar é responsabilidade sua. Comenta aqui qual frase sobre dinheiro você mais ouviu em casa.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Uma frase que você ouviu quando criança pode estar te deixando pobre até hoje. \"Dinheiro não dá em árvore\", \"rico é tudo ladrão\": frases assim programam a cabeça, segundo o livro Os Segredos da Mente Milionária. Não é culpa sua ter ouvido isso, mas mudar é responsabilidade sua. Comenta aqui qual frase sobre dinheiro você mais ouviu em casa.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20260928-1100-8070138d95",
+      "data": "2026-09-28",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 03 - Comeu os filhos do ouro.mp4",
+        "sha256": "8070138d955f4b4f60b7052563dc236f9ba34fd9adbeeaf66734be0115c9b43a"
+      },
+      "midia": {
+        "asset": "reel-8070138d95-Babilonia-03---Comeu-os-filhos-do-ouro.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-8070138d95-Babilonia-03---Comeu-os-filhos-do-ouro.mp4",
+        "sha256": "8070138d955f4b4f60b7052563dc236f9ba34fd9adbeeaf66734be0115c9b43a",
+        "tamanho_bytes": 8047870
+      },
+      "instagram": {
+        "legenda": "Arkad guardou dinheiro, investiu e ganhou juros, só que torrou tudo numa festa. No livro O Homem Mais Rico da Babilônia, o mestre dele avisa: você comeu os filhos do seu ouro. Os juros são os filhos do dinheiro, e se você gasta eles, nunca vão trabalhar pra você. Rendimento bom é aquele que volta a render.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Arkad guardou dinheiro, investiu e ganhou juros, só que torrou tudo numa festa. No livro O Homem Mais Rico da Babilônia, o mestre dele avisa: você comeu os filhos do seu ouro. Os juros são os filhos do dinheiro, e se você gasta eles, nunca vão trabalhar pra você. Rendimento bom é aquele que volta a render.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20260928-1900-584c1759cc",
+      "data": "2026-09-28",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 03 - A raiz e o fruto.mp4",
+        "sha256": "584c1759ccc933c9e6834cb60d7ccb64a9a91ef887712584d2298a62de5edfa1"
+      },
+      "midia": {
+        "asset": "reel-584c1759cc-Mente-Milionaria-03---A-raiz-e-o-fruto.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-584c1759cc-Mente-Milionaria-03---A-raiz-e-o-fruto.mp4",
+        "sha256": "584c1759ccc933c9e6834cb60d7ccb64a9a91ef887712584d2298a62de5edfa1",
+        "tamanho_bytes": 8735116
+      },
+      "instagram": {
+        "legenda": "Trabalhar mais não vai te deixar rico. Os resultados que você tem com dinheiro são o fruto, e quem cria o fruto é a raiz: o que você pensa sobre dinheiro. É isso que o livro Os Segredos da Mente Milionária ensina. Quer mudar o fruto? Muda a raiz.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Trabalhar mais não vai te deixar rico. Os resultados que você tem com dinheiro são o fruto, e quem cria o fruto é a raiz: o que você pensa sobre dinheiro. É isso que o livro Os Segredos da Mente Milionária ensina. Quer mudar o fruto? Muda a raiz.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20260929-1100-b39334d2ee",
+      "data": "2026-09-29",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 04 - Voce paga todo mundo.mp4",
+        "sha256": "b39334d2eeb0b990b86d63322afc55c0686e165c8b5ad75f2c96aedf4feb80c0"
+      },
+      "midia": {
+        "asset": "reel-b39334d2ee-Babilonia-04---Voce-paga-todo-mundo.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-b39334d2ee-Babilonia-04---Voce-paga-todo-mundo.mp4",
+        "sha256": "b39334d2eeb0b990b86d63322afc55c0686e165c8b5ad75f2c96aedf4feb80c0",
+        "tamanho_bytes": 6003436
+      },
+      "instagram": {
+        "legenda": "Você paga aluguel, mercado, cartão, e sempre esquece de pagar uma pessoa: você mesmo. No livro O Homem Mais Rico da Babilônia, Arkad aprende que uma parte de tudo que você ganha, pelo menos dez por cento, é sua pra guardar, antes de qualquer conta. Você tem que ser a primeira conta do mês, não a última.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Você paga aluguel, mercado, cartão, e sempre esquece de pagar uma pessoa: você mesmo. No livro O Homem Mais Rico da Babilônia, Arkad aprende que uma parte de tudo que você ganha, pelo menos dez por cento, é sua pra guardar, antes de qualquer conta. Você tem que ser a primeira conta do mês, não a última.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20260929-1900-287885c7b1",
+      "data": "2026-09-29",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 04 - 7 dias sem reclamar.mp4",
+        "sha256": "287885c7b1b76cc19dae4664ec7257a7d8678d50ada22403661dc3234c2b8324"
+      },
+      "midia": {
+        "asset": "reel-287885c7b1-Mente-Milionaria-04---7-dias-sem-reclamar.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-287885c7b1-Mente-Milionaria-04---7-dias-sem-reclamar.mp4",
+        "sha256": "287885c7b1b76cc19dae4664ec7257a7d8678d50ada22403661dc3234c2b8324",
+        "tamanho_bytes": 8984752
+      },
+      "instagram": {
+        "legenda": "Tenta ficar sete dias sem reclamar de nada, você vai se assustar. Esse é um desafio do livro Os Segredos da Mente Milionária, porque reclamar funciona como um ímã que atrai mais coisa ruim. Toda vez que vier uma reclamação, troca por uma pergunta: o que eu posso fazer pra resolver isso?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Tenta ficar sete dias sem reclamar de nada, você vai se assustar. Esse é um desafio do livro Os Segredos da Mente Milionária, porque reclamar funciona como um ímã que atrai mais coisa ruim. Toda vez que vier uma reclamação, troca por uma pergunta: o que eu posso fazer pra resolver isso?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20260930-1100-4a34d274a2",
+      "data": "2026-09-30",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 05 - As joias de vidro.mp4",
+        "sha256": "4a34d274a219df00d08eb1719371089f716e69715ffeed49f92f10903d6c8e48"
+      },
+      "midia": {
+        "asset": "reel-4a34d274a2-Babilonia-05---As-joias-de-vidro.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-4a34d274a2-Babilonia-05---As-joias-de-vidro.mp4",
+        "sha256": "4a34d274a219df00d08eb1719371089f716e69715ffeed49f92f10903d6c8e48",
+        "tamanho_bytes": 8015519
+      },
+      "instagram": {
+        "legenda": "Ele juntou dinheiro por um ano e perdeu tudo numa viagem. No livro O Homem Mais Rico da Babilônia, Arkad confia as economias a um fabricante de tijolos que ia comprar joias pra revender, e volta só com pedaços de vidro. A lição: se quer investir, pergunta pra quem realmente entende do assunto, nunca pro achismo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Ele juntou dinheiro por um ano e perdeu tudo numa viagem. No livro O Homem Mais Rico da Babilônia, Arkad confia as economias a um fabricante de tijolos que ia comprar joias pra revender, e volta só com pedaços de vidro. A lição: se quer investir, pergunta pra quem realmente entende do assunto, nunca pro achismo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20260930-1900-bf05e1b0e6",
+      "data": "2026-09-30",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 05 - Jogar pra ganhar.mp4",
+        "sha256": "bf05e1b0e6bbd279518d56d76e6019cd701228cb5c6bb6a5257c7b28c473ac66"
+      },
+      "midia": {
+        "asset": "reel-bf05e1b0e6-Mente-Milionaria-05---Jogar-pra-ganhar.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-bf05e1b0e6-Mente-Milionaria-05---Jogar-pra-ganhar.mp4",
+        "sha256": "bf05e1b0e6bbd279518d56d76e6019cd701228cb5c6bb6a5257c7b28c473ac66",
+        "tamanho_bytes": 9167028
+      },
+      "instagram": {
+        "legenda": "Quem mira só em pagar as contas do mês é exatamente aí que chega. O livro Os Segredos da Mente Milionária chama isso de jogar pra não perder, enquanto quem enriquece joga pra ganhar e mira alto. Mesmo errando no caminho, quem mira alto termina acima de quem mirou baixo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Quem mira só em pagar as contas do mês é exatamente aí que chega. O livro Os Segredos da Mente Milionária chama isso de jogar pra não perder, enquanto quem enriquece joga pra ganhar e mira alto. Mesmo errando no caminho, quem mira alto termina acima de quem mirou baixo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261001-1100-9e948b4103",
+      "data": "2026-10-01",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 06 - Emprestar pra parente.mp4",
+        "sha256": "9e948b4103974ce6834ca98e41f2479cf27d99ac10cf041cd0dbee1df85704e9"
+      },
+      "midia": {
+        "asset": "reel-9e948b4103-Babilonia-06---Emprestar-pra-parente.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-9e948b4103-Babilonia-06---Emprestar-pra-parente.mp4",
+        "sha256": "9e948b4103974ce6834ca98e41f2479cf27d99ac10cf041cd0dbee1df85704e9",
+        "tamanho_bytes": 8691131
+      },
+      "instagram": {
+        "legenda": "Seu parente já pediu dinheiro emprestado pra abrir um negócio? No livro O Homem Mais Rico da Babilônia, um emprestador de ouro dá um conselho de cem anos: antes de emprestar, veja se existe um jeito seguro de o dinheiro voltar. Quer ajudar a família? Ótimo, mas procure outro jeito que não seja arriscar o que você levou anos pra juntar.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Seu parente já pediu dinheiro emprestado pra abrir um negócio? No livro O Homem Mais Rico da Babilônia, um emprestador de ouro dá um conselho de cem anos: antes de emprestar, veja se existe um jeito seguro de o dinheiro voltar. Quer ajudar a família? Ótimo, mas procure outro jeito que não seja arriscar o que você levou anos pra juntar.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261001-1900-878894e173",
+      "data": "2026-10-01",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 06 - Querer x se comprometer.mp4",
+        "sha256": "878894e173065edca6abdcf5e7ee87d0cbe6156566f4d6e1a975f09d7d8a9d68"
+      },
+      "midia": {
+        "asset": "reel-878894e173-Mente-Milionaria-06---Querer-x-se-comprometer.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-878894e173-Mente-Milionaria-06---Querer-x-se-comprometer.mp4",
+        "sha256": "878894e173065edca6abdcf5e7ee87d0cbe6156566f4d6e1a975f09d7d8a9d68",
+        "tamanho_bytes": 8027571
+      },
+      "instagram": {
+        "legenda": "Todo mundo quer ser rico, mas quase ninguém se compromete de verdade. O livro Os Segredos da Mente Milionária mostra a diferença: quem só quer age no dia de sol, quem se compromete continua guardando e estudando até no mês apertado. Querer não custa nada, por isso não entrega nada.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Todo mundo quer ser rico, mas quase ninguém se compromete de verdade. O livro Os Segredos da Mente Milionária mostra a diferença: quem só quer age no dia de sol, quem se compromete continua guardando e estudando até no mês apertado. Querer não custa nada, por isso não entrega nada.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261002-1100-529e0f2348",
+      "data": "2026-10-02",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 07 - Ganhou mais gastou mais.mp4",
+        "sha256": "529e0f2348b01cc84fbda475657c65d66c93f167a890cb554bb4c6263f16f786"
+      },
+      "midia": {
+        "asset": "reel-529e0f2348-Babilonia-07---Ganhou-mais-gastou-mais.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-529e0f2348-Babilonia-07---Ganhou-mais-gastou-mais.mp4",
+        "sha256": "529e0f2348b01cc84fbda475657c65d66c93f167a890cb554bb4c6263f16f786",
+        "tamanho_bytes": 7143135
+      },
+      "instagram": {
+        "legenda": "Ganhou aumento e continua sem sobrar nada no fim do mês? O livro O Homem Mais Rico da Babilônia explica que o gasto cresce do tamanho do salário, e muita coisa que a gente chama de necessidade é só vontade. A dica é escrever tudo o que você gasta e perguntar, item por item: isso é necessidade ou vontade? Sem controlar, nunca sobra, nem ganhando o dobro.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Ganhou aumento e continua sem sobrar nada no fim do mês? O livro O Homem Mais Rico da Babilônia explica que o gasto cresce do tamanho do salário, e muita coisa que a gente chama de necessidade é só vontade. A dica é escrever tudo o que você gasta e perguntar, item por item: isso é necessidade ou vontade? Sem controlar, nunca sobra, nem ganhando o dobro.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261002-1900-83f32673a2",
+      "data": "2026-10-02",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 08 - Moeda funcionaria.mp4",
+        "sha256": "83f32673a2dc1af4d9a8ae44e67756c69f0b4bb93191d3d2767802f948bfee90"
+      },
+      "midia": {
+        "asset": "reel-83f32673a2-Babilonia-08---Moeda-funcionaria.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-83f32673a2-Babilonia-08---Moeda-funcionaria.mp4",
+        "sha256": "83f32673a2dc1af4d9a8ae44e67756c69f0b4bb93191d3d2767802f948bfee90",
+        "tamanho_bytes": 7350321
+      },
+      "instagram": {
+        "legenda": "Cada moeda que você guarda pode virar uma funcionária sua. É a terceira regra do livro O Homem Mais Rico da Babilônia: faça o seu dinheiro trabalhar. Dinheiro parado não cresce, mas dinheiro trabalhando traz outras moedas junto, e elas também começam a trabalhar. A pergunta é: quantas funcionárias você tem hoje, e quantas estão só paradas esperando?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Cada moeda que você guarda pode virar uma funcionária sua. É a terceira regra do livro O Homem Mais Rico da Babilônia: faça o seu dinheiro trabalhar. Dinheiro parado não cresce, mas dinheiro trabalhando traz outras moedas junto, e elas também começam a trabalhar. A pergunta é: quantas funcionárias você tem hoje, e quantas estão só paradas esperando?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261003-1100-b37f778daa",
+      "data": "2026-10-03",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 09 - Lucro facil e armadilha.mp4",
+        "sha256": "b37f778daae9135e6e048180bdd8e3bba97f9b5ed1ca29f17d5d04c3b1412353"
+      },
+      "midia": {
+        "asset": "reel-b37f778daa-Babilonia-09---Lucro-facil-e-armadilha.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-b37f778daa-Babilonia-09---Lucro-facil-e-armadilha.mp4",
+        "sha256": "b37f778daae9135e6e048180bdd8e3bba97f9b5ed1ca29f17d5d04c3b1412353",
+        "tamanho_bytes": 7756450
+      },
+      "instagram": {
+        "legenda": "Já te prometeram lucro fácil e rápido? Presta atenção. O livro O Homem Mais Rico da Babilônia ensina a proteger o seu dinheiro de perdas antes de pensar em ganhar muito, porque perder é fácil e recuperar é difícil. Promessa de lucro fácil, quase sempre, é armadilha. Devagar e sempre ganha de rápido e quebrado.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Já te prometeram lucro fácil e rápido? Presta atenção. O livro O Homem Mais Rico da Babilônia ensina a proteger o seu dinheiro de perdas antes de pensar em ganhar muito, porque perder é fácil e recuperar é difícil. Promessa de lucro fácil, quase sempre, é armadilha. Devagar e sempre ganha de rápido e quebrado.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261003-1900-3176aa6419",
+      "data": "2026-10-03",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 10 - Tijolo e moeda forte.mp4",
+        "sha256": "3176aa6419168a569af3df19cc1de7e0fc22eb1c8d7d7c1285ca21492a5eb5a5"
+      },
+      "midia": {
+        "asset": "reel-3176aa6419-Babilonia-10---Tijolo-e-moeda-forte.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-3176aa6419-Babilonia-10---Tijolo-e-moeda-forte.mp4",
+        "sha256": "3176aa6419168a569af3df19cc1de7e0fc22eb1c8d7d7c1285ca21492a5eb5a5",
+        "tamanho_bytes": 9638766
+      },
+      "instagram": {
+        "legenda": "Pagar aluguel a vida inteira é pagar a casa de outra pessoa. A quinta regra do livro O Homem Mais Rico da Babilônia ensina a fazer da sua casa um investimento: o dinheiro que ia embora todo mês vai virando patrimônio, e no fim das contas a casa é sua.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Pagar aluguel a vida inteira é pagar a casa de outra pessoa. A quinta regra do livro O Homem Mais Rico da Babilônia ensina a fazer da sua casa um investimento: o dinheiro que ia embora todo mês vai virando patrimônio, e no fim das contas a casa é sua.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261004-1100-d023db0375",
+      "data": "2026-10-04",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 11 - Quem paga suas contas no futuro.mp4",
+        "sha256": "d023db03752cc95763f1ae9976068e347756ad78e9441b34896ffb8b0e470934"
+      },
+      "midia": {
+        "asset": "reel-d023db0375-Babilonia-11---Quem-paga-suas-contas-no-futuro.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-d023db0375-Babilonia-11---Quem-paga-suas-contas-no-futuro.mp4",
+        "sha256": "d023db03752cc95763f1ae9976068e347756ad78e9441b34896ffb8b0e470934",
+        "tamanho_bytes": 7733206
+      },
+      "instagram": {
+        "legenda": "Um dia você vai parar de trabalhar. Quem paga as suas contas depois disso? A sexta regra do livro O Homem Mais Rico da Babilônia manda garantir renda pro futuro desde hoje, guardando um pouco todo mês e deixando esse dinheiro trabalhar por muitos anos. Quanto antes começa, menos precisa guardar por mês.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Um dia você vai parar de trabalhar. Quem paga as suas contas depois disso? A sexta regra do livro O Homem Mais Rico da Babilônia manda garantir renda pro futuro desde hoje, guardando um pouco todo mês e deixando esse dinheiro trabalhar por muitos anos. Quanto antes começa, menos precisa guardar por mês.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261004-1900-44b6d90d01",
+      "data": "2026-10-04",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 12 - Sabe mais ganha mais.mp4",
+        "sha256": "44b6d90d012db06bd8cd8bb30da58edbc1aec2eb394010fa488d391645a048a0"
+      },
+      "midia": {
+        "asset": "reel-44b6d90d01-Babilonia-12---Sabe-mais-ganha-mais.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-44b6d90d01-Babilonia-12---Sabe-mais-ganha-mais.mp4",
+        "sha256": "44b6d90d012db06bd8cd8bb30da58edbc1aec2eb394010fa488d391645a048a0",
+        "tamanho_bytes": 7462078
+      },
+      "instagram": {
+        "legenda": "Quer ganhar mais? Esse livro não manda pedir aumento. A sétima regra do livro O Homem Mais Rico da Babilônia é aumentar a sua capacidade de ganhar: quanto mais você sabe, melhor você faz, e quem faz melhor vale mais. Pedir aumento depende do chefe, aprender depende só de você.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Quer ganhar mais? Esse livro não manda pedir aumento. A sétima regra do livro O Homem Mais Rico da Babilônia é aumentar a sua capacidade de ganhar: quanto mais você sabe, melhor você faz, e quem faz melhor vale mais. Pedir aumento depende do chefe, aprender depende só de você.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261005-1100-d10f5c49d1",
+      "data": "2026-10-05",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 13 - O plano do Dabasir.mp4",
+        "sha256": "d10f5c49d12a159ffbc55a6c98439cc20daf3daa2d0b92a3a93665f345b7beb1"
+      },
+      "midia": {
+        "asset": "reel-d10f5c49d1-Babilonia-13---O-plano-do-Dabasir.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-d10f5c49d1-Babilonia-13---O-plano-do-Dabasir.mp4",
+        "sha256": "d10f5c49d12a159ffbc55a6c98439cc20daf3daa2d0b92a3a93665f345b7beb1",
+        "tamanho_bytes": 8467686
+      },
+      "instagram": {
+        "legenda": "Afundado em dívidas, Dabasir virou escravo e saiu do buraco com um plano, no livro O Homem Mais Rico da Babilônia. Dez por cento pra guardar, vinte por cento pra pagar as dívidas e setenta por cento pra viver, tudo ao mesmo tempo, com disciplina. Assim ele pagou cada credor, um por um.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Afundado em dívidas, Dabasir virou escravo e saiu do buraco com um plano, no livro O Homem Mais Rico da Babilônia. Dez por cento pra guardar, vinte por cento pra pagar as dívidas e setenta por cento pra viver, tudo ao mesmo tempo, com disciplina. Assim ele pagou cada credor, um por um.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261005-1900-e6f04b5e6b",
+      "data": "2026-10-05",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 14 - A sorte.mp4",
+        "sha256": "e6f04b5e6b57b2c6e9aebdd7d5fc492d749db5e8c391627f98cb49c29e98f545"
+      },
+      "midia": {
+        "asset": "reel-e6f04b5e6b-Babilonia-14---A-sorte.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-e6f04b5e6b-Babilonia-14---A-sorte.mp4",
+        "sha256": "e6f04b5e6b57b2c6e9aebdd7d5fc492d749db5e8c391627f98cb49c29e98f545",
+        "tamanho_bytes": 7574413
+      },
+      "instagram": {
+        "legenda": "A sorte não aparece pra quem fica esperando por ela. O livro O Homem Mais Rico da Babilônia tem um capítulo só sobre isso, e a conclusão é clara: a sorte gosta de quem age. A oportunidade aparece, quem age na hora entra, quem deixa pra depois perde. Muitas vezes não é falta de sorte, é falta de ação.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "A sorte não aparece pra quem fica esperando por ela. O livro O Homem Mais Rico da Babilônia tem um capítulo só sobre isso, e a conclusão é clara: a sorte gosta de quem age. A oportunidade aparece, quem age na hora entra, quem deixa pra depois perde. Muitas vezes não é falta de sorte, é falta de ação.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261006-1100-af21afe07b",
+      "data": "2026-10-06",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 15 - A conta dos 60 mil.mp4",
+        "sha256": "af21afe07b7f9413f2a3c20ab50374d9ce72cad2d5198882f81d47552a0189d3"
+      },
+      "midia": {
+        "asset": "reel-af21afe07b-Babilonia-15---A-conta-dos-60-mil.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-af21afe07b-Babilonia-15---A-conta-dos-60-mil.mp4",
+        "sha256": "af21afe07b7f9413f2a3c20ab50374d9ce72cad2d5198882f81d47552a0189d3",
+        "tamanho_bytes": 6473960
+      },
+      "instagram": {
+        "legenda": "Guardando dez por cento de cinco mil reais por mês, quanto você tem em dez anos? Faz a conta: são sessenta mil reais, e olha que nem contei rendimento nenhum. Essa é a primeira regra do livro O Homem Mais Rico da Babilônia, de cada dez moedas que entram, uma fica guardada. Agora imagina esse dinheiro trabalhando pra você.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Guardando dez por cento de cinco mil reais por mês, quanto você tem em dez anos? Faz a conta: são sessenta mil reais, e olha que nem contei rendimento nenhum. Essa é a primeira regra do livro O Homem Mais Rico da Babilônia, de cada dez moedas que entram, uma fica guardada. Agora imagina esse dinheiro trabalhando pra você.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261006-1900-dfa6aaeded",
+      "data": "2026-10-06",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 16 - A maioria nunca comeca.mp4",
+        "sha256": "dfa6aaededff9c460ed0122d88ac9b7644b1952b3ff46f633c6af9760d65678c"
+      },
+      "midia": {
+        "asset": "reel-dfa6aaeded-Babilonia-16---A-maioria-nunca-comeca.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-dfa6aaeded-Babilonia-16---A-maioria-nunca-comeca.mp4",
+        "sha256": "dfa6aaededff9c460ed0122d88ac9b7644b1952b3ff46f633c6af9760d65678c",
+        "tamanho_bytes": 7764095
+      },
+      "instagram": {
+        "legenda": "Esperar ganhar mais pra começar a guardar é armadilha, porque quando o salário sobe, o gasto sobe junto e a sobra nunca aparece. No livro O Homem Mais Rico da Babilônia, Arkad ganhava pouco como escrivão e começou a guardar mesmo assim, sem esperar a vida melhorar. Quem espera sobrar nunca vê sobrar: o hábito vale mais que o valor.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Esperar ganhar mais pra começar a guardar é armadilha, porque quando o salário sobe, o gasto sobe junto e a sobra nunca aparece. No livro O Homem Mais Rico da Babilônia, Arkad ganhava pouco como escrivão e começou a guardar mesmo assim, sem esperar a vida melhorar. Quem espera sobrar nunca vê sobrar: o hábito vale mais que o valor.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261007-1100-1841d6b7d7",
+      "data": "2026-10-07",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 17 - As 5 leis do ouro.mp4",
+        "sha256": "1841d6b7d76e64b8c24fc613596b697faa08a5f918347a560ad30c49bf038ebc"
+      },
+      "midia": {
+        "asset": "reel-1841d6b7d7-Babilonia-17---As-5-leis-do-ouro.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-1841d6b7d7-Babilonia-17---As-5-leis-do-ouro.mp4",
+        "sha256": "1841d6b7d76e64b8c24fc613596b697faa08a5f918347a560ad30c49bf038ebc",
+        "tamanho_bytes": 8136337
+      },
+      "instagram": {
+        "legenda": "Cinco leis do dinheiro de cem anos atrás que ainda valem hoje, do livro O Homem Mais Rico da Babilônia. O dinheiro vem pra quem guarda pelo menos um décimo do que ganha, trabalha pra quem acha um uso que dá lucro e fica com quem investe com conselho de quem entende. Mas ele foge de quem investe no que não entende e de quem busca lucro impossível. O dinheiro não some por azar, ele foge de quem não sabe onde tá colocando.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Cinco leis do dinheiro de cem anos atrás que ainda valem hoje, do livro O Homem Mais Rico da Babilônia. O dinheiro vem pra quem guarda pelo menos um décimo do que ganha, trabalha pra quem acha um uso que dá lucro e fica com quem investe com conselho de quem entende. Mas ele foge de quem investe no que não entende e de quem busca lucro impossível. O dinheiro não some por azar, ele foge de quem não sabe onde tá colocando.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261007-1900-c4fd1e17fb",
+      "data": "2026-10-07",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 18 - O escravo que gostava de trabalhar.mp4",
+        "sha256": "c4fd1e17fb864d5f94f3371dcc0130b7e027286241b1025bb0e3e80a2e6ecdce"
+      },
+      "midia": {
+        "asset": "reel-c4fd1e17fb-Babilonia-18---O-escravo-que-gostava-de-trabalhar.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-c4fd1e17fb-Babilonia-18---O-escravo-que-gostava-de-trabalhar.mp4",
+        "sha256": "c4fd1e17fb864d5f94f3371dcc0130b7e027286241b1025bb0e3e80a2e6ecdce",
+        "tamanho_bytes": 9054738
+      },
+      "instagram": {
+        "legenda": "Um escravo mudou de vida com o que quase todo mundo odeia: o trabalho. No livro O Homem Mais Rico da Babilônia, ele aprende a fazer do trabalho o seu amigo, aprende a fazer bolo de mel e sai vendendo pelas ruas, juntando moeda por moeda. O jeito dele trabalhar conquistou um cliente, que um dia comprou a liberdade dele.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Um escravo mudou de vida com o que quase todo mundo odeia: o trabalho. No livro O Homem Mais Rico da Babilônia, ele aprende a fazer do trabalho o seu amigo, aprende a fazer bolo de mel e sai vendendo pelas ruas, juntando moeda por moeda. O jeito dele trabalhar conquistou um cliente, que um dia comprou a liberdade dele.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261008-1100-3dcde8de7b",
+      "data": "2026-10-08",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 19 - Desejo definido.mp4",
+        "sha256": "3dcde8de7bd2da4c48f803e66ba7329d6ed6f4862f7bae4054e023a0e8aa9553"
+      },
+      "midia": {
+        "asset": "reel-3dcde8de7b-Babilonia-19---Desejo-definido.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-3dcde8de7b-Babilonia-19---Desejo-definido.mp4",
+        "sha256": "3dcde8de7bd2da4c48f803e66ba7329d6ed6f4862f7bae4054e023a0e8aa9553",
+        "tamanho_bytes": 6522542
+      },
+      "instagram": {
+        "legenda": "Só querer ficar rico não serve pra nada. No livro O Homem Mais Rico da Babilônia, Arkad ensina que o desejo precisa ser simples e ter número: primeiro juntar cinco moedas de ouro, depois dez, depois vinte, cada meta pequena te treina pra próxima. Troca o quero ficar rico por um número. Qual é o seu primeiro?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Só querer ficar rico não serve pra nada. No livro O Homem Mais Rico da Babilônia, Arkad ensina que o desejo precisa ser simples e ter número: primeiro juntar cinco moedas de ouro, depois dez, depois vinte, cada meta pequena te treina pra próxima. Troca o quero ficar rico por um número. Qual é o seu primeiro?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261008-1900-21c4958932",
+      "data": "2026-10-08",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 20 - Nao e ficar rico rapido.mp4",
+        "sha256": "21c4958932ef2fda741b60b7e1a573432f1804aa0c1ff4ada1d8f275bad054f6"
+      },
+      "midia": {
+        "asset": "reel-21c4958932-Babilonia-20---Nao-e-ficar-rico-rapido.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-21c4958932-Babilonia-20---Nao-e-ficar-rico-rapido.mp4",
+        "sha256": "21c4958932ef2fda741b60b7e1a573432f1804aa0c1ff4ada1d8f275bad054f6",
+        "tamanho_bytes": 8305204
+      },
+      "instagram": {
+        "legenda": "Esse livro não ensina a ficar rico rápido, ensina uma coisa melhor. O Homem Mais Rico da Babilônia tem cem anos e continua vendendo porque a receita nunca mudou: se paga primeiro, controla os gastos, pede conselho pra quem entende, protege o que juntou e deixa o dinheiro trabalhar. Pode demorar mais, mas chega e fica. Rico rápido é promessa, rico devagar é método.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Esse livro não ensina a ficar rico rápido, ensina uma coisa melhor. O Homem Mais Rico da Babilônia tem cem anos e continua vendendo porque a receita nunca mudou: se paga primeiro, controla os gastos, pede conselho pra quem entende, protege o que juntou e deixa o dinheiro trabalhar. Pode demorar mais, mas chega e fica. Rico rápido é promessa, rico devagar é método.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
+        "status": "pendente"
+      }
+    }
+  ]
 }
