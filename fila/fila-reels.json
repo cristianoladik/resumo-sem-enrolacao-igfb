@@ -36,7 +36,7 @@
       "id": "reel-20260927-1900-171fb34342",
       "data": "2026-09-27",
       "horario": "19:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 02 - Frases de infancia.mp4",
         "sha256": "171fb34342fe5fcf2dcd266c1aeb6317e95f692eebb41693384ade308f904e54"
@@ -49,12 +49,17 @@
       },
       "instagram": {
         "legenda": "Uma frase que você ouviu quando criança pode estar te deixando pobre até hoje.\n\n\"Dinheiro não dá em árvore\", \"rico é tudo ladrão\": frases assim programam a cabeça, segundo o livro Os Segredos da Mente Milionária.\n\nNão é culpa sua ter ouvido isso, mas mudar é responsabilidade sua.\n\nComenta aqui qual frase sobre dinheiro você mais ouviu em casa.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18111345632162650",
+        "publicado_em": "2026-09-27T19:17:37.340241-03:00"
       },
       "facebook": {
         "legenda": "Uma frase que você ouviu quando criança pode estar te deixando pobre até hoje.\n\n\"Dinheiro não dá em árvore\", \"rico é tudo ladrão\": frases assim programam a cabeça, segundo o livro Os Segredos da Mente Milionária.\n\nNão é culpa sua ter ouvido isso, mas mudar é responsabilidade sua.\n\nComenta aqui qual frase sobre dinheiro você mais ouviu em casa.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "28823959403895623",
+        "publicado_em": "2026-09-27T19:17:48.364933-03:00"
+      },
+      "concluido_em": "2026-09-27T19:17:48.365968-03:00"
     },
     {
       "id": "reel-20260928-1100-8070138d95",
