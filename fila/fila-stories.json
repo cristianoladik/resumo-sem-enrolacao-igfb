@@ -12,7 +12,7 @@
       "id": "story-20260927-395fee283c",
       "data": "2026-09-27",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 01 - As muralhas da Babilonia.mp4",
         "sha256": "395fee283c449e798fb554e88cbbe8899998087c6ed964c9de75ab572c908c72",
@@ -22,7 +22,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-395fee283c-Babilonia-01---As-muralhas-da-Babilonia.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-395fee283c-Babilonia-01---As-muralhas-da-Babilonia.mp4",
@@ -31,13 +31,30 @@
             "duracao_segundos": 27.7
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18124624408853423",
+            "publish_iniciado_em": "2026-09-27T15:14:37-03:00",
+            "id": "17915205303259709",
+            "publicado_em": "2026-09-27T15:14:44-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2824928564546714",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-09-27T15:14:53-03:00",
+            "post_id_candidato": "1756918278907653",
+            "finish_em": "2026-09-27T15:14:56-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjE3NTY5MTgyODIyNDA5ODY=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1756918278907653",
+            "publicado_em": "2026-09-27T15:15:33-03:00"
+          },
+          "concluido_em": "2026-09-27T15:15:33-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-09-27T15:15:33-03:00"
     },
     {
       "id": "story-20260928-d897d336ce",
