@@ -2,11 +2,17 @@ name: Verificar fila e publicar Reels — Instagram e Facebook
 
 on:
   schedule:
-    # Reels saem às 11:00 e 19:00 (Brasília) = 14:00 e 22:00 UTC. A rodada do
-    # minuto 0 dessas horas tenta no horário exato; as rodadas de meia em meia
-    # hora recuperam qualquer atraso em ordem cronológica.
-    - cron: "0 14,22 * * *"
-    - cron: "7,37 * * * *"
+    # Prioridade do Reel matinal no horário exato; Stories são verificados às 09:10.
+    - cron: "0 12 * * *"
+    # Verifica a fila a cada 10 minutos, fora do minuto 0 (mais congestionado no
+    # GitHub Actions). O publicador ignora itens futuros e recupera todos os itens
+    # vencidos em ordem cronológica, até o limite de segurança por execução.
+    - cron: "7,17,27,37,47,57 0-5,7-11,13-23 * * *"
+    # Às 09h BRT, uma segunda tentativa curta às 09:07 recupera eventual atraso;
+    # depois disso a janela fica livre para o pacote diário de Stories.
+    - cron: "7 12 * * *"
+    # Mantém livre a janela 03:15–03:50 BRT para o escritor local das filas.
+    - cron: "7,57 6 * * *"
   workflow_dispatch:
     inputs:
       data_publicacao:

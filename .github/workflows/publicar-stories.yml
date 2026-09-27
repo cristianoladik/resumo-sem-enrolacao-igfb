@@ -7,7 +7,8 @@ on:
     # as rodadas horárias seguintes recuperam atrasos sem despejar backlog.
     # O Actions pode iniciar depois do minuto previsto, por isso o Summary grava
     # separadamente o horário agendado e a confirmação efetiva da Meta.
-    - cron: "10 * * * *"
+    - cron: "10 0-5,7-23 * * *"
+    # A hora 06 UTC fica livre para a sincronização local das 03:15 BRT.
   workflow_dispatch:
     inputs:
       data_publicacao:
