@@ -28,7 +28,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-395fee283c-Babilonia-01---As-muralhas-da-Babilonia.mp4",
             "sha256": "395fee283c449e798fb554e88cbbe8899998087c6ed964c9de75ab572c908c72",
             "tamanho_bytes": 8520279,
-            "duracao_segundos": 27.7
+            "duracao_segundos": 27.7,
+            "removido_da_release_em": "2026-09-27T15:15:35.587687-03:00"
           },
           "instagram": {
             "status": "publicado",
