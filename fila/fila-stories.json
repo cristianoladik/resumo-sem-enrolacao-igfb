@@ -87,6 +87,998 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20260929-7fc1ed1d54",
+      "data": "2026-09-29",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 01 - Termostato do dinheiro.mp4",
+        "sha256": "7fc1ed1d54ec5e99e9918c5f0b2f38a34f262b8835b7e94992831480f01d4e1b",
+        "pacote": "Mente Milionaria 01 - Termostato do dinheiro",
+        "pacote_id": "story-7fc1ed1d54ec"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-7fc1ed1d54-Mente-Milionaria-01---Termostato-do-dinheiro.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-7fc1ed1d54-Mente-Milionaria-01---Termostato-do-dinheiro.mp4",
+            "sha256": "7fc1ed1d54ec5e99e9918c5f0b2f38a34f262b8835b7e94992831480f01d4e1b",
+            "tamanho_bytes": 7763534,
+            "duracao_segundos": 33.1
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260930-171fb34342",
+      "data": "2026-09-30",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 02 - Frases de infancia.mp4",
+        "sha256": "171fb34342fe5fcf2dcd266c1aeb6317e95f692eebb41693384ade308f904e54",
+        "pacote": "Mente Milionaria 02 - Frases de infancia",
+        "pacote_id": "story-171fb34342fe"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-171fb34342-Mente-Milionaria-02---Frases-de-infancia.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-171fb34342-Mente-Milionaria-02---Frases-de-infancia.mp4",
+            "sha256": "171fb34342fe5fcf2dcd266c1aeb6317e95f692eebb41693384ade308f904e54",
+            "tamanho_bytes": 8082134,
+            "duracao_segundos": 31.5
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261001-8070138d95",
+      "data": "2026-10-01",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 03 - Comeu os filhos do ouro.mp4",
+        "sha256": "8070138d955f4b4f60b7052563dc236f9ba34fd9adbeeaf66734be0115c9b43a",
+        "pacote": "Babilonia 03 - Comeu os filhos do ouro",
+        "pacote_id": "story-8070138d955f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-8070138d95-Babilonia-03---Comeu-os-filhos-do-ouro.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-8070138d95-Babilonia-03---Comeu-os-filhos-do-ouro.mp4",
+            "sha256": "8070138d955f4b4f60b7052563dc236f9ba34fd9adbeeaf66734be0115c9b43a",
+            "tamanho_bytes": 8047870,
+            "duracao_segundos": 28.733
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261002-584c1759cc",
+      "data": "2026-10-02",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 03 - A raiz e o fruto.mp4",
+        "sha256": "584c1759ccc933c9e6834cb60d7ccb64a9a91ef887712584d2298a62de5edfa1",
+        "pacote": "Mente Milionaria 03 - A raiz e o fruto",
+        "pacote_id": "story-584c1759ccc9"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-584c1759cc-Mente-Milionaria-03---A-raiz-e-o-fruto.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-584c1759cc-Mente-Milionaria-03---A-raiz-e-o-fruto.mp4",
+            "sha256": "584c1759ccc933c9e6834cb60d7ccb64a9a91ef887712584d2298a62de5edfa1",
+            "tamanho_bytes": 8735116,
+            "duracao_segundos": 31.033
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261003-b39334d2ee",
+      "data": "2026-10-03",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 04 - Voce paga todo mundo.mp4",
+        "sha256": "b39334d2eeb0b990b86d63322afc55c0686e165c8b5ad75f2c96aedf4feb80c0",
+        "pacote": "Babilonia 04 - Voce paga todo mundo",
+        "pacote_id": "story-b39334d2eeb0"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-b39334d2ee-Babilonia-04---Voce-paga-todo-mundo.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-b39334d2ee-Babilonia-04---Voce-paga-todo-mundo.mp4",
+            "sha256": "b39334d2eeb0b990b86d63322afc55c0686e165c8b5ad75f2c96aedf4feb80c0",
+            "tamanho_bytes": 6003436,
+            "duracao_segundos": 27.6
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261004-287885c7b1",
+      "data": "2026-10-04",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 04 - 7 dias sem reclamar.mp4",
+        "sha256": "287885c7b1b76cc19dae4664ec7257a7d8678d50ada22403661dc3234c2b8324",
+        "pacote": "Mente Milionaria 04 - 7 dias sem reclamar",
+        "pacote_id": "story-287885c7b1b7"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-287885c7b1-Mente-Milionaria-04---7-dias-sem-reclamar.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-287885c7b1-Mente-Milionaria-04---7-dias-sem-reclamar.mp4",
+            "sha256": "287885c7b1b76cc19dae4664ec7257a7d8678d50ada22403661dc3234c2b8324",
+            "tamanho_bytes": 8984752,
+            "duracao_segundos": 33.6
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261005-4a34d274a2",
+      "data": "2026-10-05",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 05 - As joias de vidro.mp4",
+        "sha256": "4a34d274a219df00d08eb1719371089f716e69715ffeed49f92f10903d6c8e48",
+        "pacote": "Babilonia 05 - As joias de vidro",
+        "pacote_id": "story-4a34d274a219"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-4a34d274a2-Babilonia-05---As-joias-de-vidro.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-4a34d274a2-Babilonia-05---As-joias-de-vidro.mp4",
+            "sha256": "4a34d274a219df00d08eb1719371089f716e69715ffeed49f92f10903d6c8e48",
+            "tamanho_bytes": 8015519,
+            "duracao_segundos": 29.633
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261006-bf05e1b0e6",
+      "data": "2026-10-06",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 05 - Jogar pra ganhar.mp4",
+        "sha256": "bf05e1b0e6bbd279518d56d76e6019cd701228cb5c6bb6a5257c7b28c473ac66",
+        "pacote": "Mente Milionaria 05 - Jogar pra ganhar",
+        "pacote_id": "story-bf05e1b0e6bb"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-bf05e1b0e6-Mente-Milionaria-05---Jogar-pra-ganhar.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-bf05e1b0e6-Mente-Milionaria-05---Jogar-pra-ganhar.mp4",
+            "sha256": "bf05e1b0e6bbd279518d56d76e6019cd701228cb5c6bb6a5257c7b28c473ac66",
+            "tamanho_bytes": 9167028,
+            "duracao_segundos": 35.633
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261007-9e948b4103",
+      "data": "2026-10-07",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 06 - Emprestar pra parente.mp4",
+        "sha256": "9e948b4103974ce6834ca98e41f2479cf27d99ac10cf041cd0dbee1df85704e9",
+        "pacote": "Babilonia 06 - Emprestar pra parente",
+        "pacote_id": "story-9e948b410397"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-9e948b4103-Babilonia-06---Emprestar-pra-parente.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-9e948b4103-Babilonia-06---Emprestar-pra-parente.mp4",
+            "sha256": "9e948b4103974ce6834ca98e41f2479cf27d99ac10cf041cd0dbee1df85704e9",
+            "tamanho_bytes": 8691131,
+            "duracao_segundos": 31.7
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261008-878894e173",
+      "data": "2026-10-08",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 06 - Querer x se comprometer.mp4",
+        "sha256": "878894e173065edca6abdcf5e7ee87d0cbe6156566f4d6e1a975f09d7d8a9d68",
+        "pacote": "Mente Milionaria 06 - Querer x se comprometer",
+        "pacote_id": "story-878894e17306"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-878894e173-Mente-Milionaria-06---Querer-x-se-comprometer.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-878894e173-Mente-Milionaria-06---Querer-x-se-comprometer.mp4",
+            "sha256": "878894e173065edca6abdcf5e7ee87d0cbe6156566f4d6e1a975f09d7d8a9d68",
+            "tamanho_bytes": 8027571,
+            "duracao_segundos": 28.1
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261009-529e0f2348",
+      "data": "2026-10-09",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 07 - Ganhou mais gastou mais.mp4",
+        "sha256": "529e0f2348b01cc84fbda475657c65d66c93f167a890cb554bb4c6263f16f786",
+        "pacote": "Babilonia 07 - Ganhou mais gastou mais",
+        "pacote_id": "story-529e0f2348b0"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-529e0f2348-Babilonia-07---Ganhou-mais-gastou-mais.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-529e0f2348-Babilonia-07---Ganhou-mais-gastou-mais.mp4",
+            "sha256": "529e0f2348b01cc84fbda475657c65d66c93f167a890cb554bb4c6263f16f786",
+            "tamanho_bytes": 7143135,
+            "duracao_segundos": 28.4
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261010-83f32673a2",
+      "data": "2026-10-10",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 08 - Moeda funcionaria.mp4",
+        "sha256": "83f32673a2dc1af4d9a8ae44e67756c69f0b4bb93191d3d2767802f948bfee90",
+        "pacote": "Babilonia 08 - Moeda funcionaria",
+        "pacote_id": "story-83f32673a2dc"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-83f32673a2-Babilonia-08---Moeda-funcionaria.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-83f32673a2-Babilonia-08---Moeda-funcionaria.mp4",
+            "sha256": "83f32673a2dc1af4d9a8ae44e67756c69f0b4bb93191d3d2767802f948bfee90",
+            "tamanho_bytes": 7350321,
+            "duracao_segundos": 30.133
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261011-b37f778daa",
+      "data": "2026-10-11",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 09 - Lucro facil e armadilha.mp4",
+        "sha256": "b37f778daae9135e6e048180bdd8e3bba97f9b5ed1ca29f17d5d04c3b1412353",
+        "pacote": "Babilonia 09 - Lucro facil e armadilha",
+        "pacote_id": "story-b37f778daae9"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-b37f778daa-Babilonia-09---Lucro-facil-e-armadilha.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-b37f778daa-Babilonia-09---Lucro-facil-e-armadilha.mp4",
+            "sha256": "b37f778daae9135e6e048180bdd8e3bba97f9b5ed1ca29f17d5d04c3b1412353",
+            "tamanho_bytes": 7756450,
+            "duracao_segundos": 29.6
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261012-3176aa6419",
+      "data": "2026-10-12",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 10 - Tijolo e moeda forte.mp4",
+        "sha256": "3176aa6419168a569af3df19cc1de7e0fc22eb1c8d7d7c1285ca21492a5eb5a5",
+        "pacote": "Babilonia 10 - Tijolo e moeda forte",
+        "pacote_id": "story-3176aa641916"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-3176aa6419-Babilonia-10---Tijolo-e-moeda-forte.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-3176aa6419-Babilonia-10---Tijolo-e-moeda-forte.mp4",
+            "sha256": "3176aa6419168a569af3df19cc1de7e0fc22eb1c8d7d7c1285ca21492a5eb5a5",
+            "tamanho_bytes": 9638766,
+            "duracao_segundos": 28.667
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261013-d023db0375",
+      "data": "2026-10-13",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 11 - Quem paga suas contas no futuro.mp4",
+        "sha256": "d023db03752cc95763f1ae9976068e347756ad78e9441b34896ffb8b0e470934",
+        "pacote": "Babilonia 11 - Quem paga suas contas no futuro",
+        "pacote_id": "story-d023db03752c"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-d023db0375-Babilonia-11---Quem-paga-suas-contas-no-futuro.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-d023db0375-Babilonia-11---Quem-paga-suas-contas-no-futuro.mp4",
+            "sha256": "d023db03752cc95763f1ae9976068e347756ad78e9441b34896ffb8b0e470934",
+            "tamanho_bytes": 7733206,
+            "duracao_segundos": 29.667
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261014-44b6d90d01",
+      "data": "2026-10-14",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 12 - Sabe mais ganha mais.mp4",
+        "sha256": "44b6d90d012db06bd8cd8bb30da58edbc1aec2eb394010fa488d391645a048a0",
+        "pacote": "Babilonia 12 - Sabe mais ganha mais",
+        "pacote_id": "story-44b6d90d012d"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-44b6d90d01-Babilonia-12---Sabe-mais-ganha-mais.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-44b6d90d01-Babilonia-12---Sabe-mais-ganha-mais.mp4",
+            "sha256": "44b6d90d012db06bd8cd8bb30da58edbc1aec2eb394010fa488d391645a048a0",
+            "tamanho_bytes": 7462078,
+            "duracao_segundos": 28.7
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261015-d10f5c49d1",
+      "data": "2026-10-15",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 13 - O plano do Dabasir.mp4",
+        "sha256": "d10f5c49d12a159ffbc55a6c98439cc20daf3daa2d0b92a3a93665f345b7beb1",
+        "pacote": "Babilonia 13 - O plano do Dabasir",
+        "pacote_id": "story-d10f5c49d12a"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-d10f5c49d1-Babilonia-13---O-plano-do-Dabasir.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-d10f5c49d1-Babilonia-13---O-plano-do-Dabasir.mp4",
+            "sha256": "d10f5c49d12a159ffbc55a6c98439cc20daf3daa2d0b92a3a93665f345b7beb1",
+            "tamanho_bytes": 8467686,
+            "duracao_segundos": 30.6
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261016-e6f04b5e6b",
+      "data": "2026-10-16",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 14 - A sorte.mp4",
+        "sha256": "e6f04b5e6b57b2c6e9aebdd7d5fc492d749db5e8c391627f98cb49c29e98f545",
+        "pacote": "Babilonia 14 - A sorte",
+        "pacote_id": "story-e6f04b5e6b57"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-e6f04b5e6b-Babilonia-14---A-sorte.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-e6f04b5e6b-Babilonia-14---A-sorte.mp4",
+            "sha256": "e6f04b5e6b57b2c6e9aebdd7d5fc492d749db5e8c391627f98cb49c29e98f545",
+            "tamanho_bytes": 7574413,
+            "duracao_segundos": 28.767
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261017-af21afe07b",
+      "data": "2026-10-17",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 15 - A conta dos 60 mil.mp4",
+        "sha256": "af21afe07b7f9413f2a3c20ab50374d9ce72cad2d5198882f81d47552a0189d3",
+        "pacote": "Babilonia 15 - A conta dos 60 mil",
+        "pacote_id": "story-af21afe07b7f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-af21afe07b-Babilonia-15---A-conta-dos-60-mil.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-af21afe07b-Babilonia-15---A-conta-dos-60-mil.mp4",
+            "sha256": "af21afe07b7f9413f2a3c20ab50374d9ce72cad2d5198882f81d47552a0189d3",
+            "tamanho_bytes": 6473960,
+            "duracao_segundos": 29.9
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261018-dfa6aaeded",
+      "data": "2026-10-18",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 16 - A maioria nunca comeca.mp4",
+        "sha256": "dfa6aaededff9c460ed0122d88ac9b7644b1952b3ff46f633c6af9760d65678c",
+        "pacote": "Babilonia 16 - A maioria nunca comeca",
+        "pacote_id": "story-dfa6aaededff"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-dfa6aaeded-Babilonia-16---A-maioria-nunca-comeca.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-dfa6aaeded-Babilonia-16---A-maioria-nunca-comeca.mp4",
+            "sha256": "dfa6aaededff9c460ed0122d88ac9b7644b1952b3ff46f633c6af9760d65678c",
+            "tamanho_bytes": 7764095,
+            "duracao_segundos": 29.0
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261019-1841d6b7d7",
+      "data": "2026-10-19",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 17 - As 5 leis do ouro.mp4",
+        "sha256": "1841d6b7d76e64b8c24fc613596b697faa08a5f918347a560ad30c49bf038ebc",
+        "pacote": "Babilonia 17 - As 5 leis do ouro",
+        "pacote_id": "story-1841d6b7d76e"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-1841d6b7d7-Babilonia-17---As-5-leis-do-ouro.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-1841d6b7d7-Babilonia-17---As-5-leis-do-ouro.mp4",
+            "sha256": "1841d6b7d76e64b8c24fc613596b697faa08a5f918347a560ad30c49bf038ebc",
+            "tamanho_bytes": 8136337,
+            "duracao_segundos": 32.533
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261020-c4fd1e17fb",
+      "data": "2026-10-20",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 18 - O escravo que gostava de trabalhar.mp4",
+        "sha256": "c4fd1e17fb864d5f94f3371dcc0130b7e027286241b1025bb0e3e80a2e6ecdce",
+        "pacote": "Babilonia 18 - O escravo que gostava de trabalhar",
+        "pacote_id": "story-c4fd1e17fb86"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-c4fd1e17fb-Babilonia-18---O-escravo-que-gostava-de-trabalhar.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-c4fd1e17fb-Babilonia-18---O-escravo-que-gostava-de-trabalhar.mp4",
+            "sha256": "c4fd1e17fb864d5f94f3371dcc0130b7e027286241b1025bb0e3e80a2e6ecdce",
+            "tamanho_bytes": 9054738,
+            "duracao_segundos": 30.267
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261021-3dcde8de7b",
+      "data": "2026-10-21",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 19 - Desejo definido.mp4",
+        "sha256": "3dcde8de7bd2da4c48f803e66ba7329d6ed6f4862f7bae4054e023a0e8aa9553",
+        "pacote": "Babilonia 19 - Desejo definido",
+        "pacote_id": "story-3dcde8de7bd2"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-3dcde8de7b-Babilonia-19---Desejo-definido.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-3dcde8de7b-Babilonia-19---Desejo-definido.mp4",
+            "sha256": "3dcde8de7bd2da4c48f803e66ba7329d6ed6f4862f7bae4054e023a0e8aa9553",
+            "tamanho_bytes": 6522542,
+            "duracao_segundos": 26.9
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261022-21c4958932",
+      "data": "2026-10-22",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 20 - Nao e ficar rico rapido.mp4",
+        "sha256": "21c4958932ef2fda741b60b7e1a573432f1804aa0c1ff4ada1d8f275bad054f6",
+        "pacote": "Babilonia 20 - Nao e ficar rico rapido",
+        "pacote_id": "story-21c4958932ef"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-21c4958932-Babilonia-20---Nao-e-ficar-rico-rapido.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-21c4958932-Babilonia-20---Nao-e-ficar-rico-rapido.mp4",
+            "sha256": "21c4958932ef2fda741b60b7e1a573432f1804aa0c1ff4ada1d8f275bad054f6",
+            "tamanho_bytes": 8305204,
+            "duracao_segundos": 30.233
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261023-0b3eb0664f",
+      "data": "2026-10-23",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 08 - Oportunidade x obstaculo.mp4",
+        "sha256": "0b3eb0664f7f16751b2aca47fc27340787837a8144e8fab34d207b6f5dfa1213",
+        "pacote": "Mente Milionaria 08 - Oportunidade x obstaculo",
+        "pacote_id": "story-0b3eb0664f7f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-0b3eb0664f-Mente-Milionaria-08---Oportunidade-x-obstaculo.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-0b3eb0664f-Mente-Milionaria-08---Oportunidade-x-obstaculo.mp4",
+            "sha256": "0b3eb0664f7f16751b2aca47fc27340787837a8144e8fab34d207b6f5dfa1213",
+            "tamanho_bytes": 8610493,
+            "duracao_segundos": 29.933
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261024-a78f5bde68",
+      "data": "2026-10-24",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 09 - Admirar quem chegou la.mp4",
+        "sha256": "a78f5bde68da75d833822bb96344a6503bf2899c00b991cb5fe37590fbaf252a",
+        "pacote": "Mente Milionaria 09 - Admirar quem chegou la",
+        "pacote_id": "story-a78f5bde68da"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-a78f5bde68-Mente-Milionaria-09---Admirar-quem-chegou-la.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-a78f5bde68-Mente-Milionaria-09---Admirar-quem-chegou-la.mp4",
+            "sha256": "a78f5bde68da75d833822bb96344a6503bf2899c00b991cb5fe37590fbaf252a",
+            "tamanho_bytes": 7080219,
+            "duracao_segundos": 27.1
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261025-d4f1c208c2",
+      "data": "2026-10-25",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 10 - As 5 pessoas.mp4",
+        "sha256": "d4f1c208c2e0c69ab6f3c31316d3b4e7d26f209404abd5e4dac0d8c6c39c8c97",
+        "pacote": "Mente Milionaria 10 - As 5 pessoas",
+        "pacote_id": "story-d4f1c208c2e0"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-d4f1c208c2-Mente-Milionaria-10---As-5-pessoas.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-d4f1c208c2-Mente-Milionaria-10---As-5-pessoas.mp4",
+            "sha256": "d4f1c208c2e0c69ab6f3c31316d3b4e7d26f209404abd5e4dac0d8c6c39c8c97",
+            "tamanho_bytes": 10717741,
+            "duracao_segundos": 34.6
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261026-42e385e271",
+      "data": "2026-10-26",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 11 - Vergonha de vender.mp4",
+        "sha256": "42e385e2718ef15c6d2f7204462722f9d28f5bf674e8c4ffad56b02c1a1671a9",
+        "pacote": "Mente Milionaria 11 - Vergonha de vender",
+        "pacote_id": "story-42e385e2718e"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-42e385e271-Mente-Milionaria-11---Vergonha-de-vender.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-42e385e271-Mente-Milionaria-11---Vergonha-de-vender.mp4",
+            "sha256": "42e385e2718ef15c6d2f7204462722f9d28f5bf674e8c4ffad56b02c1a1671a9",
+            "tamanho_bytes": 6731097,
+            "duracao_segundos": 25.167
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261027-eb94e510f3",
+      "data": "2026-10-27",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 12 - Maior que o problema.mp4",
+        "sha256": "eb94e510f3d3ed30e3d5ec33c45ca5bb9ba6f811d549b3b3731e205d40faa564",
+        "pacote": "Mente Milionaria 12 - Maior que o problema",
+        "pacote_id": "story-eb94e510f3d3"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-eb94e510f3-Mente-Milionaria-12---Maior-que-o-problema.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-eb94e510f3-Mente-Milionaria-12---Maior-que-o-problema.mp4",
+            "sha256": "eb94e510f3d3ed30e3d5ec33c45ca5bb9ba6f811d549b3b3731e205d40faa564",
+            "tamanho_bytes": 8767429,
+            "duracao_segundos": 27.4
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261028-da518f17af",
+      "data": "2026-10-28",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 13 - Saber receber.mp4",
+        "sha256": "da518f17af9e19c155462c7c77e8c79b9958e13a144f6e032de8f1d9774b9b9f",
+        "pacote": "Mente Milionaria 13 - Saber receber",
+        "pacote_id": "story-da518f17af9e"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-da518f17af-Mente-Milionaria-13---Saber-receber.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-da518f17af-Mente-Milionaria-13---Saber-receber.mp4",
+            "sha256": "da518f17af9e19c155462c7c77e8c79b9958e13a144f6e032de8f1d9774b9b9f",
+            "tamanho_bytes": 6857312,
+            "duracao_segundos": 28.033
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261029-14af2819a6",
+      "data": "2026-10-29",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 14 - Agir com medo.mp4",
+        "sha256": "14af2819a60ef28eb45d8d3fb98d942df97806a07d360bb33821fc7497cba70d",
+        "pacote": "Mente Milionaria 14 - Agir com medo",
+        "pacote_id": "story-14af2819a60e"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-14af2819a6-Mente-Milionaria-14---Agir-com-medo.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-14af2819a6-Mente-Milionaria-14---Agir-com-medo.mp4",
+            "sha256": "14af2819a60ef28eb45d8d3fb98d942df97806a07d360bb33821fc7497cba70d",
+            "tamanho_bytes": 8311048,
+            "duracao_segundos": 27.767
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261030-df400bbcc4",
+      "data": "2026-10-30",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 15 - A xicara cheia.mp4",
+        "sha256": "df400bbcc40714e97cc4a2e8f1a44b3f4ad0999bee80724fa8568f116b0038e0",
+        "pacote": "Mente Milionaria 15 - A xicara cheia",
+        "pacote_id": "story-df400bbcc407"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-df400bbcc4-Mente-Milionaria-15---A-xicara-cheia.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-df400bbcc4-Mente-Milionaria-15---A-xicara-cheia.mp4",
+            "sha256": "df400bbcc40714e97cc4a2e8f1a44b3f4ad0999bee80724fa8568f116b0038e0",
+            "tamanho_bytes": 6947696,
+            "duracao_segundos": 27.833
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
