@@ -77,7 +77,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-d897d336ce-Babilonia-02---Bansir-e-Kobbi.mp4",
             "sha256": "d897d336cebff29c8c3b4747aa488adc9df8f93157af41a5a6f02c27c5d4f71a",
             "tamanho_bytes": 9472733,
-            "duracao_segundos": 32.333
+            "duracao_segundos": 32.333,
+            "removido_da_release_em": "2026-09-28T09:19:03.595315-03:00"
           },
           "instagram": {
             "status": "publicado",
