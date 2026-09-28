@@ -66,7 +66,7 @@
       "id": "reel-20260928-1100-8070138d95",
       "data": "2026-09-28",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 03 - Comeu os filhos do ouro.mp4",
         "sha256": "8070138d955f4b4f60b7052563dc236f9ba34fd9adbeeaf66734be0115c9b43a"
@@ -79,12 +79,17 @@
       },
       "instagram": {
         "legenda": "Arkad guardou dinheiro, investiu e ganhou juros, só que torrou tudo numa festa.\n\nNo livro O Homem Mais Rico da Babilônia, o mestre dele avisa: você comeu os filhos do seu ouro.\n\nOs juros são os filhos do dinheiro, e se você gasta eles, nunca vão trabalhar pra você.\n\nRendimento bom é aquele que volta a render.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18129929995697404",
+        "publicado_em": "2026-09-28T11:11:11.511633-03:00"
       },
       "facebook": {
         "legenda": "Arkad guardou dinheiro, investiu e ganhou juros, só que torrou tudo numa festa.\n\nNo livro O Homem Mais Rico da Babilônia, o mestre dele avisa: você comeu os filhos do seu ouro.\n\nOs juros são os filhos do dinheiro, e se você gasta eles, nunca vão trabalhar pra você.\n\nRendimento bom é aquele que volta a render.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1610155707416723",
+        "publicado_em": "2026-09-28T11:11:23.721973-03:00"
+      },
+      "concluido_em": "2026-09-28T11:11:23.724232-03:00"
     },
     {
       "id": "reel-20260928-1900-584c1759cc",
