@@ -1079,6 +1079,812 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261031-8276f6aaa3",
+      "data": "2026-10-31",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 01 - Salario nao e o problema.mp4",
+        "sha256": "8276f6aaa3fbd9343a446458e58f73d8b52ea8f928c489a844780ca71ddd9ce6",
+        "pacote": "Pai Rico 01 - Salario nao e o problema",
+        "pacote_id": "story-8276f6aaa3fb"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-8276f6aaa3-Pai-Rico-01---Salario-nao-e-o-problema.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-8276f6aaa3-Pai-Rico-01---Salario-nao-e-o-problema.mp4",
+            "sha256": "8276f6aaa3fbd9343a446458e58f73d8b52ea8f928c489a844780ca71ddd9ce6",
+            "tamanho_bytes": 6782382,
+            "duracao_segundos": 27.167
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261101-8498da5237",
+      "data": "2026-11-01",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 02 - Eu nao posso pagar.mp4",
+        "sha256": "8498da5237dc4937b3566e37847e4535649a75ae171e4196f3abb8f1b1ca924a",
+        "pacote": "Pai Rico 02 - Eu nao posso pagar",
+        "pacote_id": "story-8498da5237dc"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-8498da5237-Pai-Rico-02---Eu-nao-posso-pagar.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-8498da5237-Pai-Rico-02---Eu-nao-posso-pagar.mp4",
+            "sha256": "8498da5237dc4937b3566e37847e4535649a75ae171e4196f3abb8f1b1ca924a",
+            "tamanho_bytes": 6302548,
+            "duracao_segundos": 25.9
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261102-768cdc2169",
+      "data": "2026-11-02",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 03 - O conselho do emprego seguro.mp4",
+        "sha256": "768cdc2169c24d9c247ce4ff200343f090d2b5c6652434d3667e6798c7693cdb",
+        "pacote": "Pai Rico 03 - O conselho do emprego seguro",
+        "pacote_id": "story-768cdc2169c2"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-768cdc2169-Pai-Rico-03---O-conselho-do-emprego-seguro.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-768cdc2169-Pai-Rico-03---O-conselho-do-emprego-seguro.mp4",
+            "sha256": "768cdc2169c24d9c247ce4ff200343f090d2b5c6652434d3667e6798c7693cdb",
+            "tamanho_bytes": 6976597,
+            "duracao_segundos": 31.1
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261103-d23c01cfbf",
+      "data": "2026-11-03",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 04 - Trabalhando de graca.mp4",
+        "sha256": "d23c01cfbf2bac292b1527940948981064b1a51335e9ff0a5a261823629328d8",
+        "pacote": "Pai Rico 04 - Trabalhando de graca",
+        "pacote_id": "story-d23c01cfbf2b"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-d23c01cfbf-Pai-Rico-04---Trabalhando-de-graca.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-d23c01cfbf-Pai-Rico-04---Trabalhando-de-graca.mp4",
+            "sha256": "d23c01cfbf2bac292b1527940948981064b1a51335e9ff0a5a261823629328d8",
+            "tamanho_bytes": 8356118,
+            "duracao_segundos": 32.067
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261104-f80c2567d4",
+      "data": "2026-11-04",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 05 - A biblioteca de gibis.mp4",
+        "sha256": "f80c2567d472948b0dc7995e7ed82b4e5d4020aa3cad150efc682bc75e064adf",
+        "pacote": "Pai Rico 05 - A biblioteca de gibis",
+        "pacote_id": "story-f80c2567d472"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-f80c2567d4-Pai-Rico-05---A-biblioteca-de-gibis.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-f80c2567d4-Pai-Rico-05---A-biblioteca-de-gibis.mp4",
+            "sha256": "f80c2567d472948b0dc7995e7ed82b4e5d4020aa3cad150efc682bc75e064adf",
+            "tamanho_bytes": 6921853,
+            "duracao_segundos": 29.433
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261105-c7210cdcfe",
+      "data": "2026-11-05",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 06 - Corrida dos ratos.mp4",
+        "sha256": "c7210cdcfeafab06351d047df76026a49a9c01dca0cadfa0753c4fbe28cd2f3e",
+        "pacote": "Pai Rico 06 - Corrida dos ratos",
+        "pacote_id": "story-c7210cdcfeaf"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-c7210cdcfe-Pai-Rico-06---Corrida-dos-ratos.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-c7210cdcfe-Pai-Rico-06---Corrida-dos-ratos.mp4",
+            "sha256": "c7210cdcfeafab06351d047df76026a49a9c01dca0cadfa0753c4fbe28cd2f3e",
+            "tamanho_bytes": 6853109,
+            "duracao_segundos": 26.9
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261106-909cafc811",
+      "data": "2026-11-06",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 07 - Conta de padeiro.mp4",
+        "sha256": "909cafc811c234fe0ab06de0bee5af5d2e66d1126e3a556d84e68ee7c30ec881",
+        "pacote": "Mente Milionaria 07 - Conta de padeiro",
+        "pacote_id": "story-909cafc811c2"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-909cafc811-Mente-Milionaria-07---Conta-de-padeiro.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-909cafc811-Mente-Milionaria-07---Conta-de-padeiro.mp4",
+            "sha256": "909cafc811c234fe0ab06de0bee5af5d2e66d1126e3a556d84e68ee7c30ec881",
+            "tamanho_bytes": 9875419,
+            "duracao_segundos": 34.367
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261107-1de292ec17",
+      "data": "2026-11-07",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 07 - O aumento que some.mp4",
+        "sha256": "1de292ec17e9d1a9f35f7e5780c047865a80c4087fb02f166a8d9e1f30695c83",
+        "pacote": "Pai Rico 07 - O aumento que some",
+        "pacote_id": "story-1de292ec17e9"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-1de292ec17-Pai-Rico-07---O-aumento-que-some.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-1de292ec17-Pai-Rico-07---O-aumento-que-some.mp4",
+            "sha256": "1de292ec17e9d1a9f35f7e5780c047865a80c4087fb02f166a8d9e1f30695c83",
+            "tamanho_bytes": 7016227,
+            "duracao_segundos": 29.8
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261108-a88c59d2a9",
+      "data": "2026-11-08",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 08 - Ativo x passivo.mp4",
+        "sha256": "a88c59d2a9eee253ebfd9f46677e2b4364462c3da32620b5ec30100b29105777",
+        "pacote": "Pai Rico 08 - Ativo x passivo",
+        "pacote_id": "story-a88c59d2a9ee"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-a88c59d2a9-Pai-Rico-08---Ativo-x-passivo.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-a88c59d2a9-Pai-Rico-08---Ativo-x-passivo.mp4",
+            "sha256": "a88c59d2a9eee253ebfd9f46677e2b4364462c3da32620b5ec30100b29105777",
+            "tamanho_bytes": 6643934,
+            "duracao_segundos": 28.167
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261109-d4224cfacc",
+      "data": "2026-11-09",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 09 - A casa onde voce mora.mp4",
+        "sha256": "d4224cfaccc7b419dac0ac2537b16110143cd761f2716cb3e80f47ff8194f81b",
+        "pacote": "Pai Rico 09 - A casa onde voce mora",
+        "pacote_id": "story-d4224cfaccc7"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-d4224cfacc-Pai-Rico-09---A-casa-onde-voce-mora.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-d4224cfacc-Pai-Rico-09---A-casa-onde-voce-mora.mp4",
+            "sha256": "d4224cfaccc7b419dac0ac2537b16110143cd761f2716cb3e80f47ff8194f81b",
+            "tamanho_bytes": 7841400,
+            "duracao_segundos": 31.833
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261110-54ee007d18",
+      "data": "2026-11-10",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 10 - A casa que te paga.mp4",
+        "sha256": "54ee007d18f0eefe69115516b49ff78a454ebbb3a4b3bd8886da868bfac7b2dd",
+        "pacote": "Pai Rico 10 - A casa que te paga",
+        "pacote_id": "story-54ee007d18f0"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-54ee007d18-Pai-Rico-10---A-casa-que-te-paga.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-54ee007d18-Pai-Rico-10---A-casa-que-te-paga.mp4",
+            "sha256": "54ee007d18f0eefe69115516b49ff78a454ebbb3a4b3bd8886da868bfac7b2dd",
+            "tamanho_bytes": 6456102,
+            "duracao_segundos": 28.167
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261111-ded70b2c10",
+      "data": "2026-11-11",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 11 - Passivos disfarcados.mp4",
+        "sha256": "ded70b2c10253276c413099b57262a0800dd6cf9f1500224661eae7af1e2a6d4",
+        "pacote": "Pai Rico 11 - Passivos disfarcados",
+        "pacote_id": "story-ded70b2c1025"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-ded70b2c10-Pai-Rico-11---Passivos-disfarcados.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-ded70b2c10-Pai-Rico-11---Passivos-disfarcados.mp4",
+            "sha256": "ded70b2c10253276c413099b57262a0800dd6cf9f1500224661eae7af1e2a6d4",
+            "tamanho_bytes": 7582640,
+            "duracao_segundos": 31.133
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261112-9b3a3cf7b5",
+      "data": "2026-11-12",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 12 - Pobre classe media rico.mp4",
+        "sha256": "9b3a3cf7b5fafb412d9aae33eef0a6e3e5b849aeb81d5281da59dbbe39850581",
+        "pacote": "Pai Rico 12 - Pobre classe media rico",
+        "pacote_id": "story-9b3a3cf7b5fa"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-9b3a3cf7b5-Pai-Rico-12---Pobre-classe-media-rico.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-9b3a3cf7b5-Pai-Rico-12---Pobre-classe-media-rico.mp4",
+            "sha256": "9b3a3cf7b5fafb412d9aae33eef0a6e3e5b849aeb81d5281da59dbbe39850581",
+            "tamanho_bytes": 6362635,
+            "duracao_segundos": 33.5
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261113-6b89dd4981",
+      "data": "2026-11-13",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 13 - O negocio de quem.mp4",
+        "sha256": "6b89dd498175d30e553c0722d88387cb14018019e6816296130feac0811175be",
+        "pacote": "Pai Rico 13 - O negocio de quem",
+        "pacote_id": "story-6b89dd498175"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-6b89dd4981-Pai-Rico-13---O-negocio-de-quem.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-6b89dd4981-Pai-Rico-13---O-negocio-de-quem.mp4",
+            "sha256": "6b89dd498175d30e553c0722d88387cb14018019e6816296130feac0811175be",
+            "tamanho_bytes": 6559691,
+            "duracao_segundos": 29.5
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261114-368c5b47b5",
+      "data": "2026-11-14",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 14 - O decimo terceiro.mp4",
+        "sha256": "368c5b47b5de04b6ed26c799adf7f2ffdc836f969904c399fec3a8b82ee39b86",
+        "pacote": "Pai Rico 14 - O decimo terceiro",
+        "pacote_id": "story-368c5b47b5de"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-368c5b47b5-Pai-Rico-14---O-decimo-terceiro.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-368c5b47b5-Pai-Rico-14---O-decimo-terceiro.mp4",
+            "sha256": "368c5b47b5de04b6ed26c799adf7f2ffdc836f969904c399fec3a8b82ee39b86",
+            "tamanho_bytes": 6142049,
+            "duracao_segundos": 26.833
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261115-4674bc300f",
+      "data": "2026-11-15",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 15 - A ordem dos impostos.mp4",
+        "sha256": "4674bc300f5f7714a4d3f30e9c23d12889a9d05cc3f2a799b34e5323c8edabd5",
+        "pacote": "Pai Rico 15 - A ordem dos impostos",
+        "pacote_id": "story-4674bc300f5f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-4674bc300f-Pai-Rico-15---A-ordem-dos-impostos.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-4674bc300f-Pai-Rico-15---A-ordem-dos-impostos.mp4",
+            "sha256": "4674bc300f5f7714a4d3f30e9c23d12889a9d05cc3f2a799b34e5323c8edabd5",
+            "tamanho_bytes": 7206930,
+            "duracao_segundos": 30.767
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261116-50ed511a41",
+      "data": "2026-11-16",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 16 - Salario tem teto.mp4",
+        "sha256": "50ed511a41b9457e5ef87928923b8898737eb5e7a05d065d4642a89539abc3c0",
+        "pacote": "Mente Milionaria 16 - Salario tem teto",
+        "pacote_id": "story-50ed511a41b9"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-50ed511a41-Mente-Milionaria-16---Salario-tem-teto.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-50ed511a41-Mente-Milionaria-16---Salario-tem-teto.mp4",
+            "sha256": "50ed511a41b9457e5ef87928923b8898737eb5e7a05d065d4642a89539abc3c0",
+            "tamanho_bytes": 8657503,
+            "duracao_segundos": 31.2
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261117-9490c15e97",
+      "data": "2026-11-17",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 16 - Comprar na crise.mp4",
+        "sha256": "9490c15e974baa15e3ec2858a4341b551752711761fd55f00700f44af03dc165",
+        "pacote": "Pai Rico 16 - Comprar na crise",
+        "pacote_id": "story-9490c15e974b"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-9490c15e97-Pai-Rico-16---Comprar-na-crise.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-9490c15e97-Pai-Rico-16---Comprar-na-crise.mp4",
+            "sha256": "9490c15e974baa15e3ec2858a4341b551752711761fd55f00700f44af03dc165",
+            "tamanho_bytes": 8761660,
+            "duracao_segundos": 29.767
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261118-c0677df069",
+      "data": "2026-11-18",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 17 - Patrimonio.mp4",
+        "sha256": "c0677df06924ef8e1c50841954984b1f5bffad54ad5d395b0dd0023310504c35",
+        "pacote": "Mente Milionaria 17 - Patrimonio",
+        "pacote_id": "story-c0677df06924"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-c0677df069-Mente-Milionaria-17---Patrimonio.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-c0677df069-Mente-Milionaria-17---Patrimonio.mp4",
+            "sha256": "c0677df06924ef8e1c50841954984b1f5bffad54ad5d395b0dd0023310504c35",
+            "tamanho_bytes": 6426573,
+            "duracao_segundos": 26.3
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261119-23bcab84c6",
+      "data": "2026-11-19",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 17 - Garimpar oportunidade.mp4",
+        "sha256": "23bcab84c6fa35ba46aefd39fc7f16c3123b5a6af2df787475707c57938706d6",
+        "pacote": "Pai Rico 17 - Garimpar oportunidade",
+        "pacote_id": "story-23bcab84c6fa"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-23bcab84c6-Pai-Rico-17---Garimpar-oportunidade.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-23bcab84c6-Pai-Rico-17---Garimpar-oportunidade.mp4",
+            "sha256": "23bcab84c6fa35ba46aefd39fc7f16c3123b5a6af2df787475707c57938706d6",
+            "tamanho_bytes": 8118919,
+            "duracao_segundos": 29.333
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261120-f852cf083c",
+      "data": "2026-11-20",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 18 - Quando eu tiver mais eu organizo.mp4",
+        "sha256": "f852cf083cf923f3c582a745f860975a85ffac71aa464d61bd61630f4bee1e29",
+        "pacote": "Mente Milionaria 18 - Quando eu tiver mais eu organizo",
+        "pacote_id": "story-f852cf083cf9"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-f852cf083c-Mente-Milionaria-18---Quando-eu-tiver-mais-eu-organizo.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-f852cf083c-Mente-Milionaria-18---Quando-eu-tiver-mais-eu-organizo.mp4",
+            "sha256": "f852cf083cf923f3c582a745f860975a85ffac71aa464d61bd61630f4bee1e29",
+            "tamanho_bytes": 7033327,
+            "duracao_segundos": 28.933
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261121-69ae5e0054",
+      "data": "2026-11-21",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 18 - O timido que foi vender.mp4",
+        "sha256": "69ae5e0054ed6bdcb24d3445c0794e5d6f8b0ac94bdff25aec294197a05607b7",
+        "pacote": "Pai Rico 18 - O timido que foi vender",
+        "pacote_id": "story-69ae5e0054ed"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-69ae5e0054-Pai-Rico-18---O-timido-que-foi-vender.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-69ae5e0054-Pai-Rico-18---O-timido-que-foi-vender.mp4",
+            "sha256": "69ae5e0054ed6bdcb24d3445c0794e5d6f8b0ac94bdff25aec294197a05607b7",
+            "tamanho_bytes": 6875967,
+            "duracao_segundos": 27.533
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261122-7971dd4ddc",
+      "data": "2026-11-22",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 19 - Dinheiro que trabalha.mp4",
+        "sha256": "7971dd4ddc7270b7f1798f7b043ca7952010004ed79346efaac4f82f62ce17e7",
+        "pacote": "Mente Milionaria 19 - Dinheiro que trabalha",
+        "pacote_id": "story-7971dd4ddc72"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-7971dd4ddc-Mente-Milionaria-19---Dinheiro-que-trabalha.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-7971dd4ddc-Mente-Milionaria-19---Dinheiro-que-trabalha.mp4",
+            "sha256": "7971dd4ddc7270b7f1798f7b043ca7952010004ed79346efaac4f82f62ce17e7",
+            "tamanho_bytes": 6646447,
+            "duracao_segundos": 31.3
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261123-1a1c1b7ac7",
+      "data": "2026-11-23",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 19 - Paga voce primeiro.mp4",
+        "sha256": "1a1c1b7ac7fa88af4244f3b475aadf030efaec5b88125823e08c3cb7c4782ab9",
+        "pacote": "Pai Rico 19 - Paga voce primeiro",
+        "pacote_id": "story-1a1c1b7ac7fa"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-1a1c1b7ac7-Pai-Rico-19---Paga-voce-primeiro.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-1a1c1b7ac7-Pai-Rico-19---Paga-voce-primeiro.mp4",
+            "sha256": "1a1c1b7ac7fa88af4244f3b475aadf030efaec5b88125823e08c3cb7c4782ab9",
+            "tamanho_bytes": 6071019,
+            "duracao_segundos": 27.033
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261124-f8fb996e9f",
+      "data": "2026-11-24",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 20 - Os 6 potes.mp4",
+        "sha256": "f8fb996e9f771a0322f25fd8fe44a37e5274d162dc0ab451a6ec4c83fd6ae645",
+        "pacote": "Mente Milionaria 20 - Os 6 potes",
+        "pacote_id": "story-f8fb996e9f77"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-f8fb996e9f-Mente-Milionaria-20---Os-6-potes.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-f8fb996e9f-Mente-Milionaria-20---Os-6-potes.mp4",
+            "sha256": "f8fb996e9f771a0322f25fd8fe44a37e5274d162dc0ab451a6ec4c83fd6ae645",
+            "tamanho_bytes": 6160455,
+            "duracao_segundos": 34.533
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261125-ca0258c4a6",
+      "data": "2026-11-25",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 20 - O que trava as pessoas.mp4",
+        "sha256": "ca0258c4a6a13125ccb9469062ab2ea6c265247721f10cc278e5bebccf2e57a2",
+        "pacote": "Pai Rico 20 - O que trava as pessoas",
+        "pacote_id": "story-ca0258c4a6a1"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-ca0258c4a6-Pai-Rico-20---O-que-trava-as-pessoas.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-ca0258c4a6-Pai-Rico-20---O-que-trava-as-pessoas.mp4",
+            "sha256": "ca0258c4a6a13125ccb9469062ab2ea6c265247721f10cc278e5bebccf2e57a2",
+            "tamanho_bytes": 7015079,
+            "duracao_segundos": 28.833
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
