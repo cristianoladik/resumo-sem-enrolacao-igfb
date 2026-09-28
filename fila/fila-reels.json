@@ -239,7 +239,7 @@
     {
       "id": "reel-20261001-1900-878894e173",
       "data": "2026-10-01",
-      "horario": "19:00",
+      "horario": "15:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Mente Milionaria 06 - Querer x se comprometer.mp4",
@@ -262,8 +262,8 @@
     },
     {
       "id": "reel-20261002-1100-529e0f2348",
-      "data": "2026-10-02",
-      "horario": "11:00",
+      "data": "2026-10-01",
+      "horario": "19:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Babilonia 07 - Ganhou mais gastou mais.mp4",
@@ -287,7 +287,7 @@
     {
       "id": "reel-20261002-1900-83f32673a2",
       "data": "2026-10-02",
-      "horario": "19:00",
+      "horario": "08:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Babilonia 08 - Moeda funcionaria.mp4",
@@ -310,7 +310,7 @@
     },
     {
       "id": "reel-20261003-1100-b37f778daa",
-      "data": "2026-10-03",
+      "data": "2026-10-02",
       "horario": "11:00",
       "status": "pendente",
       "origem": {
@@ -334,8 +334,8 @@
     },
     {
       "id": "reel-20261003-1900-3176aa6419",
-      "data": "2026-10-03",
-      "horario": "19:00",
+      "data": "2026-10-02",
+      "horario": "15:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Babilonia 10 - Tijolo e moeda forte.mp4",
@@ -358,8 +358,8 @@
     },
     {
       "id": "reel-20261004-1100-d023db0375",
-      "data": "2026-10-04",
-      "horario": "11:00",
+      "data": "2026-10-02",
+      "horario": "19:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Babilonia 11 - Quem paga suas contas no futuro.mp4",
@@ -382,8 +382,8 @@
     },
     {
       "id": "reel-20261004-1900-44b6d90d01",
-      "data": "2026-10-04",
-      "horario": "19:00",
+      "data": "2026-10-03",
+      "horario": "08:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Babilonia 12 - Sabe mais ganha mais.mp4",
@@ -406,7 +406,7 @@
     },
     {
       "id": "reel-20261005-1100-d10f5c49d1",
-      "data": "2026-10-05",
+      "data": "2026-10-03",
       "horario": "11:00",
       "status": "pendente",
       "origem": {
@@ -430,8 +430,8 @@
     },
     {
       "id": "reel-20261005-1900-e6f04b5e6b",
-      "data": "2026-10-05",
-      "horario": "19:00",
+      "data": "2026-10-03",
+      "horario": "14:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Babilonia 14 - A sorte.mp4",
@@ -454,8 +454,8 @@
     },
     {
       "id": "reel-20261006-1100-af21afe07b",
-      "data": "2026-10-06",
-      "horario": "11:00",
+      "data": "2026-10-03",
+      "horario": "17:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Babilonia 15 - A conta dos 60 mil.mp4",
@@ -478,8 +478,8 @@
     },
     {
       "id": "reel-20261006-1900-dfa6aaeded",
-      "data": "2026-10-06",
-      "horario": "19:00",
+      "data": "2026-10-03",
+      "horario": "20:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Babilonia 16 - A maioria nunca comeca.mp4",
@@ -502,8 +502,8 @@
     },
     {
       "id": "reel-20261007-1100-1841d6b7d7",
-      "data": "2026-10-07",
-      "horario": "11:00",
+      "data": "2026-10-04",
+      "horario": "08:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Babilonia 17 - As 5 leis do ouro.mp4",
@@ -526,8 +526,8 @@
     },
     {
       "id": "reel-20261007-1900-c4fd1e17fb",
-      "data": "2026-10-07",
-      "horario": "19:00",
+      "data": "2026-10-04",
+      "horario": "11:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Babilonia 18 - O escravo que gostava de trabalhar.mp4",
@@ -550,8 +550,8 @@
     },
     {
       "id": "reel-20261008-1100-3dcde8de7b",
-      "data": "2026-10-08",
-      "horario": "11:00",
+      "data": "2026-10-04",
+      "horario": "14:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Babilonia 19 - Desejo definido.mp4",
@@ -574,8 +574,8 @@
     },
     {
       "id": "reel-20261008-1900-21c4958932",
-      "data": "2026-10-08",
-      "horario": "19:00",
+      "data": "2026-10-04",
+      "horario": "17:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Babilonia 20 - Nao e ficar rico rapido.mp4",
@@ -598,8 +598,8 @@
     },
     {
       "id": "reel-20261009-1100-0b3eb0664f",
-      "data": "2026-10-09",
-      "horario": "11:00",
+      "data": "2026-10-04",
+      "horario": "20:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Mente Milionaria 08 - Oportunidade x obstaculo.mp4",
@@ -622,8 +622,8 @@
     },
     {
       "id": "reel-20261009-1900-a78f5bde68",
-      "data": "2026-10-09",
-      "horario": "19:00",
+      "data": "2026-10-05",
+      "horario": "08:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Mente Milionaria 09 - Admirar quem chegou la.mp4",
@@ -646,7 +646,7 @@
     },
     {
       "id": "reel-20261010-1100-d4f1c208c2",
-      "data": "2026-10-10",
+      "data": "2026-10-05",
       "horario": "11:00",
       "status": "pendente",
       "origem": {
@@ -670,8 +670,8 @@
     },
     {
       "id": "reel-20261010-1900-42e385e271",
-      "data": "2026-10-10",
-      "horario": "19:00",
+      "data": "2026-10-05",
+      "horario": "14:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Mente Milionaria 11 - Vergonha de vender.mp4",
@@ -694,8 +694,8 @@
     },
     {
       "id": "reel-20261011-1100-eb94e510f3",
-      "data": "2026-10-11",
-      "horario": "11:00",
+      "data": "2026-10-05",
+      "horario": "17:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Mente Milionaria 12 - Maior que o problema.mp4",
@@ -718,8 +718,8 @@
     },
     {
       "id": "reel-20261011-1900-da518f17af",
-      "data": "2026-10-11",
-      "horario": "19:00",
+      "data": "2026-10-05",
+      "horario": "20:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Mente Milionaria 13 - Saber receber.mp4",
@@ -742,8 +742,8 @@
     },
     {
       "id": "reel-20261012-1100-14af2819a6",
-      "data": "2026-10-12",
-      "horario": "11:00",
+      "data": "2026-10-06",
+      "horario": "08:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Mente Milionaria 14 - Agir com medo.mp4",
@@ -766,8 +766,8 @@
     },
     {
       "id": "reel-20261012-1900-df400bbcc4",
-      "data": "2026-10-12",
-      "horario": "19:00",
+      "data": "2026-10-06",
+      "horario": "11:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Mente Milionaria 15 - A xicara cheia.mp4",
@@ -790,8 +790,8 @@
     },
     {
       "id": "reel-20261013-1100-8276f6aaa3",
-      "data": "2026-10-13",
-      "horario": "11:00",
+      "data": "2026-10-06",
+      "horario": "14:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 01 - Salario nao e o problema.mp4",
@@ -814,8 +814,8 @@
     },
     {
       "id": "reel-20261013-1900-8498da5237",
-      "data": "2026-10-13",
-      "horario": "19:00",
+      "data": "2026-10-06",
+      "horario": "17:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 02 - Eu nao posso pagar.mp4",
@@ -838,8 +838,8 @@
     },
     {
       "id": "reel-20261014-1100-768cdc2169",
-      "data": "2026-10-14",
-      "horario": "11:00",
+      "data": "2026-10-06",
+      "horario": "20:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 03 - O conselho do emprego seguro.mp4",
@@ -862,8 +862,8 @@
     },
     {
       "id": "reel-20261014-1900-d23c01cfbf",
-      "data": "2026-10-14",
-      "horario": "19:00",
+      "data": "2026-10-07",
+      "horario": "08:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 04 - Trabalhando de graca.mp4",
@@ -886,7 +886,7 @@
     },
     {
       "id": "reel-20261015-1100-f80c2567d4",
-      "data": "2026-10-15",
+      "data": "2026-10-07",
       "horario": "11:00",
       "status": "pendente",
       "origem": {
@@ -910,8 +910,8 @@
     },
     {
       "id": "reel-20261015-1900-c7210cdcfe",
-      "data": "2026-10-15",
-      "horario": "19:00",
+      "data": "2026-10-07",
+      "horario": "14:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 06 - Corrida dos ratos.mp4",
@@ -934,8 +934,8 @@
     },
     {
       "id": "reel-20261016-1100-909cafc811",
-      "data": "2026-10-16",
-      "horario": "11:00",
+      "data": "2026-10-07",
+      "horario": "17:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Mente Milionaria 07 - Conta de padeiro.mp4",
@@ -958,8 +958,8 @@
     },
     {
       "id": "reel-20261016-1900-1de292ec17",
-      "data": "2026-10-16",
-      "horario": "19:00",
+      "data": "2026-10-07",
+      "horario": "20:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 07 - O aumento que some.mp4",
@@ -982,8 +982,8 @@
     },
     {
       "id": "reel-20261017-1100-a88c59d2a9",
-      "data": "2026-10-17",
-      "horario": "11:00",
+      "data": "2026-10-08",
+      "horario": "08:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 08 - Ativo x passivo.mp4",
@@ -1006,8 +1006,8 @@
     },
     {
       "id": "reel-20261017-1900-d4224cfacc",
-      "data": "2026-10-17",
-      "horario": "19:00",
+      "data": "2026-10-08",
+      "horario": "11:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 09 - A casa onde voce mora.mp4",
@@ -1030,8 +1030,8 @@
     },
     {
       "id": "reel-20261018-1100-54ee007d18",
-      "data": "2026-10-18",
-      "horario": "11:00",
+      "data": "2026-10-08",
+      "horario": "14:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 10 - A casa que te paga.mp4",
@@ -1054,8 +1054,8 @@
     },
     {
       "id": "reel-20261018-1900-ded70b2c10",
-      "data": "2026-10-18",
-      "horario": "19:00",
+      "data": "2026-10-08",
+      "horario": "17:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 11 - Passivos disfarcados.mp4",
@@ -1078,8 +1078,8 @@
     },
     {
       "id": "reel-20261019-1100-9b3a3cf7b5",
-      "data": "2026-10-19",
-      "horario": "11:00",
+      "data": "2026-10-08",
+      "horario": "20:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 12 - Pobre classe media rico.mp4",
@@ -1102,8 +1102,8 @@
     },
     {
       "id": "reel-20261019-1900-6b89dd4981",
-      "data": "2026-10-19",
-      "horario": "19:00",
+      "data": "2026-10-09",
+      "horario": "08:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 13 - O negocio de quem.mp4",
@@ -1126,7 +1126,7 @@
     },
     {
       "id": "reel-20261020-1100-368c5b47b5",
-      "data": "2026-10-20",
+      "data": "2026-10-09",
       "horario": "11:00",
       "status": "pendente",
       "origem": {
@@ -1150,8 +1150,8 @@
     },
     {
       "id": "reel-20261020-1900-4674bc300f",
-      "data": "2026-10-20",
-      "horario": "19:00",
+      "data": "2026-10-09",
+      "horario": "14:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 15 - A ordem dos impostos.mp4",
@@ -1174,8 +1174,8 @@
     },
     {
       "id": "reel-20261021-1100-50ed511a41",
-      "data": "2026-10-21",
-      "horario": "11:00",
+      "data": "2026-10-09",
+      "horario": "17:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Mente Milionaria 16 - Salario tem teto.mp4",
@@ -1198,8 +1198,8 @@
     },
     {
       "id": "reel-20261021-1900-9490c15e97",
-      "data": "2026-10-21",
-      "horario": "19:00",
+      "data": "2026-10-09",
+      "horario": "20:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 16 - Comprar na crise.mp4",
@@ -1222,8 +1222,8 @@
     },
     {
       "id": "reel-20261022-1100-c0677df069",
-      "data": "2026-10-22",
-      "horario": "11:00",
+      "data": "2026-10-10",
+      "horario": "08:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Mente Milionaria 17 - Patrimonio.mp4",
@@ -1246,8 +1246,8 @@
     },
     {
       "id": "reel-20261022-1900-23bcab84c6",
-      "data": "2026-10-22",
-      "horario": "19:00",
+      "data": "2026-10-10",
+      "horario": "11:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 17 - Garimpar oportunidade.mp4",
@@ -1270,8 +1270,8 @@
     },
     {
       "id": "reel-20261023-1100-f852cf083c",
-      "data": "2026-10-23",
-      "horario": "11:00",
+      "data": "2026-10-10",
+      "horario": "14:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Mente Milionaria 18 - Quando eu tiver mais eu organizo.mp4",
@@ -1294,8 +1294,8 @@
     },
     {
       "id": "reel-20261023-1900-69ae5e0054",
-      "data": "2026-10-23",
-      "horario": "19:00",
+      "data": "2026-10-10",
+      "horario": "17:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 18 - O timido que foi vender.mp4",
@@ -1318,8 +1318,8 @@
     },
     {
       "id": "reel-20261024-1100-7971dd4ddc",
-      "data": "2026-10-24",
-      "horario": "11:00",
+      "data": "2026-10-10",
+      "horario": "20:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Mente Milionaria 19 - Dinheiro que trabalha.mp4",
@@ -1342,8 +1342,8 @@
     },
     {
       "id": "reel-20261024-1900-1a1c1b7ac7",
-      "data": "2026-10-24",
-      "horario": "19:00",
+      "data": "2026-10-11",
+      "horario": "08:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 19 - Paga voce primeiro.mp4",
@@ -1366,7 +1366,7 @@
     },
     {
       "id": "reel-20261025-1100-f8fb996e9f",
-      "data": "2026-10-25",
+      "data": "2026-10-11",
       "horario": "11:00",
       "status": "pendente",
       "origem": {
@@ -1390,8 +1390,8 @@
     },
     {
       "id": "reel-20261025-1900-ca0258c4a6",
-      "data": "2026-10-25",
-      "horario": "19:00",
+      "data": "2026-10-11",
+      "horario": "14:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 20 - O que trava as pessoas.mp4",
