@@ -126,7 +126,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-7fc1ed1d54-Mente-Milionaria-01---Termostato-do-dinheiro.mp4",
             "sha256": "7fc1ed1d54ec5e99e9918c5f0b2f38a34f262b8835b7e94992831480f01d4e1b",
             "tamanho_bytes": 7763534,
-            "duracao_segundos": 33.1
+            "duracao_segundos": 33.1,
+            "removido_da_release_em": "2026-09-29T09:18:17.491903-03:00"
           },
           "instagram": {
             "status": "publicado",
