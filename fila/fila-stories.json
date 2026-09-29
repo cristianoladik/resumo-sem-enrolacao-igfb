@@ -110,7 +110,7 @@
       "id": "story-20260929-7fc1ed1d54",
       "data": "2026-09-29",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 01 - Termostato do dinheiro.mp4",
         "sha256": "7fc1ed1d54ec5e99e9918c5f0b2f38a34f262b8835b7e94992831480f01d4e1b",
@@ -120,7 +120,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-7fc1ed1d54-Mente-Milionaria-01---Termostato-do-dinheiro.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-7fc1ed1d54-Mente-Milionaria-01---Termostato-do-dinheiro.mp4",
@@ -129,13 +129,30 @@
             "duracao_segundos": 33.1
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18124999201853423",
+            "publish_iniciado_em": "2026-09-29T09:16:41-03:00",
+            "id": "17913396696468016",
+            "publicado_em": "2026-09-29T09:16:50-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2585964088551804",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-09-29T09:16:59-03:00",
+            "post_id_candidato": "1062801756627941",
+            "finish_em": "2026-09-29T09:17:07-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjEwNjI4MDE3NjY2Mjc5NDA=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1062801756627941",
+            "publicado_em": "2026-09-29T09:18:14-03:00"
+          },
+          "concluido_em": "2026-09-29T09:18:14-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-09-29T09:18:14-03:00"
     },
     {
       "id": "story-20260930-171fb34342",
