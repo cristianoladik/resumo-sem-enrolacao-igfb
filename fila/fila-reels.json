@@ -126,7 +126,7 @@
       "id": "reel-20260929-1100-b39334d2ee",
       "data": "2026-09-29",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 04 - Voce paga todo mundo.mp4",
         "sha256": "b39334d2eeb0b990b86d63322afc55c0686e165c8b5ad75f2c96aedf4feb80c0"
@@ -139,12 +139,17 @@
       },
       "instagram": {
         "legenda": "Você paga aluguel, mercado, cartão, e sempre esquece de pagar uma pessoa: você mesmo.\n\nNo livro O Homem Mais Rico da Babilônia, Arkad aprende que uma parte de tudo que você ganha, pelo menos dez por cento, é sua pra guardar, antes de qualquer conta.\n\nVocê tem que ser a primeira conta do mês, não a última.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18128483797738908",
+        "publicado_em": "2026-09-29T11:11:10.187301-03:00"
       },
       "facebook": {
         "legenda": "Você paga aluguel, mercado, cartão, e sempre esquece de pagar uma pessoa: você mesmo.\n\nNo livro O Homem Mais Rico da Babilônia, Arkad aprende que uma parte de tudo que você ganha, pelo menos dez por cento, é sua pra guardar, antes de qualquer conta.\n\nVocê tem que ser a primeira conta do mês, não a última.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1071757035673212",
+        "publicado_em": "2026-09-29T11:11:23.002513-03:00"
+      },
+      "concluido_em": "2026-09-29T11:11:23.004923-03:00"
     },
     {
       "id": "reel-20260929-1900-287885c7b1",
