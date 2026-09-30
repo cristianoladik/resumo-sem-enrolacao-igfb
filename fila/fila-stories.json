@@ -2014,6 +2014,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261129-47605e5224",
+      "data": "2026-11-29",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia Deixe de Ser Pobre 01 - Nunca vai dar.mp4",
+        "sha256": "47605e52247fb3fb91308e04222d0cb3e910d61024cccb7916f0946c71ebf9c2",
+        "pacote": "Babilonia Deixe de Ser Pobre 01 - Nunca vai dar",
+        "pacote_id": "story-47605e52247f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-47605e5224-Babilonia-Deixe-de-Ser-Pobre-01---Nunca-vai-dar.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-47605e5224-Babilonia-Deixe-de-Ser-Pobre-01---Nunca-vai-dar.mp4",
+            "sha256": "47605e52247fb3fb91308e04222d0cb3e910d61024cccb7916f0946c71ebf9c2",
+            "tamanho_bytes": 11605328,
+            "duracao_segundos": 48.708
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
