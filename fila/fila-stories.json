@@ -159,7 +159,7 @@
       "id": "story-20260930-171fb34342",
       "data": "2026-09-30",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 02 - Frases de infancia.mp4",
         "sha256": "171fb34342fe5fcf2dcd266c1aeb6317e95f692eebb41693384ade308f904e54",
@@ -169,7 +169,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-171fb34342-Mente-Milionaria-02---Frases-de-infancia.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-171fb34342-Mente-Milionaria-02---Frases-de-infancia.mp4",
@@ -178,15 +178,18 @@
             "duracao_segundos": 31.5
           },
           "instagram": {
-            "status": "erro",
-            "tentativas": 1,
+            "status": "publicado",
+            "tentativas": 2,
             "container_terminal": {
               "id": "18125206453853423",
               "status": "ERROR",
               "detectado_em": "2026-09-30T09:16:03-03:00"
             },
-            "erro": "O container do Instagram terminou em ERROR/EXPIRED antes do publish; ele foi descartado e um novo container poderá ser criado na próxima execução.",
-            "ultima_tentativa_em": "2026-09-30T09:16:03-03:00"
+            "ultima_tentativa_em": "2026-09-30T09:16:03-03:00",
+            "container_id": "18125243407853423",
+            "publish_iniciado_em": "2026-09-30T12:32:19-03:00",
+            "id": "18072780515728399",
+            "publicado_em": "2026-09-30T12:32:27-03:00"
           },
           "facebook": {
             "status": "publicado",
@@ -200,9 +203,11 @@
             "id_tipo": "post_id",
             "id": "1661183618730717",
             "publicado_em": "2026-09-30T09:17:25-03:00"
-          }
+          },
+          "concluido_em": "2026-09-30T12:32:27-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-09-30T12:32:27-03:00"
     },
     {
       "id": "story-20261001-8070138d95",
