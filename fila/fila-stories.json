@@ -1921,6 +1921,99 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261126-de97c8a50e",
+      "data": "2026-11-26",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "A Sutil Arte 01 - O guitarrista dos 25 milhoes.mp4",
+        "sha256": "de97c8a50e015bd845f4416a6e17fa8927881ee53d3dba7201da187bef2bf64c",
+        "pacote": "A Sutil Arte 01 - O guitarrista dos 25 milhoes",
+        "pacote_id": "story-de97c8a50e01"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-de97c8a50e-A-Sutil-Arte-01---O-guitarrista-dos-25-milhoes.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-de97c8a50e-A-Sutil-Arte-01---O-guitarrista-dos-25-milhoes.mp4",
+            "sha256": "de97c8a50e015bd845f4416a6e17fa8927881ee53d3dba7201da187bef2bf64c",
+            "tamanho_bytes": 7296692,
+            "duracao_segundos": 32.292
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261127-0a81b9c068",
+      "data": "2026-11-27",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia Casais Inteligentes 01 - Dividir no meio e injusto.mp4",
+        "sha256": "0a81b9c0684d024ca4aee2b48462c70d3ace640934e9331fe619c231915d0f2a",
+        "pacote": "Babilonia Casais Inteligentes 01 - Dividir no meio e injusto",
+        "pacote_id": "story-0a81b9c0684d"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-0a81b9c068-Babilonia-Casais-Inteligentes-01---Dividir-no-meio-e-injusto.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-0a81b9c068-Babilonia-Casais-Inteligentes-01---Dividir-no-meio-e-injusto.mp4",
+            "sha256": "0a81b9c0684d024ca4aee2b48462c70d3ace640934e9331fe619c231915d0f2a",
+            "tamanho_bytes": 12156902,
+            "duracao_segundos": 52.833
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261128-c8836a1b09",
+      "data": "2026-11-28",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia Como Fazer Amigos 01 - Cento e cinquenta naos.mp4",
+        "sha256": "c8836a1b09a79a45dfee802b410622dd3911bb2385c5d458069c268f8dc23222",
+        "pacote": "Babilonia Como Fazer Amigos 01 - Cento e cinquenta naos",
+        "pacote_id": "story-c8836a1b09a7"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-c8836a1b09-Babilonia-Como-Fazer-Amigos-01---Cento-e-cinquenta-naos.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-c8836a1b09-Babilonia-Como-Fazer-Amigos-01---Cento-e-cinquenta-naos.mp4",
+            "sha256": "c8836a1b09a79a45dfee802b410622dd3911bb2385c5d458069c268f8dc23222",
+            "tamanho_bytes": 7547886,
+            "duracao_segundos": 35.0
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
