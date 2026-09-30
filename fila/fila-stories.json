@@ -178,10 +178,28 @@
             "duracao_segundos": 31.5
           },
           "instagram": {
-            "status": "pendente"
+            "status": "erro",
+            "tentativas": 1,
+            "container_terminal": {
+              "id": "18125206453853423",
+              "status": "ERROR",
+              "detectado_em": "2026-09-30T09:16:03-03:00"
+            },
+            "erro": "O container do Instagram terminou em ERROR/EXPIRED antes do publish; ele foi descartado e um novo container poderá ser criado na próxima execução.",
+            "ultima_tentativa_em": "2026-09-30T09:16:03-03:00"
           },
           "facebook": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1407393780917325",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-09-30T09:16:11-03:00",
+            "post_id_candidato": "1661183618730717",
+            "finish_em": "2026-09-30T09:16:17-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjE2NjExODM2MjIwNjQwNTA=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1661183618730717",
+            "publicado_em": "2026-09-30T09:17:25-03:00"
           }
         }
       ]
