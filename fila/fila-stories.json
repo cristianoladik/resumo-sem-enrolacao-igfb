@@ -175,7 +175,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-171fb34342-Mente-Milionaria-02---Frases-de-infancia.mp4",
             "sha256": "171fb34342fe5fcf2dcd266c1aeb6317e95f692eebb41693384ade308f904e54",
             "tamanho_bytes": 8082134,
-            "duracao_segundos": 31.5
+            "duracao_segundos": 31.5,
+            "removido_da_release_em": "2026-09-30T12:32:31.294855-03:00"
           },
           "instagram": {
             "status": "publicado",
