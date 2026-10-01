@@ -2069,6 +2069,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261130-bdf35b3ccf",
+      "data": "2026-11-30",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia Dinheiro Segredos 01 - A inflacao come a sua poupanca.mp4",
+        "sha256": "bdf35b3ccfdb4fea066b33defa47b9d16eccee83c66cf1c790b2e0b827240425",
+        "pacote": "Babilonia Dinheiro Segredos 01 - A inflacao come a sua poupanca",
+        "pacote_id": "story-bdf35b3ccfdb"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-bdf35b3ccf-Babilonia-Dinheiro-Segredos-01---A-inflacao-come-a-sua-poupa.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-bdf35b3ccf-Babilonia-Dinheiro-Segredos-01---A-inflacao-come-a-sua-poupa.mp4",
+            "sha256": "bdf35b3ccfdb4fea066b33defa47b9d16eccee83c66cf1c790b2e0b827240425",
+            "tamanho_bytes": 7305370,
+            "duracao_segundos": 30.75
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
