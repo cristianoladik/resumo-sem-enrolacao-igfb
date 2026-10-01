@@ -214,7 +214,7 @@
       "id": "story-20261001-8070138d95",
       "data": "2026-10-01",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 03 - Comeu os filhos do ouro.mp4",
         "sha256": "8070138d955f4b4f60b7052563dc236f9ba34fd9adbeeaf66734be0115c9b43a",
@@ -224,7 +224,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-8070138d95-Babilonia-03---Comeu-os-filhos-do-ouro.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-8070138d95-Babilonia-03---Comeu-os-filhos-do-ouro.mp4",
@@ -233,13 +233,30 @@
             "duracao_segundos": 28.733
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18125386252853423",
+            "publish_iniciado_em": "2026-10-01T09:16:57-03:00",
+            "id": "18089303699239045",
+            "publicado_em": "2026-10-01T09:17:05-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "4121811867955501",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-01T09:17:13-03:00",
+            "post_id_candidato": "1102507165764149",
+            "finish_em": "2026-10-01T09:17:17-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjExMDI1MDcxNjkwOTc0ODI=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1102507165764149",
+            "publicado_em": "2026-10-01T09:17:53-03:00"
+          },
+          "concluido_em": "2026-10-01T09:17:53-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-01T09:17:53-03:00"
     },
     {
       "id": "story-20261002-584c1759cc",
