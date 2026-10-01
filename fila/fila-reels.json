@@ -306,7 +306,7 @@
       "id": "reel-20261002-1100-529e0f2348",
       "data": "2026-10-01",
       "horario": "19:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 07 - Ganhou mais gastou mais.mp4",
         "sha256": "529e0f2348b01cc84fbda475657c65d66c93f167a890cb554bb4c6263f16f786"
@@ -319,12 +319,17 @@
       },
       "instagram": {
         "legenda": "Ganhou aumento e continua sem sobrar nada no fim do mês?\n\nO livro O Homem Mais Rico da Babilônia explica que o gasto cresce do tamanho do salário, e muita coisa que a gente chama de necessidade é só vontade.\n\nA dica é escrever tudo o que você gasta e perguntar, item por item: isso é necessidade ou vontade?\n\nSem controlar, nunca sobra, nem ganhando o dobro.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18194008786401105",
+        "publicado_em": "2026-10-01T19:10:59.864156-03:00"
       },
       "facebook": {
         "legenda": "Ganhou aumento e continua sem sobrar nada no fim do mês?\n\nO livro O Homem Mais Rico da Babilônia explica que o gasto cresce do tamanho do salário, e muita coisa que a gente chama de necessidade é só vontade.\n\nA dica é escrever tudo o que você gasta e perguntar, item por item: isso é necessidade ou vontade?\n\nSem controlar, nunca sobra, nem ganhando o dobro.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1420636346911383",
+        "publicado_em": "2026-10-01T19:11:11.150467-03:00"
+      },
+      "concluido_em": "2026-10-01T19:11:11.159923-03:00"
     },
     {
       "id": "reel-20261002-1900-83f32673a2",
