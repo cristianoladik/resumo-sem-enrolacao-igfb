@@ -230,7 +230,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-8070138d95-Babilonia-03---Comeu-os-filhos-do-ouro.mp4",
             "sha256": "8070138d955f4b4f60b7052563dc236f9ba34fd9adbeeaf66734be0115c9b43a",
             "tamanho_bytes": 8047870,
-            "duracao_segundos": 28.733
+            "duracao_segundos": 28.733,
+            "removido_da_release_em": "2026-10-01T09:17:56.226027-03:00"
           },
           "instagram": {
             "status": "publicado",
