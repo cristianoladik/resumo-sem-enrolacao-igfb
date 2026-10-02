@@ -279,7 +279,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-584c1759cc-Mente-Milionaria-03---A-raiz-e-o-fruto.mp4",
             "sha256": "584c1759ccc933c9e6834cb60d7ccb64a9a91ef887712584d2298a62de5edfa1",
             "tamanho_bytes": 8735116,
-            "duracao_segundos": 31.033
+            "duracao_segundos": 31.033,
+            "removido_da_release_em": "2026-10-02T09:18:07.597019-03:00"
           },
           "instagram": {
             "status": "publicado",
