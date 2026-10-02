@@ -2118,6 +2118,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261201-968f202bad",
+      "data": "2026-12-01",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia Do Mil ao Milhao 01 - Sem cortar o cafezinho.mp4",
+        "sha256": "968f202badff26126d70e54fdeca70bf0f2d68216a4a978281fe91607d1adfcb",
+        "pacote": "Babilonia Do Mil ao Milhao 01 - Sem cortar o cafezinho",
+        "pacote_id": "story-968f202badff"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-968f202bad-Babilonia-Do-Mil-ao-Milhao-01---Sem-cortar-o-cafezinho.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-968f202bad-Babilonia-Do-Mil-ao-Milhao-01---Sem-cortar-o-cafezinho.mp4",
+            "sha256": "968f202badff26126d70e54fdeca70bf0f2d68216a4a978281fe91607d1adfcb",
+            "tamanho_bytes": 7787129,
+            "duracao_segundos": 30.667
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
