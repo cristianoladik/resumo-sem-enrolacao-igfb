@@ -263,7 +263,7 @@
       "id": "story-20261002-584c1759cc",
       "data": "2026-10-02",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 03 - A raiz e o fruto.mp4",
         "sha256": "584c1759ccc933c9e6834cb60d7ccb64a9a91ef887712584d2298a62de5edfa1",
@@ -273,7 +273,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-584c1759cc-Mente-Milionaria-03---A-raiz-e-o-fruto.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-584c1759cc-Mente-Milionaria-03---A-raiz-e-o-fruto.mp4",
@@ -282,13 +282,30 @@
             "duracao_segundos": 31.033
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18125538787853423",
+            "publish_iniciado_em": "2026-10-02T09:17:10-03:00",
+            "id": "18129084346693396",
+            "publicado_em": "2026-10-02T09:17:18-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1786529599349616",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-02T09:17:24-03:00",
+            "post_id_candidato": "1106239155429567",
+            "finish_em": "2026-10-02T09:17:28-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjExMDYyMzkxNjU0Mjk1NjY=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1106239155429567",
+            "publicado_em": "2026-10-02T09:18:04-03:00"
+          },
+          "concluido_em": "2026-10-02T09:18:04-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-02T09:18:04-03:00"
     },
     {
       "id": "story-20261003-b39334d2ee",
