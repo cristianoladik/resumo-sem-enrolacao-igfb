@@ -516,7 +516,7 @@
       "id": "reel-20261005-1900-e6f04b5e6b",
       "data": "2026-10-03",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 14 - A sorte.mp4",
         "sha256": "e6f04b5e6b57b2c6e9aebdd7d5fc492d749db5e8c391627f98cb49c29e98f545"
@@ -529,12 +529,17 @@
       },
       "instagram": {
         "legenda": "A sorte não aparece pra quem fica esperando por ela.\n\nO livro O Homem Mais Rico da Babilônia tem um capítulo só sobre isso, e a conclusão é clara: a sorte gosta de quem age.\n\nA oportunidade aparece, quem age na hora entra, quem deixa pra depois perde.\n\nMuitas vezes não é falta de sorte, é falta de ação.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18165848806483143",
+        "publicado_em": "2026-10-03T14:12:11.834450-03:00"
       },
       "facebook": {
         "legenda": "A sorte não aparece pra quem fica esperando por ela.\n\nO livro O Homem Mais Rico da Babilônia tem um capítulo só sobre isso, e a conclusão é clara: a sorte gosta de quem age.\n\nA oportunidade aparece, quem age na hora entra, quem deixa pra depois perde.\n\nMuitas vezes não é falta de sorte, é falta de ação.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2297101941043461",
+        "publicado_em": "2026-10-03T14:12:23.675293-03:00"
+      },
+      "concluido_em": "2026-10-03T14:12:23.683049-03:00"
     },
     {
       "id": "reel-20261006-1100-af21afe07b",
