@@ -2167,6 +2167,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261202-76cde35d79",
+      "data": "2026-12-02",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Credito Vale Mais que Dinheiro 01 - Catorze anos pra comprar a vista.mp4",
+        "sha256": "76cde35d7910f0ed695ae2709e4e3a4c1957169956615079269d9975030040c4",
+        "pacote": "Credito Vale Mais que Dinheiro 01 - Catorze anos pra comprar a vista",
+        "pacote_id": "story-76cde35d7910"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-76cde35d79-Credito-Vale-Mais-que-Dinheiro-01---Catorze-anos-pra-comprar.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-76cde35d79-Credito-Vale-Mais-que-Dinheiro-01---Catorze-anos-pra-comprar.mp4",
+            "sha256": "76cde35d7910f0ed695ae2709e4e3a4c1957169956615079269d9975030040c4",
+            "tamanho_bytes": 7590709,
+            "duracao_segundos": 34.958
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
