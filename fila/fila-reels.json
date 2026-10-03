@@ -546,7 +546,7 @@
       "id": "reel-20261006-1100-af21afe07b",
       "data": "2026-10-03",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 15 - A conta dos 60 mil.mp4",
         "sha256": "af21afe07b7f9413f2a3c20ab50374d9ce72cad2d5198882f81d47552a0189d3"
@@ -559,12 +559,17 @@
       },
       "instagram": {
         "legenda": "Guardando dez por cento de cinco mil reais por mês, quanto você tem em dez anos?\n\nFaz a conta: são sessenta mil reais, e olha que nem contei rendimento nenhum.\n\nEssa é a primeira regra do livro O Homem Mais Rico da Babilônia, de cada dez moedas que entram, uma fica guardada.\n\nAgora imagina esse dinheiro trabalhando pra você.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18123967021807325",
+        "publicado_em": "2026-10-03T19:11:59.549270-03:00"
       },
       "facebook": {
         "legenda": "Guardando dez por cento de cinco mil reais por mês, quanto você tem em dez anos?\n\nFaz a conta: são sessenta mil reais, e olha que nem contei rendimento nenhum.\n\nEssa é a primeira regra do livro O Homem Mais Rico da Babilônia, de cada dez moedas que entram, uma fica guardada.\n\nAgora imagina esse dinheiro trabalhando pra você.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "871751452594563",
+        "publicado_em": "2026-10-03T19:12:07.816279-03:00"
+      },
+      "concluido_em": "2026-10-03T19:12:07.823864-03:00"
     },
     {
       "id": "reel-20261006-1900-dfa6aaeded",
