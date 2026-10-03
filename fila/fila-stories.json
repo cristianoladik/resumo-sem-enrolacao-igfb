@@ -312,7 +312,7 @@
       "id": "story-20261003-b39334d2ee",
       "data": "2026-10-03",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 04 - Voce paga todo mundo.mp4",
         "sha256": "b39334d2eeb0b990b86d63322afc55c0686e165c8b5ad75f2c96aedf4feb80c0",
@@ -322,7 +322,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-b39334d2ee-Babilonia-04---Voce-paga-todo-mundo.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-b39334d2ee-Babilonia-04---Voce-paga-todo-mundo.mp4",
@@ -331,13 +331,30 @@
             "duracao_segundos": 27.6
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18125678359853423",
+            "publish_iniciado_em": "2026-10-03T09:28:53-03:00",
+            "id": "18418756984152923",
+            "publicado_em": "2026-10-03T09:29:00-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1864189481623800",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-03T09:29:07-03:00",
+            "post_id_candidato": "1567774474657150",
+            "finish_em": "2026-10-03T09:29:11-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjE1Njc3NzQ0Nzc5OTA0ODM=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1567774474657150",
+            "publicado_em": "2026-10-03T09:29:49-03:00"
+          },
+          "concluido_em": "2026-10-03T09:29:49-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-03T09:29:49-03:00"
     },
     {
       "id": "story-20261004-287885c7b1",
