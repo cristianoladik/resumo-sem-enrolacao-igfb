@@ -666,7 +666,7 @@
       "id": "reel-20261008-1100-3dcde8de7b",
       "data": "2026-10-04",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 19 - Desejo definido.mp4",
         "sha256": "3dcde8de7bd2da4c48f803e66ba7329d6ed6f4862f7bae4054e023a0e8aa9553"
@@ -679,12 +679,17 @@
       },
       "instagram": {
         "legenda": "Só querer ficar rico não serve pra nada.\n\nNo livro O Homem Mais Rico da Babilônia, Arkad ensina que o desejo precisa ser simples e ter número: primeiro juntar cinco moedas de ouro, depois dez, depois vinte, cada meta pequena te treina pra próxima.\n\nTroca o quero ficar rico por um número.\n\nQual é o seu primeiro?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17989710821864357",
+        "publicado_em": "2026-10-04T15:06:16.835064-03:00"
       },
       "facebook": {
         "legenda": "Só querer ficar rico não serve pra nada.\n\nNo livro O Homem Mais Rico da Babilônia, Arkad ensina que o desejo precisa ser simples e ter número: primeiro juntar cinco moedas de ouro, depois dez, depois vinte, cada meta pequena te treina pra próxima.\n\nTroca o quero ficar rico por um número.\n\nQual é o seu primeiro?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1643940504146992",
+        "publicado_em": "2026-10-04T15:06:29.649354-03:00"
+      },
+      "concluido_em": "2026-10-04T15:06:29.659559-03:00"
     },
     {
       "id": "reel-20261008-1900-21c4958932",
