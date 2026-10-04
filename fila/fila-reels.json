@@ -576,7 +576,7 @@
       "id": "reel-20261006-1900-dfa6aaeded",
       "data": "2026-10-03",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 16 - A maioria nunca comeca.mp4",
         "sha256": "dfa6aaededff9c460ed0122d88ac9b7644b1952b3ff46f633c6af9760d65678c"
@@ -589,12 +589,17 @@
       },
       "instagram": {
         "legenda": "Esperar ganhar mais pra começar a guardar é armadilha, porque quando o salário sobe, o gasto sobe junto e a sobra nunca aparece.\n\nNo livro O Homem Mais Rico da Babilônia, Arkad ganhava pouco como escrivão e começou a guardar mesmo assim, sem esperar a vida melhorar.\n\nQuem espera sobrar nunca vê sobrar: o hábito vale mais que o valor.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18095439785202819",
+        "publicado_em": "2026-10-03T21:31:26.956486-03:00"
       },
       "facebook": {
         "legenda": "Esperar ganhar mais pra começar a guardar é armadilha, porque quando o salário sobe, o gasto sobe junto e a sobra nunca aparece.\n\nNo livro O Homem Mais Rico da Babilônia, Arkad ganhava pouco como escrivão e começou a guardar mesmo assim, sem esperar a vida melhorar.\n\nQuem espera sobrar nunca vê sobrar: o hábito vale mais que o valor.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2155783821678454",
+        "publicado_em": "2026-10-03T21:31:40.641469-03:00"
+      },
+      "concluido_em": "2026-10-03T21:31:40.650900-03:00"
     },
     {
       "id": "reel-20261007-1100-1841d6b7d7",
