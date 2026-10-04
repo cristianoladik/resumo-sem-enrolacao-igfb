@@ -361,7 +361,7 @@
       "id": "story-20261004-287885c7b1",
       "data": "2026-10-04",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 04 - 7 dias sem reclamar.mp4",
         "sha256": "287885c7b1b76cc19dae4664ec7257a7d8678d50ada22403661dc3234c2b8324",
@@ -371,7 +371,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-287885c7b1-Mente-Milionaria-04---7-dias-sem-reclamar.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-287885c7b1-Mente-Milionaria-04---7-dias-sem-reclamar.mp4",
@@ -380,13 +380,30 @@
             "duracao_segundos": 33.6
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18125812633853423",
+            "publish_iniciado_em": "2026-10-04T09:16:08-03:00",
+            "id": "18110532833027730",
+            "publicado_em": "2026-10-04T09:16:15-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1095925839967445",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-04T09:16:25-03:00",
+            "post_id_candidato": "1439472898110378",
+            "finish_em": "2026-10-04T09:16:33-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjE0Mzk0NzI5MDE0NDM3MTE=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1439472898110378",
+            "publicado_em": "2026-10-04T09:17:09-03:00"
+          },
+          "concluido_em": "2026-10-04T09:17:09-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-04T09:17:09-03:00"
     },
     {
       "id": "story-20261005-4a34d274a2",
