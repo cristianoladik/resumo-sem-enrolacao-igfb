@@ -2216,6 +2216,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261203-637b4a53f7",
+      "data": "2026-12-03",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Dinheiro os Segredos de Quem Tem 01 - Um milhao em bens.mp4",
+        "sha256": "637b4a53f743f60c176e882685af92dbf84ca307a39090ee302fd671e678de7d",
+        "pacote": "Dinheiro os Segredos de Quem Tem 01 - Um milhao em bens",
+        "pacote_id": "story-637b4a53f743"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-637b4a53f7-Dinheiro-os-Segredos-de-Quem-Tem-01---Um-milhao-em-bens.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-637b4a53f7-Dinheiro-os-Segredos-de-Quem-Tem-01---Um-milhao-em-bens.mp4",
+            "sha256": "637b4a53f743f60c176e882685af92dbf84ca307a39090ee302fd671e678de7d",
+            "tamanho_bytes": 8649011,
+            "duracao_segundos": 38.542
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
