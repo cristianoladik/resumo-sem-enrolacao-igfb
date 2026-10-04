@@ -696,7 +696,7 @@
       "id": "reel-20261008-1900-21c4958932",
       "data": "2026-10-04",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 20 - Nao e ficar rico rapido.mp4",
         "sha256": "21c4958932ef2fda741b60b7e1a573432f1804aa0c1ff4ada1d8f275bad054f6"
@@ -709,12 +709,17 @@
       },
       "instagram": {
         "legenda": "Esse livro não ensina a ficar rico rápido, ensina uma coisa melhor.\n\nO Homem Mais Rico da Babilônia tem cem anos e continua vendendo porque a receita nunca mudou: se paga primeiro, controla os gastos, pede conselho pra quem entende, protege o que juntou e deixa o dinheiro trabalhar.\n\nPode demorar mais, mas chega e fica.\n\nRico rápido é promessa, rico devagar é método.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18117549952986803",
+        "publicado_em": "2026-10-04T18:26:35.910563-03:00"
       },
       "facebook": {
         "legenda": "Esse livro não ensina a ficar rico rápido, ensina uma coisa melhor.\n\nO Homem Mais Rico da Babilônia tem cem anos e continua vendendo porque a receita nunca mudou: se paga primeiro, controla os gastos, pede conselho pra quem entende, protege o que juntou e deixa o dinheiro trabalhar.\n\nPode demorar mais, mas chega e fica.\n\nRico rápido é promessa, rico devagar é método.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2535479396943644",
+        "publicado_em": "2026-10-04T18:26:45.198471-03:00"
+      },
+      "concluido_em": "2026-10-04T18:26:45.208100-03:00"
     },
     {
       "id": "reel-20261009-1100-0b3eb0664f",
