@@ -377,7 +377,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-287885c7b1-Mente-Milionaria-04---7-dias-sem-reclamar.mp4",
             "sha256": "287885c7b1b76cc19dae4664ec7257a7d8678d50ada22403661dc3234c2b8324",
             "tamanho_bytes": 8984752,
-            "duracao_segundos": 33.6
+            "duracao_segundos": 33.6,
+            "removido_da_release_em": "2026-10-04T09:17:11.893586-03:00"
           },
           "instagram": {
             "status": "publicado",
