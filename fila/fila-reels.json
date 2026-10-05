@@ -756,7 +756,7 @@
       "id": "reel-20261009-1900-a78f5bde68",
       "data": "2026-10-05",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 09 - Admirar quem chegou la.mp4",
         "sha256": "a78f5bde68da75d833822bb96344a6503bf2899c00b991cb5fe37590fbaf252a"
@@ -769,12 +769,17 @@
       },
       "instagram": {
         "legenda": "Já viu um carro bonito e pensou \"roubou\"?\n\nSegundo o livro Os Segredos da Mente Milionária, sua cabeça não deixa você virar aquilo que você critica, então quem cresce admira e aprende com quem chegou lá em vez de julgar.\n\nEm vez de criticar, pergunta: o que essa pessoa fez que eu não faço?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18107747411613899",
+        "publicado_em": "2026-10-05T09:16:32.674213-03:00"
       },
       "facebook": {
         "legenda": "Já viu um carro bonito e pensou \"roubou\"?\n\nSegundo o livro Os Segredos da Mente Milionária, sua cabeça não deixa você virar aquilo que você critica, então quem cresce admira e aprende com quem chegou lá em vez de julgar.\n\nEm vez de criticar, pergunta: o que essa pessoa fez que eu não faço?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1708426130220822",
+        "publicado_em": "2026-10-05T09:16:44.517794-03:00"
+      },
+      "concluido_em": "2026-10-05T09:16:44.525817-03:00"
     },
     {
       "id": "reel-20261010-1100-d4f1c208c2",
