@@ -2265,6 +2265,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261204-53de1e970a",
+      "data": "2026-12-04",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Em Nome do Povo 01 - Vinte mil que viram dez mil.mp4",
+        "sha256": "53de1e970a4a673a3119006cad2413fd6153f4270fe22332b9eb1c9724df8c9a",
+        "pacote": "Em Nome do Povo 01 - Vinte mil que viram dez mil",
+        "pacote_id": "story-53de1e970a4a"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-53de1e970a-Em-Nome-do-Povo-01---Vinte-mil-que-viram-dez-mil.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-53de1e970a-Em-Nome-do-Povo-01---Vinte-mil-que-viram-dez-mil.mp4",
+            "sha256": "53de1e970a4a673a3119006cad2413fd6153f4270fe22332b9eb1c9724df8c9a",
+            "tamanho_bytes": 7190181,
+            "duracao_segundos": 33.583
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
