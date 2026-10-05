@@ -426,7 +426,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-4a34d274a2-Babilonia-05---As-joias-de-vidro.mp4",
             "sha256": "4a34d274a219df00d08eb1719371089f716e69715ffeed49f92f10903d6c8e48",
             "tamanho_bytes": 8015519,
-            "duracao_segundos": 29.633
+            "duracao_segundos": 29.633,
+            "removido_da_release_em": "2026-10-05T09:18:30.451101-03:00"
           },
           "instagram": {
             "status": "publicado",
