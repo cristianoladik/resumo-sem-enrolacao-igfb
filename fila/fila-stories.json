@@ -410,7 +410,7 @@
       "id": "story-20261005-4a34d274a2",
       "data": "2026-10-05",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 05 - As joias de vidro.mp4",
         "sha256": "4a34d274a219df00d08eb1719371089f716e69715ffeed49f92f10903d6c8e48",
@@ -420,7 +420,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-4a34d274a2-Babilonia-05---As-joias-de-vidro.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-4a34d274a2-Babilonia-05---As-joias-de-vidro.mp4",
@@ -429,13 +429,30 @@
             "duracao_segundos": 29.633
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18125941747853423",
+            "publish_iniciado_em": "2026-10-05T09:17:30-03:00",
+            "id": "18076841060465806",
+            "publicado_em": "2026-10-05T09:17:40-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1658101776022914",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-05T09:17:46-03:00",
+            "post_id_candidato": "1959585545401722",
+            "finish_em": "2026-10-05T09:17:51-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjE5NTk1ODU1NDg3MzUwNTU=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1959585545401722",
+            "publicado_em": "2026-10-05T09:18:27-03:00"
+          },
+          "concluido_em": "2026-10-05T09:18:27-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-05T09:18:27-03:00"
     },
     {
       "id": "story-20261006-bf05e1b0e6",
