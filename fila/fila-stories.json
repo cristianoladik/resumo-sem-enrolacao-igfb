@@ -475,7 +475,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-bf05e1b0e6-Mente-Milionaria-05---Jogar-pra-ganhar.mp4",
             "sha256": "bf05e1b0e6bbd279518d56d76e6019cd701228cb5c6bb6a5257c7b28c473ac66",
             "tamanho_bytes": 9167028,
-            "duracao_segundos": 35.633
+            "duracao_segundos": 35.633,
+            "removido_da_release_em": "2026-10-06T09:18:41.179571-03:00"
           },
           "instagram": {
             "status": "publicado",
