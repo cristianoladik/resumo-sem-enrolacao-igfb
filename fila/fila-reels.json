@@ -1035,7 +1035,8 @@
         "asset": "reel-768cdc2169-Pai-Rico-03---O-conselho-do-emprego-seguro.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-768cdc2169-Pai-Rico-03---O-conselho-do-emprego-seguro.mp4",
         "sha256": "768cdc2169c24d9c247ce4ff200343f090d2b5c6652434d3667e6798c7693cdb",
-        "tamanho_bytes": 6976597
+        "tamanho_bytes": 6976597,
+        "removido_da_release_em": "2026-10-06T20:55:22.835246-03:00"
       },
       "instagram": {
         "legenda": "Estudar e arrumar um emprego seguro pode te deixar pobre.\n\nNo livro Pai Rico, Pai Pobre, o autor teve dois pais: um queria segurança, o outro queria liberdade.\n\nQual dessas duas vozes você escuta hoje?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
