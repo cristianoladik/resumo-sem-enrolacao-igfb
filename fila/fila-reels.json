@@ -966,7 +966,7 @@
       "id": "reel-20261013-1100-8276f6aaa3",
       "data": "2026-10-06",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 01 - Salario nao e o problema.mp4",
         "sha256": "8276f6aaa3fbd9343a446458e58f73d8b52ea8f928c489a844780ca71ddd9ce6"
@@ -979,12 +979,17 @@
       },
       "instagram": {
         "legenda": "Tem gente que ganha pouco e enriquece, e gente que ganha muito e vive lascada.\n\nO livro Pai Rico, Pai Pobre explica: a diferença não está no salário, está no jeito que cada um pensa o dinheiro.\n\nQuem pensa certo compra primeiro o que coloca dinheiro no bolso.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18125198126081794",
+        "publicado_em": "2026-10-06T14:50:23.270261-03:00"
       },
       "facebook": {
         "legenda": "Tem gente que ganha pouco e enriquece, e gente que ganha muito e vive lascada.\n\nO livro Pai Rico, Pai Pobre explica: a diferença não está no salário, está no jeito que cada um pensa o dinheiro.\n\nQuem pensa certo compra primeiro o que coloca dinheiro no bolso.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2216761762386379",
+        "publicado_em": "2026-10-06T14:50:32.986748-03:00"
+      },
+      "concluido_em": "2026-10-06T14:50:32.993243-03:00"
     },
     {
       "id": "reel-20261013-1900-8498da5237",
