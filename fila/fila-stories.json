@@ -459,7 +459,7 @@
       "id": "story-20261006-bf05e1b0e6",
       "data": "2026-10-06",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 05 - Jogar pra ganhar.mp4",
         "sha256": "bf05e1b0e6bbd279518d56d76e6019cd701228cb5c6bb6a5257c7b28c473ac66",
@@ -469,7 +469,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-bf05e1b0e6-Mente-Milionaria-05---Jogar-pra-ganhar.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-bf05e1b0e6-Mente-Milionaria-05---Jogar-pra-ganhar.mp4",
@@ -478,13 +478,30 @@
             "duracao_segundos": 35.633
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18126067846853423",
+            "publish_iniciado_em": "2026-10-06T09:17:44-03:00",
+            "id": "18490713124111231",
+            "publicado_em": "2026-10-06T09:17:52-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2141698616422326",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-06T09:17:57-03:00",
+            "post_id_candidato": "1398546188583612",
+            "finish_em": "2026-10-06T09:18:01-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjEzOTg1NDYxOTE5MTY5NDU=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1398546188583612",
+            "publicado_em": "2026-10-06T09:18:38-03:00"
+          },
+          "concluido_em": "2026-10-06T09:18:38-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-06T09:18:38-03:00"
     },
     {
       "id": "story-20261007-9e948b4103",
