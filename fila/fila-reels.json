@@ -996,7 +996,7 @@
       "id": "reel-20261013-1900-8498da5237",
       "data": "2026-10-06",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 02 - Eu nao posso pagar.mp4",
         "sha256": "8498da5237dc4937b3566e37847e4535649a75ae171e4196f3abb8f1b1ca924a"
@@ -1009,12 +1009,17 @@
       },
       "instagram": {
         "legenda": "Para de falar \"eu não posso pagar isso\".\n\nEssa frase desliga o seu cérebro e fecha a conversa.\n\nNo livro Pai Rico, Pai Pobre, o pai rico perguntava diferente: como eu posso pagar isso?\n\nQuem pensa num jeito, uma hora acha.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18133302097659872",
+        "publicado_em": "2026-10-06T17:21:40.858611-03:00"
       },
       "facebook": {
         "legenda": "Para de falar \"eu não posso pagar isso\".\n\nEssa frase desliga o seu cérebro e fecha a conversa.\n\nNo livro Pai Rico, Pai Pobre, o pai rico perguntava diferente: como eu posso pagar isso?\n\nQuem pensa num jeito, uma hora acha.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1608381551025130",
+        "publicado_em": "2026-10-06T17:21:50.624336-03:00"
+      },
+      "concluido_em": "2026-10-06T17:21:50.633246-03:00"
     },
     {
       "id": "reel-20261014-1100-768cdc2169",
