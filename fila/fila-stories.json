@@ -2314,6 +2314,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261205-16bcdafb24",
+      "data": "2026-12-05",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Me Poupe 01 - Dinheirofobia.mp4",
+        "sha256": "16bcdafb2447b1365c1be32108eeec372e72bfafedccd2da1c7f03faebacdfb1",
+        "pacote": "Me Poupe 01 - Dinheirofobia",
+        "pacote_id": "story-16bcdafb2447"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-16bcdafb24-Me-Poupe-01---Dinheirofobia.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-16bcdafb24-Me-Poupe-01---Dinheirofobia.mp4",
+            "sha256": "16bcdafb2447b1365c1be32108eeec372e72bfafedccd2da1c7f03faebacdfb1",
+            "tamanho_bytes": 12571942,
+            "duracao_segundos": 50.917
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
