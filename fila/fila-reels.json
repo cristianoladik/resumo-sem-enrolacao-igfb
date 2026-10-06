@@ -945,7 +945,8 @@
         "asset": "reel-df400bbcc4-Mente-Milionaria-15---A-xicara-cheia.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-df400bbcc4-Mente-Milionaria-15---A-xicara-cheia.mp4",
         "sha256": "df400bbcc40714e97cc4a2e8f1a44b3f4ad0999bee80724fa8568f116b0038e0",
-        "tamanho_bytes": 6947696
+        "tamanho_bytes": 6947696,
+        "removido_da_release_em": "2026-10-06T11:12:21.935010-03:00"
       },
       "instagram": {
         "legenda": "O problema não é não saber, é uma coisa bem pior: não saber e achar que sabe.\n\nO livro Os Segredos da Mente Milionária compara isso a uma xícara cheia até a borda, que não recebe nada de novo enquanto não for esvaziada.\n\nQuem enriquece nunca para de aprender, um pouco todo dia.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
