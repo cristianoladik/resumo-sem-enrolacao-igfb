@@ -1005,7 +1005,8 @@
         "asset": "reel-8498da5237-Pai-Rico-02---Eu-nao-posso-pagar.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-8498da5237-Pai-Rico-02---Eu-nao-posso-pagar.mp4",
         "sha256": "8498da5237dc4937b3566e37847e4535649a75ae171e4196f3abb8f1b1ca924a",
-        "tamanho_bytes": 6302548
+        "tamanho_bytes": 6302548,
+        "removido_da_release_em": "2026-10-06T17:21:53.447160-03:00"
       },
       "instagram": {
         "legenda": "Para de falar \"eu não posso pagar isso\".\n\nEssa frase desliga o seu cérebro e fecha a conversa.\n\nNo livro Pai Rico, Pai Pobre, o pai rico perguntava diferente: como eu posso pagar isso?\n\nQuem pensa num jeito, uma hora acha.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
