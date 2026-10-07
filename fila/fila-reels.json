@@ -1095,7 +1095,8 @@
         "asset": "reel-f80c2567d4-Pai-Rico-05---A-biblioteca-de-gibis.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-f80c2567d4-Pai-Rico-05---A-biblioteca-de-gibis.mp4",
         "sha256": "f80c2567d472948b0dc7995e7ed82b4e5d4020aa3cad150efc682bc75e064adf",
-        "tamanho_bytes": 6921853
+        "tamanho_bytes": 6921853,
+        "removido_da_release_em": "2026-10-07T11:12:13.192173-03:00"
       },
       "instagram": {
         "legenda": "Dois meninos ganharam dinheiro com o lixo de uma mercearia.\n\nNo livro Pai Rico, Pai Pobre, eles montaram uma biblioteca de gibis usados no porão e cobravam das outras crianças pra ler.\n\nPela primeira vez, o dinheiro entrava sem eles trocarem hora por moeda.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
