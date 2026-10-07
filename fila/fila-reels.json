@@ -1125,7 +1125,8 @@
         "asset": "reel-c7210cdcfe-Pai-Rico-06---Corrida-dos-ratos.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-c7210cdcfe-Pai-Rico-06---Corrida-dos-ratos.mp4",
         "sha256": "c7210cdcfeafab06351d047df76026a49a9c01dca0cadfa0753c4fbe28cd2f3e",
-        "tamanho_bytes": 6853109
+        "tamanho_bytes": 6853109,
+        "removido_da_release_em": "2026-10-07T14:32:52.143838-03:00"
       },
       "instagram": {
         "legenda": "Você corre o mês inteiro e não sai do lugar?\n\nO livro Pai Rico, Pai Pobre chama isso de corrida dos ratos: o medo de ficar sem dinheiro te faz aceitar qualquer emprego, e a vontade de ter coisas te faz gastar tudo.\n\nPra sair da roda, não basta correr mais rápido, tem que mudar o jogo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
