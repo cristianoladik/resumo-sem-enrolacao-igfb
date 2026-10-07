@@ -524,7 +524,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-9e948b4103-Babilonia-06---Emprestar-pra-parente.mp4",
             "sha256": "9e948b4103974ce6834ca98e41f2479cf27d99ac10cf041cd0dbee1df85704e9",
             "tamanho_bytes": 8691131,
-            "duracao_segundos": 31.7
+            "duracao_segundos": 31.7,
+            "removido_da_release_em": "2026-10-07T09:19:00.152960-03:00"
           },
           "instagram": {
             "status": "publicado",
