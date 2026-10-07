@@ -508,7 +508,7 @@
       "id": "story-20261007-9e948b4103",
       "data": "2026-10-07",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 06 - Emprestar pra parente.mp4",
         "sha256": "9e948b4103974ce6834ca98e41f2479cf27d99ac10cf041cd0dbee1df85704e9",
@@ -518,7 +518,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-9e948b4103-Babilonia-06---Emprestar-pra-parente.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-9e948b4103-Babilonia-06---Emprestar-pra-parente.mp4",
@@ -527,13 +527,30 @@
             "duracao_segundos": 31.7
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18126193312853423",
+            "publish_iniciado_em": "2026-10-07T09:18:02-03:00",
+            "id": "18067618007685988",
+            "publicado_em": "2026-10-07T09:18:10-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1128979169821942",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-07T09:18:16-03:00",
+            "post_id_candidato": "1740580187401127",
+            "finish_em": "2026-10-07T09:18:21-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjE3NDA1ODAxOTA3MzQ0NjA=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1740580187401127",
+            "publicado_em": "2026-10-07T09:18:57-03:00"
+          },
+          "concluido_em": "2026-10-07T09:18:57-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-07T09:18:57-03:00"
     },
     {
       "id": "story-20261008-878894e173",
