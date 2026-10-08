@@ -1275,7 +1275,8 @@
         "asset": "reel-54ee007d18-Pai-Rico-10---A-casa-que-te-paga.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-54ee007d18-Pai-Rico-10---A-casa-que-te-paga.mp4",
         "sha256": "54ee007d18f0eefe69115516b49ff78a454ebbb3a4b3bd8886da868bfac7b2dd",
-        "tamanho_bytes": 6456102
+        "tamanho_bytes": 6456102,
+        "removido_da_release_em": "2026-10-08T15:21:44.445019-03:00"
       },
       "instagram": {
         "legenda": "Existe um tipo de casa que coloca dinheiro no seu bolso todo mês, e não é a casa onde você mora, é a casa alugada.\n\nNo livro Pai Rico, Pai Pobre, esse é o exemplo perfeito de ativo: o aluguel entra em vez de sair, e o rico usa esse dinheiro pra comprar outro ativo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
