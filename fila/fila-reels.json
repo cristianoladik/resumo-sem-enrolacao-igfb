@@ -1206,7 +1206,7 @@
       "id": "reel-20261017-1100-a88c59d2a9",
       "data": "2026-10-08",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 08 - Ativo x passivo.mp4",
         "sha256": "a88c59d2a9eee253ebfd9f46677e2b4364462c3da32620b5ec30100b29105777"
@@ -1219,12 +1219,17 @@
       },
       "instagram": {
         "legenda": "A lição mais importante de finanças do livro Pai Rico, Pai Pobre cabe em duas frases: ativo é tudo que coloca dinheiro no seu bolso, passivo é tudo que tira.\n\nA maioria compra passivo achando que é ativo, e o mais comum de todos pode ser a casa onde você mora.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18623332852062396",
+        "publicado_em": "2026-10-08T09:18:20.893406-03:00"
       },
       "facebook": {
         "legenda": "A lição mais importante de finanças do livro Pai Rico, Pai Pobre cabe em duas frases: ativo é tudo que coloca dinheiro no seu bolso, passivo é tudo que tira.\n\nA maioria compra passivo achando que é ativo, e o mais comum de todos pode ser a casa onde você mora.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1639757391121863",
+        "publicado_em": "2026-10-08T09:18:32.550231-03:00"
+      },
+      "concluido_em": "2026-10-08T09:18:32.559086-03:00"
     },
     {
       "id": "reel-20261017-1900-d4224cfacc",
