@@ -1266,7 +1266,7 @@
       "id": "reel-20261018-1100-54ee007d18",
       "data": "2026-10-08",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 10 - A casa que te paga.mp4",
         "sha256": "54ee007d18f0eefe69115516b49ff78a454ebbb3a4b3bd8886da868bfac7b2dd"
@@ -1279,12 +1279,17 @@
       },
       "instagram": {
         "legenda": "Existe um tipo de casa que coloca dinheiro no seu bolso todo mês, e não é a casa onde você mora, é a casa alugada.\n\nNo livro Pai Rico, Pai Pobre, esse é o exemplo perfeito de ativo: o aluguel entra em vez de sair, e o rico usa esse dinheiro pra comprar outro ativo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18105536597631556",
+        "publicado_em": "2026-10-08T15:21:29.347402-03:00"
       },
       "facebook": {
         "legenda": "Existe um tipo de casa que coloca dinheiro no seu bolso todo mês, e não é a casa onde você mora, é a casa alugada.\n\nNo livro Pai Rico, Pai Pobre, esse é o exemplo perfeito de ativo: o aluguel entra em vez de sair, e o rico usa esse dinheiro pra comprar outro ativo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1141303055247025",
+        "publicado_em": "2026-10-08T15:21:41.646247-03:00"
+      },
+      "concluido_em": "2026-10-08T15:21:41.657405-03:00"
     },
     {
       "id": "reel-20261018-1900-ded70b2c10",
