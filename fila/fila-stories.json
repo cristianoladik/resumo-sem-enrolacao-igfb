@@ -2381,6 +2381,68 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261206-409cc36aba",
+      "data": "2026-12-06",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Os Codigos do Milhao 01 - O salario que se pagou no primeiro mes.mp4",
+        "sha256": "409cc36aba00207d5e8b4887db1dfedf14449ee3c1dc0dcb2bb2b5f7101636ea",
+        "pacote": "Os Codigos do Milhao 01 - O salario que se pagou no primeiro mes",
+        "pacote_id": "story-409cc36aba00"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-409cc36aba-Os-Codigos-do-Milhao-01---O-salario-que-se-pagou-no-primeiro.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-409cc36aba-Os-Codigos-do-Milhao-01---O-salario-que-se-pagou-no-primeiro.mp4",
+            "sha256": "409cc36aba00207d5e8b4887db1dfedf14449ee3c1dc0dcb2bb2b5f7101636ea",
+            "tamanho_bytes": 7666732,
+            "duracao_segundos": 33.875
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261207-48256f151f",
+      "data": "2026-12-07",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pense como um Bilionario 01 - Ficar rico e facil, dificil e continuar.mp4",
+        "sha256": "48256f151f38286a60b28cd323b7491deacf49fede731297b0fa081b4946a133",
+        "pacote": "Pense como um Bilionario 01 - Ficar rico e facil, dificil e continuar",
+        "pacote_id": "story-48256f151f38"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-48256f151f-Pense-como-um-Bilionario-01---Ficar-rico-e-facil-dificil-e-c.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-48256f151f-Pense-como-um-Bilionario-01---Ficar-rico-e-facil-dificil-e-c.mp4",
+            "sha256": "48256f151f38286a60b28cd323b7491deacf49fede731297b0fa081b4946a133",
+            "tamanho_bytes": 10352817,
+            "duracao_segundos": 49.375
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
