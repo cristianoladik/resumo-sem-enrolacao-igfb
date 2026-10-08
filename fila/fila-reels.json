@@ -1176,7 +1176,7 @@
       "id": "reel-20261016-1900-1de292ec17",
       "data": "2026-10-07",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 07 - O aumento que some.mp4",
         "sha256": "1de292ec17e9d1a9f35f7e5780c047865a80c4087fb02f166a8d9e1f30695c83"
@@ -1189,12 +1189,17 @@
       },
       "instagram": {
         "legenda": "Por que o aumento some em três meses?\n\nO livro Pai Rico, Pai Pobre explica: quando o salário sobe, os gastos sobem junto, e você continua trabalhando só pra pagar conta.\n\nO que resolve não é ganhar mais, é o que você faz com o dinheiro a mais.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18022559933716395",
+        "publicado_em": "2026-10-07T22:49:48.738309-03:00"
       },
       "facebook": {
         "legenda": "Por que o aumento some em três meses?\n\nO livro Pai Rico, Pai Pobre explica: quando o salário sobe, os gastos sobem junto, e você continua trabalhando só pra pagar conta.\n\nO que resolve não é ganhar mais, é o que você faz com o dinheiro a mais.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "952361824603437",
+        "publicado_em": "2026-10-07T22:50:00.585493-03:00"
+      },
+      "concluido_em": "2026-10-07T22:50:00.595672-03:00"
     },
     {
       "id": "reel-20261017-1100-a88c59d2a9",
