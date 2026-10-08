@@ -1245,7 +1245,8 @@
         "asset": "reel-d4224cfacc-Pai-Rico-09---A-casa-onde-voce-mora.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-d4224cfacc-Pai-Rico-09---A-casa-onde-voce-mora.mp4",
         "sha256": "d4224cfaccc7b419dac0ac2537b16110143cd761f2716cb3e80f47ff8194f81b",
-        "tamanho_bytes": 7841400
+        "tamanho_bytes": 7841400,
+        "removido_da_release_em": "2026-10-08T11:11:20.996905-03:00"
       },
       "instagram": {
         "legenda": "A sua casa não é investimento, pelo menos não pelo livro Pai Rico, Pai Pobre.\n\nTodo mês ela cobra parcela, imposto, luz, água e manutenção, então é dinheiro saindo do bolso, não entrando.\n\nIsso não quer dizer que você não deva ter a sua casa, só que ela não vai te deixar rico sozinha.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
