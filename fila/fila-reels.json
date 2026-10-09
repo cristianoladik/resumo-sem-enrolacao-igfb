@@ -1365,7 +1365,8 @@
         "asset": "reel-6b89dd4981-Pai-Rico-13---O-negocio-de-quem.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-6b89dd4981-Pai-Rico-13---O-negocio-de-quem.mp4",
         "sha256": "6b89dd498175d30e553c0722d88387cb14018019e6816296130feac0811175be",
-        "tamanho_bytes": 6559691
+        "tamanho_bytes": 6559691,
+        "removido_da_release_em": "2026-10-09T10:01:36.567339-03:00"
       },
       "instagram": {
         "legenda": "O seu emprego não é o seu negócio, é o negócio do seu patrão.\n\nNo livro Pai Rico, Pai Pobre, o negócio de verdade é a sua lista de ativos, aquilo que coloca dinheiro no seu bolso mesmo sem você trabalhar.\n\nQuantos itens tem a sua lista hoje?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
