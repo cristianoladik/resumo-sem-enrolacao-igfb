@@ -622,7 +622,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-529e0f2348-Babilonia-07---Ganhou-mais-gastou-mais.mp4",
             "sha256": "529e0f2348b01cc84fbda475657c65d66c93f167a890cb554bb4c6263f16f786",
             "tamanho_bytes": 7143135,
-            "duracao_segundos": 28.4
+            "duracao_segundos": 28.4,
+            "removido_da_release_em": "2026-10-09T10:47:58.803202-03:00"
           },
           "instagram": {
             "status": "publicado",
