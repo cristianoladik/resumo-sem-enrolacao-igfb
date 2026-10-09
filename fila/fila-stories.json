@@ -2461,6 +2461,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261208-d283d6f39a",
+      "data": "2026-12-08",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Tamanho 1m00 - Babilonia 01 - As muralhas da Babilonia.mp4",
+        "sha256": "d283d6f39a82815491df42a47e22594504ea3420372d4248b0d1f635b7de2ac2",
+        "pacote": "Tamanho 1m00 - Babilonia 01 - As muralhas da Babilonia",
+        "pacote_id": "story-d283d6f39a82"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-d283d6f39a-Tamanho-1m00---Babilonia-01---As-muralhas-da-Babilonia.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-d283d6f39a-Tamanho-1m00---Babilonia-01---As-muralhas-da-Babilonia.mp4",
+            "sha256": "d283d6f39a82815491df42a47e22594504ea3420372d4248b0d1f635b7de2ac2",
+            "tamanho_bytes": 14494897,
+            "duracao_segundos": 51.667
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
