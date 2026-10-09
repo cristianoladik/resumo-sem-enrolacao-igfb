@@ -1335,7 +1335,8 @@
         "asset": "reel-9b3a3cf7b5-Pai-Rico-12---Pobre-classe-media-rico.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-9b3a3cf7b5-Pai-Rico-12---Pobre-classe-media-rico.mp4",
         "sha256": "9b3a3cf7b5fafb412d9aae33eef0a6e3e5b849aeb81d5281da59dbbe39850581",
-        "tamanho_bytes": 6362635
+        "tamanho_bytes": 6362635,
+        "removido_da_release_em": "2026-10-08T22:10:37.490373-03:00"
       },
       "instagram": {
         "legenda": "A classe média parece rica, mas vive presa.\n\nO livro Pai Rico, Pai Pobre mostra pra onde vai o dinheiro de cada um: no pobre e na classe média, o salário some em contas e parcelas, no rico são os ativos que trazem o dinheiro.\n\nQual dos três é o seu?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
