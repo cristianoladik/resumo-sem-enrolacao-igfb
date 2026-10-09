@@ -606,7 +606,7 @@
       "id": "story-20261009-529e0f2348",
       "data": "2026-10-09",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 07 - Ganhou mais gastou mais.mp4",
         "sha256": "529e0f2348b01cc84fbda475657c65d66c93f167a890cb554bb4c6263f16f786",
@@ -616,7 +616,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-529e0f2348-Babilonia-07---Ganhou-mais-gastou-mais.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-529e0f2348-Babilonia-07---Ganhou-mais-gastou-mais.mp4",
@@ -625,13 +625,30 @@
             "duracao_segundos": 28.4
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18126436090853423",
+            "publish_iniciado_em": "2026-10-09T10:47:02-03:00",
+            "id": "18053043173593702",
+            "publicado_em": "2026-10-09T10:47:10-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1589140638836261",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-09T10:47:16-03:00",
+            "post_id_candidato": "2443581256170071",
+            "finish_em": "2026-10-09T10:47:20-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjI0NDM1ODEyNTk1MDM0MDQ=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2443581256170071",
+            "publicado_em": "2026-10-09T10:47:56-03:00"
+          },
+          "concluido_em": "2026-10-09T10:47:56-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-09T10:47:56-03:00"
     },
     {
       "id": "story-20261010-83f32673a2",
