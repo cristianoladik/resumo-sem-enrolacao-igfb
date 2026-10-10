@@ -655,7 +655,7 @@
       "id": "story-20261010-83f32673a2",
       "data": "2026-10-10",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 08 - Moeda funcionaria.mp4",
         "sha256": "83f32673a2dc1af4d9a8ae44e67756c69f0b4bb93191d3d2767802f948bfee90",
@@ -665,7 +665,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-83f32673a2-Babilonia-08---Moeda-funcionaria.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-83f32673a2-Babilonia-08---Moeda-funcionaria.mp4",
@@ -674,13 +674,30 @@
             "duracao_segundos": 30.133
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18126548683853423",
+            "publish_iniciado_em": "2026-10-10T09:16:19-03:00",
+            "id": "17976933204135207",
+            "publicado_em": "2026-10-10T09:16:26-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2166487020936859",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-10T09:16:34-03:00",
+            "post_id_candidato": "1714047266352664",
+            "finish_em": "2026-10-10T09:16:38-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjE3MTQwNDcyNzYzNTI2NjM=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1714047266352664",
+            "publicado_em": "2026-10-10T09:17:13-03:00"
+          },
+          "concluido_em": "2026-10-10T09:17:13-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-10T09:17:13-03:00"
     },
     {
       "id": "story-20261011-b37f778daa",
