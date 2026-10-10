@@ -671,7 +671,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-83f32673a2-Babilonia-08---Moeda-funcionaria.mp4",
             "sha256": "83f32673a2dc1af4d9a8ae44e67756c69f0b4bb93191d3d2767802f948bfee90",
             "tamanho_bytes": 7350321,
-            "duracao_segundos": 30.133
+            "duracao_segundos": 30.133,
+            "removido_da_release_em": "2026-10-10T09:17:15.943540-03:00"
           },
           "instagram": {
             "status": "publicado",
