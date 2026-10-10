@@ -1506,7 +1506,7 @@
       "id": "reel-20261022-1100-c0677df069",
       "data": "2026-10-10",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 17 - Patrimonio.mp4",
         "sha256": "c0677df06924ef8e1c50841954984b1f5bffad54ad5d395b0dd0023310504c35"
@@ -1519,12 +1519,17 @@
       },
       "instagram": {
         "legenda": "Ganhar muito não é ser rico, tem uma conta que importa mais: o patrimônio.\n\nO livro Os Segredos da Mente Milionária define patrimônio como o que você tem menos o que você deve, e por isso tem gente que ganha muito e não tem nada, e gente que acumula em silêncio.\n\nO que importa não é quanto entra, é quanto fica.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18107806114949081",
+        "publicado_em": "2026-10-10T09:18:02.255174-03:00"
       },
       "facebook": {
         "legenda": "Ganhar muito não é ser rico, tem uma conta que importa mais: o patrimônio.\n\nO livro Os Segredos da Mente Milionária define patrimônio como o que você tem menos o que você deve, e por isso tem gente que ganha muito e não tem nada, e gente que acumula em silêncio.\n\nO que importa não é quanto entra, é quanto fica.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1467868938541503",
+        "publicado_em": "2026-10-10T09:18:15.329416-03:00"
+      },
+      "concluido_em": "2026-10-10T09:18:15.338623-03:00"
     },
     {
       "id": "reel-20261022-1900-23bcab84c6",
