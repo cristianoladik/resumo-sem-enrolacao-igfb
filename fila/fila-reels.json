@@ -1605,7 +1605,8 @@
         "asset": "reel-69ae5e0054-Pai-Rico-18---O-timido-que-foi-vender.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-69ae5e0054-Pai-Rico-18---O-timido-que-foi-vender.mp4",
         "sha256": "69ae5e0054ed6bdcb24d3445c0794e5d6f8b0ac94bdff25aec294197a05607b7",
-        "tamanho_bytes": 6875967
+        "tamanho_bytes": 6875967,
+        "removido_da_release_em": "2026-10-10T19:11:25.893785-03:00"
       },
       "instagram": {
         "legenda": "O autor do livro Pai Rico, Pai Pobre era tímido e foi vender de porta em porta de propósito, não pelo salário, mas pra aprender a vender e perder o medo de ouvir não.\n\nPensa no seu emprego como uma escola paga: a pergunta certa não é quanto eu ganho aqui, é o que eu estou aprendendo aqui.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
