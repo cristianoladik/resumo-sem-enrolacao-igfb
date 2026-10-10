@@ -2510,6 +2510,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261209-e6ffa459d1",
+      "data": "2026-12-09",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Tamanho 1m00 - Mente Milionaria 01 - Termostato do dinheiro.mp4",
+        "sha256": "e6ffa459d1aef1eabaa20d650e76e9f92b379c7a226a9e522f1299ef02d18c6d",
+        "pacote": "Tamanho 1m00 - Mente Milionaria 01 - Termostato do dinheiro",
+        "pacote_id": "story-e6ffa459d1ae"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-e6ffa459d1-Tamanho-1m00---Mente-Milionaria-01---Termostato-do-dinheiro.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-e6ffa459d1-Tamanho-1m00---Mente-Milionaria-01---Termostato-do-dinheiro.mp4",
+            "sha256": "e6ffa459d1aef1eabaa20d650e76e9f92b379c7a226a9e522f1299ef02d18c6d",
+            "tamanho_bytes": 12047604,
+            "duracao_segundos": 51.542
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
