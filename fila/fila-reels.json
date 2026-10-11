@@ -1665,7 +1665,8 @@
         "asset": "reel-1a1c1b7ac7-Pai-Rico-19---Paga-voce-primeiro.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-1a1c1b7ac7-Pai-Rico-19---Paga-voce-primeiro.mp4",
         "sha256": "1a1c1b7ac7fa88af4244f3b475aadf030efaec5b88125823e08c3cb7c4782ab9",
-        "tamanho_bytes": 6071019
+        "tamanho_bytes": 6071019,
+        "removido_da_release_em": "2026-10-11T09:18:20.342671-03:00"
       },
       "instagram": {
         "legenda": "Você paga todo mundo e investe o que sobra?\n\nPor isso nunca sobra.\n\nO livro Pai Rico, Pai Pobre ensina o contrário: paga você primeiro, separa a parte de investir antes de qualquer conta, e deixa a pressão te empurrar pra buscar renda nova.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
