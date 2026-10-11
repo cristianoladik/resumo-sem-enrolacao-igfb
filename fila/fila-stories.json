@@ -720,7 +720,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-b37f778daa-Babilonia-09---Lucro-facil-e-armadilha.mp4",
             "sha256": "b37f778daae9135e6e048180bdd8e3bba97f9b5ed1ca29f17d5d04c3b1412353",
             "tamanho_bytes": 7756450,
-            "duracao_segundos": 29.6
+            "duracao_segundos": 29.6,
+            "removido_da_release_em": "2026-10-11T09:17:16.564948-03:00"
           },
           "instagram": {
             "status": "publicado",
