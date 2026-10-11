@@ -1725,7 +1725,8 @@
         "asset": "reel-ca0258c4a6-Pai-Rico-20---O-que-trava-as-pessoas.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-ca0258c4a6-Pai-Rico-20---O-que-trava-as-pessoas.mp4",
         "sha256": "ca0258c4a6a13125ccb9469062ab2ea6c265247721f10cc278e5bebccf2e57a2",
-        "tamanho_bytes": 7015079
+        "tamanho_bytes": 7015079,
+        "removido_da_release_em": "2026-10-11T14:16:23.698457-03:00"
       },
       "instagram": {
         "legenda": "Cinco coisas travam quem quer ficar rico, segundo o livro Pai Rico, Pai Pobre: medo de perder dinheiro, desconfiança, preguiça, maus hábitos e orgulho.\n\nO rico não é quem não tem medo, é quem age mesmo com medo e aprende com o erro.\n\nQual desses te trava hoje?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
