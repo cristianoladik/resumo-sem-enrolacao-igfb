@@ -1746,7 +1746,7 @@
       "id": "reel-20261011-1700-de97c8a50e",
       "data": "2026-10-11",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "A Sutil Arte 01 - O guitarrista dos 25 milhoes.mp4",
         "sha256": "de97c8a50e015bd845f4416a6e17fa8927881ee53d3dba7201da187bef2bf64c"
@@ -1759,12 +1759,17 @@
       },
       "instagram": {
         "legenda": "Um guitarrista vendeu mais de vinte e cinco milhões de discos e se achava um fracassado.\n\nO nome dele é Dave Mustaine.\n\nEssa lição está no livro A Sutil Arte.\n\nSofrer não é o problema.\n\nO problema é sofrer pelo valor errado.\n\nEscolhe um valor que depende de você, não do outro.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18102784505217614",
+        "publicado_em": "2026-10-11T19:11:08.366756-03:00"
       },
       "facebook": {
         "legenda": "Um guitarrista vendeu mais de vinte e cinco milhões de discos e se achava um fracassado.\n\nO nome dele é Dave Mustaine.\n\nEssa lição está no livro A Sutil Arte.\n\nSofrer não é o problema.\n\nO problema é sofrer pelo valor errado.\n\nEscolhe um valor que depende de você, não do outro.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1403927231367620",
+        "publicado_em": "2026-10-11T19:11:17.561016-03:00"
+      },
+      "concluido_em": "2026-10-11T19:11:17.567803-03:00"
     },
     {
       "id": "reel-20261011-2000-0a81b9c068",
