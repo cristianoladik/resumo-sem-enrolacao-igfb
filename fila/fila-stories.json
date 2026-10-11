@@ -2559,6 +2559,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261210-6c93c01c3a",
+      "data": "2026-12-10",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "A Sutil Arte 02 - O baterista que saiu dos Beatles.mp4",
+        "sha256": "6c93c01c3a3f9c389ffa1ff9e236c072731f8bb44f28efc892171079606cbc7f",
+        "pacote": "A Sutil Arte 02 - O baterista que saiu dos Beatles",
+        "pacote_id": "story-6c93c01c3a3f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-6c93c01c3a-A-Sutil-Arte-02---O-baterista-que-saiu-dos-Beatles.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-6c93c01c3a-A-Sutil-Arte-02---O-baterista-que-saiu-dos-Beatles.mp4",
+            "sha256": "6c93c01c3a3f9c389ffa1ff9e236c072731f8bb44f28efc892171079606cbc7f",
+            "tamanho_bytes": 9009603,
+            "duracao_segundos": 35.917
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
