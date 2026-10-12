@@ -2608,6 +2608,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261211-3383b643cc",
+      "data": "2026-12-11",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia Casais Inteligentes 02 - O poupador.mp4",
+        "sha256": "3383b643cc747e025dff2d728f1e3e573eef7772845eb32a20d1810e6ff71de0",
+        "pacote": "Babilonia Casais Inteligentes 02 - O poupador",
+        "pacote_id": "story-3383b643cc74"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-3383b643cc-Babilonia-Casais-Inteligentes-02---O-poupador.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-3383b643cc-Babilonia-Casais-Inteligentes-02---O-poupador.mp4",
+            "sha256": "3383b643cc747e025dff2d728f1e3e573eef7772845eb32a20d1810e6ff71de0",
+            "tamanho_bytes": 9454811,
+            "duracao_segundos": 36.5
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
