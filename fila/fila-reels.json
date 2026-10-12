@@ -1905,7 +1905,8 @@
         "asset": "reel-968f202bad-Babilonia-Do-Mil-ao-Milhao-01---Sem-cortar-o-cafezinho.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-968f202bad-Babilonia-Do-Mil-ao-Milhao-01---Sem-cortar-o-cafezinho.mp4",
         "sha256": "968f202badff26126d70e54fdeca70bf0f2d68216a4a978281fe91607d1adfcb",
-        "tamanho_bytes": 7787129
+        "tamanho_bytes": 7787129,
+        "removido_da_release_em": "2026-10-12T17:50:31.839489-03:00"
       },
       "instagram": {
         "legenda": "Te mandaram cortar o cafezinho pra sobrar dinheiro?\n\nO livro Do Mil ao Milhão discorda já na capa.\n\nO cafezinho que te faz feliz pode ficar.\n\nO que sai é o gasto que você nem queria, feito no automático.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
