@@ -1776,7 +1776,7 @@
       "id": "reel-20261011-2000-0a81b9c068",
       "data": "2026-10-11",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Casais Inteligentes 01 - Dividir no meio e injusto.mp4",
         "sha256": "0a81b9c0684d024ca4aee2b48462c70d3ace640934e9331fe619c231915d0f2a"
@@ -1789,12 +1789,17 @@
       },
       "instagram": {
         "legenda": "Dividir as contas no meio parece justo, mas pode ser injusto.\n\nQuem explica é o livro Casais Inteligentes Enriquecem Juntos.\n\nOs dois sentem o mesmo peso no bolso, e ninguém se sente explorado.\n\nNão é lei.\n\nÉ um jeito de falar de justiça sem guerra.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17960215665233842",
+        "publicado_em": "2026-10-11T22:13:18.439536-03:00"
       },
       "facebook": {
         "legenda": "Dividir as contas no meio parece justo, mas pode ser injusto.\n\nQuem explica é o livro Casais Inteligentes Enriquecem Juntos.\n\nOs dois sentem o mesmo peso no bolso, e ninguém se sente explorado.\n\nNão é lei.\n\nÉ um jeito de falar de justiça sem guerra.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1006259602499680",
+        "publicado_em": "2026-10-11T22:13:28.544610-03:00"
+      },
+      "concluido_em": "2026-10-11T22:13:28.553862-03:00"
     },
     {
       "id": "reel-20261012-0800-c8836a1b09",
