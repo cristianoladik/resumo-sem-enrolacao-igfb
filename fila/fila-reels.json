@@ -1806,7 +1806,7 @@
       "id": "reel-20261012-0800-c8836a1b09",
       "data": "2026-10-12",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Como Fazer Amigos 01 - Cento e cinquenta naos.mp4",
         "sha256": "c8836a1b09a79a45dfee802b410622dd3911bb2385c5d458069c268f8dc23222"
@@ -1819,12 +1819,17 @@
       },
       "instagram": {
         "legenda": "Um vendedor visitou o mesmo cliente toda semana por três anos e nunca vendeu nada.\n\nForam cento e cinquenta nãos.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nEle não comprava do vendedor.\n\nComprava a própria ideia.\n\nNa sua venda, chega com a proposta aberta e pergunta o que o cliente mudaria.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17911344432537708",
+        "publicado_em": "2026-10-12T09:18:01.248570-03:00"
       },
       "facebook": {
         "legenda": "Um vendedor visitou o mesmo cliente toda semana por três anos e nunca vendeu nada.\n\nForam cento e cinquenta nãos.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nEle não comprava do vendedor.\n\nComprava a própria ideia.\n\nNa sua venda, chega com a proposta aberta e pergunta o que o cliente mudaria.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1450806333598045",
+        "publicado_em": "2026-10-12T09:18:10.426257-03:00"
+      },
+      "concluido_em": "2026-10-12T09:18:10.437876-03:00"
     },
     {
       "id": "reel-20261012-1100-47605e5224",
