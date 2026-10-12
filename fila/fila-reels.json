@@ -1866,7 +1866,7 @@
       "id": "reel-20261012-1400-bdf35b3ccf",
       "data": "2026-10-12",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Dinheiro Segredos 01 - A inflacao come a sua poupanca.mp4",
         "sha256": "bdf35b3ccfdb4fea066b33defa47b9d16eccee83c66cf1c790b2e0b827240425"
@@ -1879,12 +1879,17 @@
       },
       "instagram": {
         "legenda": "Tem dinheiro guardado que fica menor todo mês, mesmo sem você tirar nada.\n\nÉ um dos alertas do livro Dinheiro, os Segredos de Quem Tem.\n\nPor isso o livro coloca a inflação como o primeiro mandamento de quem investe.\n\nAntes de deixar dinheiro parado em qualquer lugar, pergunta: isso rende mais que a inflação?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17891123454452970",
+        "publicado_em": "2026-10-12T14:55:27.440107-03:00"
       },
       "facebook": {
         "legenda": "Tem dinheiro guardado que fica menor todo mês, mesmo sem você tirar nada.\n\nÉ um dos alertas do livro Dinheiro, os Segredos de Quem Tem.\n\nPor isso o livro coloca a inflação como o primeiro mandamento de quem investe.\n\nAntes de deixar dinheiro parado em qualquer lugar, pergunta: isso rende mais que a inflação?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "926709823616341",
+        "publicado_em": "2026-10-12T14:55:43.015290-03:00"
+      },
+      "concluido_em": "2026-10-12T14:55:43.026925-03:00"
     },
     {
       "id": "reel-20261012-1700-968f202bad",
