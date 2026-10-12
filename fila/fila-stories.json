@@ -769,7 +769,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-3176aa6419-Babilonia-10---Tijolo-e-moeda-forte.mp4",
             "sha256": "3176aa6419168a569af3df19cc1de7e0fc22eb1c8d7d7c1285ca21492a5eb5a5",
             "tamanho_bytes": 9638766,
-            "duracao_segundos": 28.667
+            "duracao_segundos": 28.667,
+            "removido_da_release_em": "2026-10-12T09:17:14.973840-03:00"
           },
           "instagram": {
             "status": "publicado",
