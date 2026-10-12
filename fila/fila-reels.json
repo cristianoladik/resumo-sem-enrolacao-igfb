@@ -1896,7 +1896,7 @@
       "id": "reel-20261012-1700-968f202bad",
       "data": "2026-10-12",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Do Mil ao Milhao 01 - Sem cortar o cafezinho.mp4",
         "sha256": "968f202badff26126d70e54fdeca70bf0f2d68216a4a978281fe91607d1adfcb"
@@ -1909,12 +1909,17 @@
       },
       "instagram": {
         "legenda": "Te mandaram cortar o cafezinho pra sobrar dinheiro?\n\nO livro Do Mil ao Milhão discorda já na capa.\n\nO cafezinho que te faz feliz pode ficar.\n\nO que sai é o gasto que você nem queria, feito no automático.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18177593038441652",
+        "publicado_em": "2026-10-12T17:50:19.618982-03:00"
       },
       "facebook": {
         "legenda": "Te mandaram cortar o cafezinho pra sobrar dinheiro?\n\nO livro Do Mil ao Milhão discorda já na capa.\n\nO cafezinho que te faz feliz pode ficar.\n\nO que sai é o gasto que você nem queria, feito no automático.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1532486335588057",
+        "publicado_em": "2026-10-12T17:50:29.436691-03:00"
+      },
+      "concluido_em": "2026-10-12T17:50:29.443998-03:00"
     },
     {
       "id": "reel-20261012-2000-76cde35d79",
