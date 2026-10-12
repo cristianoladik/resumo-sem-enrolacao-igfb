@@ -753,7 +753,7 @@
       "id": "story-20261012-3176aa6419",
       "data": "2026-10-12",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 10 - Tijolo e moeda forte.mp4",
         "sha256": "3176aa6419168a569af3df19cc1de7e0fc22eb1c8d7d7c1285ca21492a5eb5a5",
@@ -763,7 +763,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-3176aa6419-Babilonia-10---Tijolo-e-moeda-forte.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-3176aa6419-Babilonia-10---Tijolo-e-moeda-forte.mp4",
@@ -772,13 +772,30 @@
             "duracao_segundos": 28.667
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18126804925853423",
+            "publish_iniciado_em": "2026-10-12T09:16:15-03:00",
+            "id": "18099222464544960",
+            "publicado_em": "2026-10-12T09:16:24-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1116634600907052",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-12T09:16:31-03:00",
+            "post_id_candidato": "2116369228985331",
+            "finish_em": "2026-10-12T09:16:36-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjIxMTYzNjkyMzIzMTg2NjQ=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2116369228985331",
+            "publicado_em": "2026-10-12T09:17:12-03:00"
+          },
+          "concluido_em": "2026-10-12T09:17:12-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-12T09:17:12-03:00"
     },
     {
       "id": "story-20261013-d023db0375",
