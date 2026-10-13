@@ -2657,6 +2657,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261212-fe8ffa8a5f",
+      "data": "2026-12-12",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia Como Fazer Amigos 02 - O mecanico e o combustivel errado.mp4",
+        "sha256": "fe8ffa8a5f22a6ffa223542ecd385e7613f1ffb30525eb91c629172a9c5e5f66",
+        "pacote": "Babilonia Como Fazer Amigos 02 - O mecanico e o combustivel errado",
+        "pacote_id": "story-fe8ffa8a5f22"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-fe8ffa8a5f-Babilonia-Como-Fazer-Amigos-02---O-mecanico-e-o-combustivel-.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-fe8ffa8a5f-Babilonia-Como-Fazer-Amigos-02---O-mecanico-e-o-combustivel-.mp4",
+            "sha256": "fe8ffa8a5f22a6ffa223542ecd385e7613f1ffb30525eb91c629172a9c5e5f66",
+            "tamanho_bytes": 7788698,
+            "duracao_segundos": 30.625
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
