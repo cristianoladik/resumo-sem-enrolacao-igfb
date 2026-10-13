@@ -2016,7 +2016,7 @@
       "id": "reel-20261013-1400-16bcdafb24",
       "data": "2026-10-13",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Me Poupe 01 - Dinheirofobia.mp4",
         "sha256": "16bcdafb2447b1365c1be32108eeec372e72bfafedccd2da1c7f03faebacdfb1"
@@ -2029,12 +2029,17 @@
       },
       "instagram": {
         "legenda": "Você deixa o boleto fechado em cima da mesa pra não ver o valor?\n\nIsso tem nome, e está no livro Me Poupe.\n\nSem se xingar e sem prometer mudar tudo amanhã.\n\nSó olhar.\n\nO medo diminui quando o número deixa de ser segredo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17909480907487609",
+        "publicado_em": "2026-10-13T15:48:32.998831-03:00"
       },
       "facebook": {
         "legenda": "Você deixa o boleto fechado em cima da mesa pra não ver o valor?\n\nIsso tem nome, e está no livro Me Poupe.\n\nSem se xingar e sem prometer mudar tudo amanhã.\n\nSó olhar.\n\nO medo diminui quando o número deixa de ser segredo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2170206840196902",
+        "publicado_em": "2026-10-13T15:48:43.168677-03:00"
+      },
+      "concluido_em": "2026-10-13T15:48:43.180142-03:00"
     },
     {
       "id": "reel-20261013-1700-409cc36aba",
