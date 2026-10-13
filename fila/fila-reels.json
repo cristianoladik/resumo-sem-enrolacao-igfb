@@ -2046,7 +2046,7 @@
       "id": "reel-20261013-1700-409cc36aba",
       "data": "2026-10-13",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 01 - O salario que se pagou no primeiro mes.mp4",
         "sha256": "409cc36aba00207d5e8b4887db1dfedf14449ee3c1dc0dcb2bb2b5f7101636ea"
@@ -2059,12 +2059,17 @@
       },
       "instagram": {
         "legenda": "Ele tinha o maior salário da empresa, e esse salário se pagou no primeiro mês.\n\nNão foi vendendo mais.\n\nFoi cortando gasto.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nE dinheiro se ganha na compra, não na venda.\n\nPra você: pega as três maiores contas fixas e pede desconto em cada uma.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17894969562677190",
+        "publicado_em": "2026-10-13T17:12:26.971868-03:00"
       },
       "facebook": {
         "legenda": "Ele tinha o maior salário da empresa, e esse salário se pagou no primeiro mês.\n\nNão foi vendendo mais.\n\nFoi cortando gasto.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nE dinheiro se ganha na compra, não na venda.\n\nPra você: pega as três maiores contas fixas e pede desconto em cada uma.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1087011300849258",
+        "publicado_em": "2026-10-13T17:12:38.610821-03:00"
+      },
+      "concluido_em": "2026-10-13T17:12:38.622242-03:00"
     },
     {
       "id": "reel-20261013-2000-48256f151f",
