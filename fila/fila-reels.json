@@ -1956,7 +1956,7 @@
       "id": "reel-20261013-0800-637b4a53f7",
       "data": "2026-10-13",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro os Segredos de Quem Tem 01 - Um milhao em bens.mp4",
         "sha256": "637b4a53f743f60c176e882685af92dbf84ca307a39090ee302fd671e678de7d"
@@ -1969,12 +1969,17 @@
       },
       "instagram": {
         "legenda": "Ele juntou um milhão em bens e mesmo assim tirou os filhos da escola particular.\n\nEsse caso está no livro Dinheiro, os Segredos de Quem Tem, do Gustavo Cerbasi.\n\nNão é parar de trabalhar.\n\nÉ ter renda pra pagar as contas sem precisar trabalhar.\n\nAntes do próximo bem, pergunta: quem paga a conta dele quando o salário parar?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18075256016474633",
+        "publicado_em": "2026-10-13T09:16:40.037740-03:00"
       },
       "facebook": {
         "legenda": "Ele juntou um milhão em bens e mesmo assim tirou os filhos da escola particular.\n\nEsse caso está no livro Dinheiro, os Segredos de Quem Tem, do Gustavo Cerbasi.\n\nNão é parar de trabalhar.\n\nÉ ter renda pra pagar as contas sem precisar trabalhar.\n\nAntes do próximo bem, pergunta: quem paga a conta dele quando o salário parar?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2638834176576189",
+        "publicado_em": "2026-10-13T09:16:54.386300-03:00"
+      },
+      "concluido_em": "2026-10-13T09:16:54.397639-03:00"
     },
     {
       "id": "reel-20261013-1100-53de1e970a",
