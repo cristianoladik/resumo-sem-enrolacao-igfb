@@ -1926,7 +1926,7 @@
       "id": "reel-20261012-2000-76cde35d79",
       "data": "2026-10-12",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais que Dinheiro 01 - Catorze anos pra comprar a vista.mp4",
         "sha256": "76cde35d7910f0ed695ae2709e4e3a4c1957169956615079269d9975030040c4"
@@ -1939,12 +1939,17 @@
       },
       "instagram": {
         "legenda": "Guardando mil e quinhentos por mês, uma casa à vista leva quase catorze anos.\n\nÉ a conta de uma casa de duzentos e cinquenta mil, num exemplo nosso.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nA pergunta certa não é só a parcela.\n\nÉ quanto custa no total e o que volta pra você.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17982547154901163",
+        "publicado_em": "2026-10-12T21:03:03.838558-03:00"
       },
       "facebook": {
         "legenda": "Guardando mil e quinhentos por mês, uma casa à vista leva quase catorze anos.\n\nÉ a conta de uma casa de duzentos e cinquenta mil, num exemplo nosso.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nA pergunta certa não é só a parcela.\n\nÉ quanto custa no total e o que volta pra você.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "925037500487289",
+        "publicado_em": "2026-10-12T21:03:14.076011-03:00"
+      },
+      "concluido_em": "2026-10-12T21:03:14.082834-03:00"
     },
     {
       "id": "reel-20261013-0800-637b4a53f7",
