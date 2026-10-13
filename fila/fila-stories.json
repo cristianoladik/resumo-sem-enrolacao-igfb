@@ -818,7 +818,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-d023db0375-Babilonia-11---Quem-paga-suas-contas-no-futuro.mp4",
             "sha256": "d023db03752cc95763f1ae9976068e347756ad78e9441b34896ffb8b0e470934",
             "tamanho_bytes": 7733206,
-            "duracao_segundos": 29.667
+            "duracao_segundos": 29.667,
+            "removido_da_release_em": "2026-10-13T09:18:48.991879-03:00"
           },
           "instagram": {
             "status": "publicado",
