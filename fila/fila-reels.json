@@ -1986,7 +1986,7 @@
       "id": "reel-20261013-1100-53de1e970a",
       "data": "2026-10-13",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 01 - Vinte mil que viram dez mil.mp4",
         "sha256": "53de1e970a4a673a3119006cad2413fd6153f4270fe22332b9eb1c9724df8c9a"
@@ -1999,12 +1999,17 @@
       },
       "instagram": {
         "legenda": "Você junta vinte mil reais pra usar daqui a dez anos.\n\nQuando for usar, eles compram só metade.\n\nEssa lição está no livro Em Nome do Povo.\n\nÉ juros sobre juros, só que tirando de você.\n\nPor isso o livro fala em lucrar duas vezes.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18123770971921310",
+        "publicado_em": "2026-10-13T11:11:22.596737-03:00"
       },
       "facebook": {
         "legenda": "Você junta vinte mil reais pra usar daqui a dez anos.\n\nQuando for usar, eles compram só metade.\n\nEssa lição está no livro Em Nome do Povo.\n\nÉ juros sobre juros, só que tirando de você.\n\nPor isso o livro fala em lucrar duas vezes.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1628820012051715",
+        "publicado_em": "2026-10-13T11:11:34.956788-03:00"
+      },
+      "concluido_em": "2026-10-13T11:11:34.966377-03:00"
     },
     {
       "id": "reel-20261013-1400-16bcdafb24",
