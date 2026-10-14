@@ -851,7 +851,7 @@
       "id": "story-20261014-44b6d90d01",
       "data": "2026-10-14",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 12 - Sabe mais ganha mais.mp4",
         "sha256": "44b6d90d012db06bd8cd8bb30da58edbc1aec2eb394010fa488d391645a048a0",
@@ -861,7 +861,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-44b6d90d01-Babilonia-12---Sabe-mais-ganha-mais.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-44b6d90d01-Babilonia-12---Sabe-mais-ganha-mais.mp4",
@@ -870,13 +870,30 @@
             "duracao_segundos": 28.7
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18127053328853423",
+            "publish_iniciado_em": "2026-10-14T09:16:35-03:00",
+            "id": "18395115469164592",
+            "publicado_em": "2026-10-14T09:16:42-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1132607366012735",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-14T09:16:49-03:00",
+            "post_id_candidato": "1998902697455299",
+            "finish_em": "2026-10-14T09:16:54-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjE5OTg5MDI3MDA3ODg2MzI=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1998902697455299",
+            "publicado_em": "2026-10-14T09:17:30-03:00"
+          },
+          "concluido_em": "2026-10-14T09:17:30-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-14T09:17:30-03:00"
     },
     {
       "id": "story-20261015-d10f5c49d1",
