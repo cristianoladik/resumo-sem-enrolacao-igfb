@@ -2196,7 +2196,7 @@
       "id": "reel-20261014-1700-e6198235fc",
       "data": "2026-10-14",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m30 - Mente Milionaria 01 - Termostato do dinheiro.mp4",
         "sha256": "e6198235fc734b9ac6ea3e32153f58d33587cfb935d45fa6efac0ae94e6a6770"
@@ -2209,12 +2209,17 @@
       },
       "instagram": {
         "legenda": "Por que quem ganha na loteria, poucos anos depois, tá sem nada?\n\nE por que tem gente que quebra e fica rica de novo rapidinho?\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nVeio um pensamento de pouco sobre dinheiro?\n\nRepara e pergunta: de onde veio isso?\n\nSimples assim: antes de ganhar mais, regula o termostato.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17999018265042874",
+        "publicado_em": "2026-10-14T18:35:22.247356-03:00"
       },
       "facebook": {
         "legenda": "Por que quem ganha na loteria, poucos anos depois, tá sem nada?\n\nE por que tem gente que quebra e fica rica de novo rapidinho?\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nVeio um pensamento de pouco sobre dinheiro?\n\nRepara e pergunta: de onde veio isso?\n\nSimples assim: antes de ganhar mais, regula o termostato.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1799109961124062",
+        "publicado_em": "2026-10-14T18:35:35.206398-03:00"
+      },
+      "concluido_em": "2026-10-14T18:35:35.214046-03:00"
     },
     {
       "id": "reel-20261014-2000-6c93c01c3a",
