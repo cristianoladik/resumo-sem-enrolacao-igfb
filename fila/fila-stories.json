@@ -2706,6 +2706,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261213-4a398d1fa8",
+      "data": "2026-12-13",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia Deixe de Ser Pobre 02 - Quanto voce gastou.mp4",
+        "sha256": "4a398d1fa88fc33028fa1ea796999dcd7e521e6ab9fbe13e2da6c0d408a6d418",
+        "pacote": "Babilonia Deixe de Ser Pobre 02 - Quanto voce gastou",
+        "pacote_id": "story-4a398d1fa88f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-4a398d1fa8-Babilonia-Deixe-de-Ser-Pobre-02---Quanto-voce-gastou.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-4a398d1fa8-Babilonia-Deixe-de-Ser-Pobre-02---Quanto-voce-gastou.mp4",
+            "sha256": "4a398d1fa88fc33028fa1ea796999dcd7e521e6ab9fbe13e2da6c0d408a6d418",
+            "tamanho_bytes": 8511793,
+            "duracao_segundos": 33.0
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
