@@ -2755,6 +2755,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261214-8e21aedd52",
+      "data": "2026-12-14",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia Dinheiro Segredos 02 - Ganhar bem nao e ser rico.mp4",
+        "sha256": "8e21aedd522bfe69cc415cdb3e4d739666754a75949e8828e0afe6ae7391701b",
+        "pacote": "Babilonia Dinheiro Segredos 02 - Ganhar bem nao e ser rico",
+        "pacote_id": "story-8e21aedd522b"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-8e21aedd52-Babilonia-Dinheiro-Segredos-02---Ganhar-bem-nao-e-ser-rico.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-8e21aedd52-Babilonia-Dinheiro-Segredos-02---Ganhar-bem-nao-e-ser-rico.mp4",
+            "sha256": "8e21aedd522bfe69cc415cdb3e4d739666754a75949e8828e0afe6ae7391701b",
+            "tamanho_bytes": 10051279,
+            "duracao_segundos": 46.042
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
