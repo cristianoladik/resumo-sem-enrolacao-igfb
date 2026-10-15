@@ -900,7 +900,7 @@
       "id": "story-20261015-d10f5c49d1",
       "data": "2026-10-15",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 13 - O plano do Dabasir.mp4",
         "sha256": "d10f5c49d12a159ffbc55a6c98439cc20daf3daa2d0b92a3a93665f345b7beb1",
@@ -910,7 +910,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-d10f5c49d1-Babilonia-13---O-plano-do-Dabasir.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-d10f5c49d1-Babilonia-13---O-plano-do-Dabasir.mp4",
@@ -919,13 +919,30 @@
             "duracao_segundos": 30.6
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18127169095853423",
+            "publish_iniciado_em": "2026-10-15T09:16:50-03:00",
+            "id": "18221088856344549",
+            "publicado_em": "2026-10-15T09:16:57-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1086486560651847",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-15T09:17:06-03:00",
+            "post_id_candidato": "1118858260590173",
+            "finish_em": "2026-10-15T09:17:10-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjExMTg4NTgyNjM5MjM1MDY=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1118858260590173",
+            "publicado_em": "2026-10-15T09:17:46-03:00"
+          },
+          "concluido_em": "2026-10-15T09:17:46-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-15T09:17:46-03:00"
     },
     {
       "id": "story-20261016-e6f04b5e6b",
