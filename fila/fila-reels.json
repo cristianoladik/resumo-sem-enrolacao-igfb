@@ -2286,7 +2286,7 @@
       "id": "reel-20261015-1100-fe8ffa8a5f",
       "data": "2026-10-15",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Como Fazer Amigos 02 - O mecanico e o combustivel errado.mp4",
         "sha256": "fe8ffa8a5f22a6ffa223542ecd385e7613f1ffb30525eb91c629172a9c5e5f66"
@@ -2299,12 +2299,17 @@
       },
       "instagram": {
         "legenda": "O mecânico abasteceu o avião com o combustível errado.\n\nOs dois motores pararam no ar.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nÉ o princípio um do livro: não critique, não condene e não reclame.\n\nNo seu negócio: antes de mandar aquele áudio bravo pro funcionário, espera esfriar.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18447802228120790",
+        "publicado_em": "2026-10-15T11:11:01.266527-03:00"
       },
       "facebook": {
         "legenda": "O mecânico abasteceu o avião com o combustível errado.\n\nOs dois motores pararam no ar.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nÉ o princípio um do livro: não critique, não condene e não reclame.\n\nNo seu negócio: antes de mandar aquele áudio bravo pro funcionário, espera esfriar.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1395497659330400",
+        "publicado_em": "2026-10-15T11:11:14.252529-03:00"
+      },
+      "concluido_em": "2026-10-15T11:11:14.259994-03:00"
     },
     {
       "id": "reel-20261015-1400-4a398d1fa8",
