@@ -2346,7 +2346,7 @@
       "id": "reel-20261015-1700-8e21aedd52",
       "data": "2026-10-15",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Dinheiro Segredos 02 - Ganhar bem nao e ser rico.mp4",
         "sha256": "8e21aedd522bfe69cc415cdb3e4d739666754a75949e8828e0afe6ae7391701b"
@@ -2359,12 +2359,17 @@
       },
       "instagram": {
         "legenda": "Dá pra ganhar trinta mil por mês e ser mais pobre que alguém que ganha três mil.\n\nParece absurdo, mas a conta fecha.\n\nEssa lição está no livro Dinheiro: Os Segredos de Quem Tem.\n\nEntão, de que lado você está?\n\nNão olha o seu salário.\n\nOlha o que sobra no fim do mês.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18026818682876604",
+        "publicado_em": "2026-10-15T18:34:49.363677-03:00"
       },
       "facebook": {
         "legenda": "Dá pra ganhar trinta mil por mês e ser mais pobre que alguém que ganha três mil.\n\nParece absurdo, mas a conta fecha.\n\nEssa lição está no livro Dinheiro: Os Segredos de Quem Tem.\n\nEntão, de que lado você está?\n\nNão olha o seu salário.\n\nOlha o que sobra no fim do mês.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1617884249832120",
+        "publicado_em": "2026-10-15T18:35:02.311033-03:00"
+      },
+      "concluido_em": "2026-10-15T18:35:02.322977-03:00"
     },
     {
       "id": "reel-20261015-2000-5f93b81d15",
