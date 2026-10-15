@@ -2376,7 +2376,7 @@
       "id": "reel-20261015-2000-5f93b81d15",
       "data": "2026-10-15",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Do Mil ao Milhao 02 - A reserva que rende pouco.mp4",
         "sha256": "5f93b81d15f68cbf5997673597b3c5c7e834a1c3d89c6a25cdd19569d23456d6"
@@ -2389,12 +2389,17 @@
       },
       "instagram": {
         "legenda": "Existe um dinheiro que você não deveria tentar fazer render muito.\n\nParece errado, mas é o que o livro Do Mil ao Milhão ensina.\n\nSe tudo tá investido em algo que caiu, você vende no prejuízo.\n\nA reserva existe pra você nunca ser obrigado a vender na pior hora.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18137030671729524",
+        "publicado_em": "2026-10-15T20:49:15.518646-03:00"
       },
       "facebook": {
         "legenda": "Existe um dinheiro que você não deveria tentar fazer render muito.\n\nParece errado, mas é o que o livro Do Mil ao Milhão ensina.\n\nSe tudo tá investido em algo que caiu, você vende no prejuízo.\n\nA reserva existe pra você nunca ser obrigado a vender na pior hora.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4554570918149083",
+        "publicado_em": "2026-10-15T20:49:27.122802-03:00"
+      },
+      "concluido_em": "2026-10-15T20:49:27.130027-03:00"
     },
     {
       "id": "reel-20261016-0800-de18aa5477",
