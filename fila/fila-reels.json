@@ -2226,7 +2226,7 @@
       "id": "reel-20261014-2000-6c93c01c3a",
       "data": "2026-10-14",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "A Sutil Arte 02 - O baterista que saiu dos Beatles.mp4",
         "sha256": "6c93c01c3a3f9c389ffa1ff9e236c072731f8bb44f28efc892171079606cbc7f"
@@ -2239,12 +2239,17 @@
       },
       "instagram": {
         "legenda": "Ele saiu dos Beatles pouco antes da banda ficar famosa.\n\nÉ o baterista Pete Best.\n\nEssa lição está no livro A Sutil Arte.\n\nDinheiro é bom, mas não pode ser a única medida da sua vida.\n\nDepois que o básico está pago, mais dinheiro pesa pouco na felicidade.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18115339013104526",
+        "publicado_em": "2026-10-14T21:04:46.953351-03:00"
       },
       "facebook": {
         "legenda": "Ele saiu dos Beatles pouco antes da banda ficar famosa.\n\nÉ o baterista Pete Best.\n\nEssa lição está no livro A Sutil Arte.\n\nDinheiro é bom, mas não pode ser a única medida da sua vida.\n\nDepois que o básico está pago, mais dinheiro pesa pouco na felicidade.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2956843698010701",
+        "publicado_em": "2026-10-14T21:04:59.149001-03:00"
+      },
+      "concluido_em": "2026-10-14T21:04:59.161353-03:00"
     },
     {
       "id": "reel-20261015-0800-3383b643cc",
