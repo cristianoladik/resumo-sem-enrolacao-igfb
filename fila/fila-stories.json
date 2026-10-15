@@ -916,7 +916,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-d10f5c49d1-Babilonia-13---O-plano-do-Dabasir.mp4",
             "sha256": "d10f5c49d12a159ffbc55a6c98439cc20daf3daa2d0b92a3a93665f345b7beb1",
             "tamanho_bytes": 8467686,
-            "duracao_segundos": 30.6
+            "duracao_segundos": 30.6,
+            "removido_da_release_em": "2026-10-15T09:17:48.547947-03:00"
           },
           "instagram": {
             "status": "publicado",
