@@ -2256,7 +2256,7 @@
       "id": "reel-20261015-0800-3383b643cc",
       "data": "2026-10-15",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Casais Inteligentes 02 - O poupador.mp4",
         "sha256": "3383b643cc747e025dff2d728f1e3e573eef7772845eb32a20d1810e6ff71de0"
@@ -2269,12 +2269,17 @@
       },
       "instagram": {
         "legenda": "Tem gente que sente paz só de olhar o saldo guardado no banco.\n\nNo livro Casais Inteligentes Enriquecem Juntos, esse é o perfil poupador.\n\nGuardar com propósito, e aproveitar um pouco da estrada.\n\nVocê é assim, ou mora com alguém assim?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18116281648971626",
+        "publicado_em": "2026-10-15T08:15:59.110685-03:00"
       },
       "facebook": {
         "legenda": "Tem gente que sente paz só de olhar o saldo guardado no banco.\n\nNo livro Casais Inteligentes Enriquecem Juntos, esse é o perfil poupador.\n\nGuardar com propósito, e aproveitar um pouco da estrada.\n\nVocê é assim, ou mora com alguém assim?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1590375532172114",
+        "publicado_em": "2026-10-15T08:16:10.286731-03:00"
+      },
+      "concluido_em": "2026-10-15T08:16:10.293925-03:00"
     },
     {
       "id": "reel-20261015-1100-fe8ffa8a5f",
