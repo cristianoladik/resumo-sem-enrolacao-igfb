@@ -2406,7 +2406,7 @@
       "id": "reel-20261016-0800-de18aa5477",
       "data": "2026-10-16",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais que Dinheiro 02 - O engenheiro e a crise.mp4",
         "sha256": "de18aa54770612974d85e4b5d097af79ad824efab6aca86a6e06de1960bf5948"
@@ -2419,12 +2419,17 @@
       },
       "instagram": {
         "legenda": "A crise apertou a engenharia no Brasil, e um engenheiro civil achou outro caminho.\n\nEle é Eduardo Augusto Sousa, autor de Crédito Vale Mais que Dinheiro.\n\nNo site dele, ele diz já ter ajudado mais de seiscentas famílias a conquistar a casa.\n\nA lição de negócio: quando o seu mercado aperta, entender de dinheiro abre outra porta.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18638014153012448",
+        "publicado_em": "2026-10-16T08:10:22.687858-03:00"
       },
       "facebook": {
         "legenda": "A crise apertou a engenharia no Brasil, e um engenheiro civil achou outro caminho.\n\nEle é Eduardo Augusto Sousa, autor de Crédito Vale Mais que Dinheiro.\n\nNo site dele, ele diz já ter ajudado mais de seiscentas famílias a conquistar a casa.\n\nA lição de negócio: quando o seu mercado aperta, entender de dinheiro abre outra porta.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1838169417208521",
+        "publicado_em": "2026-10-16T08:10:33.732906-03:00"
+      },
+      "concluido_em": "2026-10-16T08:10:33.744935-03:00"
     },
     {
       "id": "reel-20261016-1100-f06eaec30f",
