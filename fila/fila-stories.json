@@ -2804,6 +2804,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261215-5f93b81d15",
+      "data": "2026-12-15",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia Do Mil ao Milhao 02 - A reserva que rende pouco.mp4",
+        "sha256": "5f93b81d15f68cbf5997673597b3c5c7e834a1c3d89c6a25cdd19569d23456d6",
+        "pacote": "Babilonia Do Mil ao Milhao 02 - A reserva que rende pouco",
+        "pacote_id": "story-5f93b81d15f6"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-5f93b81d15-Babilonia-Do-Mil-ao-Milhao-02---A-reserva-que-rende-pouco.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-5f93b81d15-Babilonia-Do-Mil-ao-Milhao-02---A-reserva-que-rende-pouco.mp4",
+            "sha256": "5f93b81d15f68cbf5997673597b3c5c7e834a1c3d89c6a25cdd19569d23456d6",
+            "tamanho_bytes": 11280839,
+            "duracao_segundos": 48.5
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
