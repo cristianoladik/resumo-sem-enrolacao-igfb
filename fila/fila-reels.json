@@ -2466,7 +2466,7 @@
       "id": "reel-20261016-1400-b729cf86cf",
       "data": "2026-10-16",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 02 - O Taliba e o dolar.mp4",
         "sha256": "b729cf86cf9d6aa8f10947b2dc4892b5073ca3323f37862a4319959e0aafe662"
@@ -2479,12 +2479,17 @@
       },
       "instagram": {
         "legenda": "Um grupo radical destruía tudo que vinha do Ocidente.\n\nMenos uma coisa.\n\nFoi em dois mil e vinte e um, no Afeganistão, com o Talibã.\n\nEssa lição está no livro Em Nome do Povo.\n\nNem todo mundo acredita em Deus ou em nação.\n\nNo dinheiro, todos acreditam.\n\nE quem controla a moeda controla um pedaço da sua riqueza.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18090530228694069",
+        "publicado_em": "2026-10-16T14:21:00.891603-03:00"
       },
       "facebook": {
         "legenda": "Um grupo radical destruía tudo que vinha do Ocidente.\n\nMenos uma coisa.\n\nFoi em dois mil e vinte e um, no Afeganistão, com o Talibã.\n\nEssa lição está no livro Em Nome do Povo.\n\nNem todo mundo acredita em Deus ou em nação.\n\nNo dinheiro, todos acreditam.\n\nE quem controla a moeda controla um pedaço da sua riqueza.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1564532978759256",
+        "publicado_em": "2026-10-16T14:21:13.353063-03:00"
+      },
+      "concluido_em": "2026-10-16T14:21:13.361582-03:00"
     },
     {
       "id": "reel-20261016-1700-75183dfbc6",
