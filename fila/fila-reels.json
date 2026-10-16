@@ -2436,7 +2436,7 @@
       "id": "reel-20261016-1100-f06eaec30f",
       "data": "2026-10-16",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro os Segredos de Quem Tem 02 - Tudo pago pela empresa.mp4",
         "sha256": "f06eaec30fb2c80c0c42400aafcef842e6c7b75bfbfce18d61028809e5a24bc5"
@@ -2449,12 +2449,17 @@
       },
       "instagram": {
         "legenda": "Carro, clube, viagem e escola dos filhos.\n\nTudo pago pela empresa.\n\nParece um sonho.\n\nE é a vida de muito executivo.\n\nEssa lição está no livro Dinheiro: Os Segredos de Quem Tem.\n\nPro livro, a saída é construir uma renda que pague as contas sem precisar trabalhar.\n\nE essa renda vem do dinheiro que você põe pra trabalhar desde já.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18126553652502568",
+        "publicado_em": "2026-10-16T11:12:05.588493-03:00"
       },
       "facebook": {
         "legenda": "Carro, clube, viagem e escola dos filhos.\n\nTudo pago pela empresa.\n\nParece um sonho.\n\nE é a vida de muito executivo.\n\nEssa lição está no livro Dinheiro: Os Segredos de Quem Tem.\n\nPro livro, a saída é construir uma renda que pague as contas sem precisar trabalhar.\n\nE essa renda vem do dinheiro que você põe pra trabalhar desde já.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2116404589270706",
+        "publicado_em": "2026-10-16T11:12:15.589600-03:00"
+      },
+      "concluido_em": "2026-10-16T11:12:15.601524-03:00"
     },
     {
       "id": "reel-20261016-1400-b729cf86cf",
