@@ -2496,7 +2496,7 @@
       "id": "reel-20261016-1700-75183dfbc6",
       "data": "2026-10-16",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Me Poupe 02 - Espera cinco dias.mp4",
         "sha256": "75183dfbc629e797ee318db3866862a0f051fbe11dedc272b0117f2656479fbf"
@@ -2509,12 +2509,17 @@
       },
       "instagram": {
         "legenda": "Você já comprou uma coisa e esqueceu dela na mesma semana?\n\nO livro Me Poupe tem um teste simples pra isso.\n\nNenhuma loja vai fugir em cinco dias.\n\nMas a vontade que era só impulso, essa costuma passar.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18112712363603414",
+        "publicado_em": "2026-10-16T19:11:03.829284-03:00"
       },
       "facebook": {
         "legenda": "Você já comprou uma coisa e esqueceu dela na mesma semana?\n\nO livro Me Poupe tem um teste simples pra isso.\n\nNenhuma loja vai fugir em cinco dias.\n\nMas a vontade que era só impulso, essa costuma passar.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1090606140545880",
+        "publicado_em": "2026-10-16T19:11:13.337768-03:00"
+      },
+      "concluido_em": "2026-10-16T19:11:13.349859-03:00"
     },
     {
       "id": "reel-20261016-2000-c6199d529c",
