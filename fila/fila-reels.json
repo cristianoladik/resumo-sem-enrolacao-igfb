@@ -2535,7 +2535,8 @@
         "asset": "reel-c6199d529c-Os-Codigos-do-Milhao-02---A-internet-de-mil-reais.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-c6199d529c-Os-Codigos-do-Milhao-02---A-internet-de-mil-reais.mp4",
         "sha256": "c6199d529ccbeb6fcee47761be5acf12dbc1a5bd53247566b4f1b844102d6a35",
-        "tamanho_bytes": 5637696
+        "tamanho_bytes": 5637696,
+        "removido_da_release_em": "2026-10-16T21:21:03.521154-03:00"
       },
       "instagram": {
         "legenda": "Uma empresa pagava mil reais por mês de internet.\n\nO dono questionou aquilo.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nComprou mal, o lucro já foi.\n\nPra você: liga hoje pra operadora e pergunta se dá pra pagar menos.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
