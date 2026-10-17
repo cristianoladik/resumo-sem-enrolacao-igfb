@@ -2646,7 +2646,7 @@
       "id": "reel-20261017-1700-315353ff13",
       "data": "2026-10-17",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "A Sutil Arte 03 - Quase 30 anos na selva.mp4",
         "sha256": "315353ff13253b66ddfea35499767ca9e3b767142b1a6d00caaba88149c30b77"
@@ -2659,12 +2659,17 @@
       },
       "instagram": {
         "legenda": "Um soldado lutou quase trinta anos numa guerra que já tinha acabado.\n\nEle se chamava Hiroo Onoda.\n\nEssa lição está no livro A Sutil Arte.\n\nA lição do livro: sofrer não é o problema.\n\nO problema é sofrer pelo valor errado.\n\nEscolha bem pelo que você vai sofrer.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18146979316571860",
+        "publicado_em": "2026-10-17T17:56:26.883391-03:00"
       },
       "facebook": {
         "legenda": "Um soldado lutou quase trinta anos numa guerra que já tinha acabado.\n\nEle se chamava Hiroo Onoda.\n\nEssa lição está no livro A Sutil Arte.\n\nA lição do livro: sofrer não é o problema.\n\nO problema é sofrer pelo valor errado.\n\nEscolha bem pelo que você vai sofrer.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1742687256840877",
+        "publicado_em": "2026-10-17T17:56:38.421256-03:00"
+      },
+      "concluido_em": "2026-10-17T17:56:38.428623-03:00"
     },
     {
       "id": "reel-20261017-2000-2b32e87a0e",
