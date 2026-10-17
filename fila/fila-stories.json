@@ -998,7 +998,7 @@
       "id": "story-20261017-af21afe07b",
       "data": "2026-10-17",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 15 - A conta dos 60 mil.mp4",
         "sha256": "af21afe07b7f9413f2a3c20ab50374d9ce72cad2d5198882f81d47552a0189d3",
@@ -1008,7 +1008,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-af21afe07b-Babilonia-15---A-conta-dos-60-mil.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-af21afe07b-Babilonia-15---A-conta-dos-60-mil.mp4",
@@ -1017,13 +1017,30 @@
             "duracao_segundos": 29.9
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18127405174853423",
+            "publish_iniciado_em": "2026-10-17T09:17:01-03:00",
+            "id": "18125089937475382",
+            "publicado_em": "2026-10-17T09:17:07-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1251385797196024",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-17T09:17:16-03:00",
+            "post_id_candidato": "2066505317306621",
+            "finish_em": "2026-10-17T09:17:22-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjIwNjY1MDUzMjA2Mzk5NTQ=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2066505317306621",
+            "publicado_em": "2026-10-17T09:17:58-03:00"
+          },
+          "concluido_em": "2026-10-17T09:17:58-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-17T09:17:58-03:00"
     },
     {
       "id": "story-20261018-dfa6aaeded",
