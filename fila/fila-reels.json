@@ -2676,7 +2676,7 @@
       "id": "reel-20261017-2000-2b32e87a0e",
       "data": "2026-10-17",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Casais Inteligentes 03 - Ganham bem e vivem no vermelho.mp4",
         "sha256": "2b32e87a0e271630d8d830066c821ee1529d7519b3032ba954d5656221c3442e"
@@ -2689,12 +2689,17 @@
       },
       "instagram": {
         "legenda": "Dois salários bons, nenhuma dívida no começo, e mesmo assim o casal fecha o mês no vermelho.\n\nComo é que pode?\n\nEssa lição está no livro Casais Inteligentes Enriquecem Juntos.\n\nSem culpa, sem apontar o dedo, só pra colocar os números na mesa.\n\nParece pouco, mas é onde a maioria dos casais nunca chega.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18104135390308914",
+        "publicado_em": "2026-10-17T20:58:26.039988-03:00"
       },
       "facebook": {
         "legenda": "Dois salários bons, nenhuma dívida no começo, e mesmo assim o casal fecha o mês no vermelho.\n\nComo é que pode?\n\nEssa lição está no livro Casais Inteligentes Enriquecem Juntos.\n\nSem culpa, sem apontar o dedo, só pra colocar os números na mesa.\n\nParece pouco, mas é onde a maioria dos casais nunca chega.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1659234095812789",
+        "publicado_em": "2026-10-17T20:58:40.312741-03:00"
+      },
+      "concluido_em": "2026-10-17T20:58:40.324586-03:00"
     },
     {
       "id": "reel-20261018-0800-9f9d5cbfe9",
