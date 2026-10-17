@@ -2853,6 +2853,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261216-de18aa5477",
+      "data": "2026-12-16",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Credito Vale Mais que Dinheiro 02 - O engenheiro e a crise.mp4",
+        "sha256": "de18aa54770612974d85e4b5d097af79ad824efab6aca86a6e06de1960bf5948",
+        "pacote": "Credito Vale Mais que Dinheiro 02 - O engenheiro e a crise",
+        "pacote_id": "story-de18aa547706"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-de18aa5477-Credito-Vale-Mais-que-Dinheiro-02---O-engenheiro-e-a-crise.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-de18aa5477-Credito-Vale-Mais-que-Dinheiro-02---O-engenheiro-e-a-crise.mp4",
+            "sha256": "de18aa54770612974d85e4b5d097af79ad824efab6aca86a6e06de1960bf5948",
+            "tamanho_bytes": 8776099,
+            "duracao_segundos": 35.583
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
