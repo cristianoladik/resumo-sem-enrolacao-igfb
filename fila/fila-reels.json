@@ -2526,7 +2526,7 @@
       "id": "reel-20261016-2000-c6199d529c",
       "data": "2026-10-16",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 02 - A internet de mil reais.mp4",
         "sha256": "c6199d529ccbeb6fcee47761be5acf12dbc1a5bd53247566b4f1b844102d6a35"
@@ -2539,12 +2539,17 @@
       },
       "instagram": {
         "legenda": "Uma empresa pagava mil reais por mês de internet.\n\nO dono questionou aquilo.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nComprou mal, o lucro já foi.\n\nPra você: liga hoje pra operadora e pergunta se dá pra pagar menos.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18102520691455208",
+        "publicado_em": "2026-10-16T21:20:40.973926-03:00"
       },
       "facebook": {
         "legenda": "Uma empresa pagava mil reais por mês de internet.\n\nO dono questionou aquilo.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nComprou mal, o lucro já foi.\n\nPra você: liga hoje pra operadora e pergunta se dá pra pagar menos.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1450327133691641",
+        "publicado_em": "2026-10-16T21:21:00.861424-03:00"
+      },
+      "concluido_em": "2026-10-16T21:21:00.873541-03:00"
     },
     {
       "id": "reel-20261017-0800-114ccf469e",
