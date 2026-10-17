@@ -1014,7 +1014,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-af21afe07b-Babilonia-15---A-conta-dos-60-mil.mp4",
             "sha256": "af21afe07b7f9413f2a3c20ab50374d9ce72cad2d5198882f81d47552a0189d3",
             "tamanho_bytes": 6473960,
-            "duracao_segundos": 29.9
+            "duracao_segundos": 29.9,
+            "removido_da_release_em": "2026-10-17T09:18:00.693408-03:00"
           },
           "instagram": {
             "status": "publicado",
