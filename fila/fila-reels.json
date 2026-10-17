@@ -2556,7 +2556,7 @@
       "id": "reel-20261017-0800-114ccf469e",
       "data": "2026-10-17",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pense como um Bilionario 02 - Siga o seu instinto.mp4",
         "sha256": "114ccf469e354de6c3385bb0432e5953ffa88623560c3a2b38b47114e4365bbc"
@@ -2569,12 +2569,17 @@
       },
       "instagram": {
         "legenda": "Todo mundo em volta diz que a sua ideia é loucura.\n\nE agora?\n\nO livro Pense como um Bilionário responde sem rodeio.\n\nDica minha, de bom senso: instinto bom nasce de estudar muito o seu mercado.\n\nAí, quando a turma duvidar, você sabe exatamente por que está indo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18078893612418178",
+        "publicado_em": "2026-10-17T09:16:07.063191-03:00"
       },
       "facebook": {
         "legenda": "Todo mundo em volta diz que a sua ideia é loucura.\n\nE agora?\n\nO livro Pense como um Bilionário responde sem rodeio.\n\nDica minha, de bom senso: instinto bom nasce de estudar muito o seu mercado.\n\nAí, quando a turma duvidar, você sabe exatamente por que está indo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1139516255096434",
+        "publicado_em": "2026-10-17T09:16:18.947265-03:00"
+      },
+      "concluido_em": "2026-10-17T09:16:18.959131-03:00"
     },
     {
       "id": "reel-20261017-1100-53612ae2ae",
