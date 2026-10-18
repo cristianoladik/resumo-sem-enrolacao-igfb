@@ -2745,7 +2745,8 @@
         "asset": "reel-9fcf1a86b0-Babilonia-Deixe-de-Ser-Pobre-03---Pouco-todo-mes.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-9fcf1a86b0-Babilonia-Deixe-de-Ser-Pobre-03---Pouco-todo-mes.mp4",
         "sha256": "9fcf1a86b01ebb03a27f6920ffdad1df92961f17d09df908bb189582b8775eca",
-        "tamanho_bytes": 17964496
+        "tamanho_bytes": 17964496,
+        "removido_da_release_em": "2026-10-18T11:11:38.806428-03:00"
       },
       "instagram": {
         "legenda": "Quem junta mais: quem guarda muito uma vez só, ou quem guarda pouquinho todo mês?\n\nO livro Deixe de Ser Pobre responde sem medo.\n\nEscolhe um valor que não dói.\n\nE repete.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
