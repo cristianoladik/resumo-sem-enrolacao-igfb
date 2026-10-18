@@ -2706,7 +2706,7 @@
       "id": "reel-20261018-0800-9f9d5cbfe9",
       "data": "2026-10-18",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Como Fazer Amigos 03 - O salario de um milhao.mp4",
         "sha256": "9f9d5cbfe95cd83e98dc4fda98ef8b68c43b9a0c3fb64e57de66565a6636b01b"
@@ -2719,12 +2719,17 @@
       },
       "instagram": {
         "legenda": "Um homem ganhava um milhão de dólares por ano.\n\nE o segredo não era saber mais de aço.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nBajulação é falsa, e a pessoa percebe.\n\nElogie o que é verdade e específico: o prazo cumprido, o cliente bem atendido.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18069612806602644",
+        "publicado_em": "2026-10-18T09:16:24.666942-03:00"
       },
       "facebook": {
         "legenda": "Um homem ganhava um milhão de dólares por ano.\n\nE o segredo não era saber mais de aço.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nBajulação é falsa, e a pessoa percebe.\n\nElogie o que é verdade e específico: o prazo cumprido, o cliente bem atendido.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1935945694048784",
+        "publicado_em": "2026-10-18T09:16:32.455863-03:00"
+      },
+      "concluido_em": "2026-10-18T09:16:32.468046-03:00"
     },
     {
       "id": "reel-20261018-1100-9fcf1a86b0",
