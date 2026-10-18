@@ -2902,6 +2902,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261217-f06eaec30f",
+      "data": "2026-12-17",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Dinheiro os Segredos de Quem Tem 02 - Tudo pago pela empresa.mp4",
+        "sha256": "f06eaec30fb2c80c0c42400aafcef842e6c7b75bfbfce18d61028809e5a24bc5",
+        "pacote": "Dinheiro os Segredos de Quem Tem 02 - Tudo pago pela empresa",
+        "pacote_id": "story-f06eaec30fb2"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-f06eaec30f-Dinheiro-os-Segredos-de-Quem-Tem-02---Tudo-pago-pela-empresa.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-f06eaec30f-Dinheiro-os-Segredos-de-Quem-Tem-02---Tudo-pago-pela-empresa.mp4",
+            "sha256": "f06eaec30fb2c80c0c42400aafcef842e6c7b75bfbfce18d61028809e5a24bc5",
+            "tamanho_bytes": 7830501,
+            "duracao_segundos": 34.083
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
