@@ -2796,7 +2796,7 @@
       "id": "reel-20261018-1700-f283f81ddd",
       "data": "2026-10-18",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais que Dinheiro 03 - A TV em doze vezes.mp4",
         "sha256": "f283f81ddda0b15e3896c51ad8df3501b736b345410dae8d9d497f2c1746c97f"
@@ -2809,12 +2809,17 @@
       },
       "instagram": {
         "legenda": "Uma TV de três mil reais saiu por três mil oitocentos e quarenta.\n\nFoi em doze vezes de trezentos e vinte, num exemplo nosso.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nÉ o jeito que ele é usado.\n\nAntes de parcelar, pergunta: o que eu vou ter no fim vale mais do que eu vou pagar?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18199276324384007",
+        "publicado_em": "2026-10-18T18:26:35.905749-03:00"
       },
       "facebook": {
         "legenda": "Uma TV de três mil reais saiu por três mil oitocentos e quarenta.\n\nFoi em doze vezes de trezentos e vinte, num exemplo nosso.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nÉ o jeito que ele é usado.\n\nAntes de parcelar, pergunta: o que eu vou ter no fim vale mais do que eu vou pagar?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1662591092183587",
+        "publicado_em": "2026-10-18T18:26:49.677509-03:00"
+      },
+      "concluido_em": "2026-10-18T18:26:49.685469-03:00"
     },
     {
       "id": "reel-20261018-2000-c86f7a4936",
