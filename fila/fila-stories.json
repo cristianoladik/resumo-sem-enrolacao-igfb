@@ -1047,7 +1047,7 @@
       "id": "story-20261018-dfa6aaeded",
       "data": "2026-10-18",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 16 - A maioria nunca comeca.mp4",
         "sha256": "dfa6aaededff9c460ed0122d88ac9b7644b1952b3ff46f633c6af9760d65678c",
@@ -1057,7 +1057,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-dfa6aaeded-Babilonia-16---A-maioria-nunca-comeca.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-dfa6aaeded-Babilonia-16---A-maioria-nunca-comeca.mp4",
@@ -1066,13 +1066,30 @@
             "duracao_segundos": 29.0
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18127534138853423",
+            "publish_iniciado_em": "2026-10-18T09:02:13-03:00",
+            "id": "18088303406699750",
+            "publicado_em": "2026-10-18T09:02:19-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1459981492688179",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-18T09:02:27-03:00",
+            "post_id_candidato": "1079092245129445",
+            "finish_em": "2026-10-18T09:02:31-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjEwNzkwOTIyNTE3OTYxMTE=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1079092245129445",
+            "publicado_em": "2026-10-18T09:03:08-03:00"
+          },
+          "concluido_em": "2026-10-18T09:03:08-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-18T09:03:08-03:00"
     },
     {
       "id": "story-20261019-1841d6b7d7",
