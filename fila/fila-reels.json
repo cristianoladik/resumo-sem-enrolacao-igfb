@@ -2766,7 +2766,7 @@
       "id": "reel-20261018-1400-552f2a2609",
       "data": "2026-10-18",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Dinheiro Segredos 03 - Qual e o seu perfil com dinheiro.mp4",
         "sha256": "552f2a2609241513bdffc1d76761a2b2efa6d43af8aa0e4a86bab2a8375eb691"
@@ -2779,12 +2779,17 @@
       },
       "instagram": {
         "legenda": "Existem três tipos de pessoa com o dinheiro.\n\nE você é uma delas, mesmo sem saber.\n\nQuem separa esses três perfis é o livro Dinheiro, os Segredos de Quem Tem.\n\nFaz o teste agora, sem se enganar.\n\nEm qual dos três você está hoje?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17920049130245156",
+        "publicado_em": "2026-10-18T14:17:04.941788-03:00"
       },
       "facebook": {
         "legenda": "Existem três tipos de pessoa com o dinheiro.\n\nE você é uma delas, mesmo sem saber.\n\nQuem separa esses três perfis é o livro Dinheiro, os Segredos de Quem Tem.\n\nFaz o teste agora, sem se enganar.\n\nEm qual dos três você está hoje?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1899759034767161",
+        "publicado_em": "2026-10-18T14:17:20.709994-03:00"
+      },
+      "concluido_em": "2026-10-18T14:17:20.717800-03:00"
     },
     {
       "id": "reel-20261018-1700-f283f81ddd",
