@@ -1063,7 +1063,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-dfa6aaeded-Babilonia-16---A-maioria-nunca-comeca.mp4",
             "sha256": "dfa6aaededff9c460ed0122d88ac9b7644b1952b3ff46f633c6af9760d65678c",
             "tamanho_bytes": 7764095,
-            "duracao_segundos": 29.0
+            "duracao_segundos": 29.0,
+            "removido_da_release_em": "2026-10-18T09:03:11.325885-03:00"
           },
           "instagram": {
             "status": "publicado",
