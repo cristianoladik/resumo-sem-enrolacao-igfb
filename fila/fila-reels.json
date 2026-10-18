@@ -2826,7 +2826,7 @@
       "id": "reel-20261018-2000-c86f7a4936",
       "data": "2026-10-18",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro os Segredos de Quem Tem 03 - As tres perguntas do gerente.mp4",
         "sha256": "c86f7a493648181915e665f87854dc36ff77efe75f4f89654a7b617db4c10795"
@@ -2839,12 +2839,17 @@
       },
       "instagram": {
         "legenda": "Um gerente de banco fez três perguntas a um consultor financeiro.\n\nO consultor é o Gustavo Cerbasi, e ele conta isso em Dinheiro, os Segredos de Quem Tem.\n\nPor isso, pro livro, aposentar é ter renda pra pagar as contas sem precisar trabalhar.\n\nResponde as três hoje, com números, não com achismo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17897540595673287",
+        "publicado_em": "2026-10-18T20:28:04.739756-03:00"
       },
       "facebook": {
         "legenda": "Um gerente de banco fez três perguntas a um consultor financeiro.\n\nO consultor é o Gustavo Cerbasi, e ele conta isso em Dinheiro, os Segredos de Quem Tem.\n\nPor isso, pro livro, aposentar é ter renda pra pagar as contas sem precisar trabalhar.\n\nResponde as três hoje, com números, não com achismo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2836863150028620",
+        "publicado_em": "2026-10-18T20:28:13.545624-03:00"
+      },
+      "concluido_em": "2026-10-18T20:28:13.553279-03:00"
     },
     {
       "id": "reel-20261019-0800-004fa417ca",
