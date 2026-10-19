@@ -2946,7 +2946,7 @@
       "id": "reel-20261019-1700-03928c7fbf",
       "data": "2026-10-19",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 03 - Os moveis de setenta mil.mp4",
         "sha256": "03928c7fbfe041ff4084996d7021ea1cdb5a8d56e563ecaa0553d28058ff5c40"
@@ -2959,12 +2959,17 @@
       },
       "instagram": {
         "legenda": "Pediram setenta mil reais pelos móveis de um escritório.\n\nEle não pagou mais de vinte mil.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nSe comprou caro, o lucro já foi embora antes de vender.\n\nPra você: antes de fechar uma compra grande, pede três orçamentos e negocia.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18178593739439864",
+        "publicado_em": "2026-10-19T17:10:00.453153-03:00"
       },
       "facebook": {
         "legenda": "Pediram setenta mil reais pelos móveis de um escritório.\n\nEle não pagou mais de vinte mil.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nSe comprou caro, o lucro já foi embora antes de vender.\n\nPra você: antes de fechar uma compra grande, pede três orçamentos e negocia.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1662972938790541",
+        "publicado_em": "2026-10-19T17:10:12.936181-03:00"
+      },
+      "concluido_em": "2026-10-19T17:10:12.948506-03:00"
     },
     {
       "id": "reel-20261019-2000-c10a83477b",
