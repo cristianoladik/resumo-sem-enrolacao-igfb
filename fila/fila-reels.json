@@ -2865,7 +2865,8 @@
         "asset": "reel-004fa417ca-Do-Mil-ao-Milhao-03---Cinco-mil-em-uma-semana.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-004fa417ca-Do-Mil-ao-Milhao-03---Cinco-mil-em-uma-semana.mp4",
         "sha256": "004fa417caea33d42562c44a3c17255e5de37d32ebd2f91202707293ea3ff974",
-        "tamanho_bytes": 25535051
+        "tamanho_bytes": 25535051,
+        "removido_da_release_em": "2026-10-19T09:16:58.055653-03:00"
       },
       "instagram": {
         "legenda": "Cinco mil reais.\n\nUma semana.\n\nZero no saldo.\n\nEssa é a primeira história do autor de Do Mil ao Milhão.\n\nO prejuízo dele custou cinco mil.\n\nPra você, custa só este vídeo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
