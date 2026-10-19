@@ -2925,7 +2925,8 @@
         "asset": "reel-8faca78a73-Me-Poupe-03---A-menina-que-pediu-uma-poupanca.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-8faca78a73-Me-Poupe-03---A-menina-que-pediu-uma-poupanca.mp4",
         "sha256": "8faca78a738b7b64701da4ecc2f561504ad0256d98f28ac62792b8ebb5f048c3",
-        "tamanho_bytes": 19500756
+        "tamanho_bytes": 19500756,
+        "removido_da_release_em": "2026-10-19T15:16:23.314051-03:00"
       },
       "instagram": {
         "legenda": "Uma menina pediu aos pais pra abrir uma poupança.\n\nA resposta foi não.\n\nEssa lição está no livro Me Poupe!\n\nVocê tá esperando alguém te ensinar a cuidar do seu dinheiro?\n\nOu vai fazer igual ela e começar sozinho, do jeito que der?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
