@@ -2976,7 +2976,7 @@
       "id": "reel-20261019-2000-c10a83477b",
       "data": "2026-10-19",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pense como um Bilionario 03 - Localizacao nao e endereco bonito.mp4",
         "sha256": "c10a83477b4820f4deb0b0e39a4cab98c024732f40dba707e0e90d22d8ec7f18"
@@ -2989,12 +2989,17 @@
       },
       "instagram": {
         "legenda": "Você acha que conhece a regra número um dos imóveis?\n\nLocalização.\n\nTodo mundo sabe.\n\nEssa lição está no livro Pense como um Bilionário.\n\nÉ a pergunta do livro, com outras palavras: você moraria ali com gosto, todo santo dia?\n\nSe a resposta for não, nem o nome bonito do bairro salva o negócio.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18081186332409305",
+        "publicado_em": "2026-10-19T20:43:48.747870-03:00"
       },
       "facebook": {
         "legenda": "Você acha que conhece a regra número um dos imóveis?\n\nLocalização.\n\nTodo mundo sabe.\n\nEssa lição está no livro Pense como um Bilionário.\n\nÉ a pergunta do livro, com outras palavras: você moraria ali com gosto, todo santo dia?\n\nSe a resposta for não, nem o nome bonito do bairro salva o negócio.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1533641388486606",
+        "publicado_em": "2026-10-19T20:43:58.589202-03:00"
+      },
+      "concluido_em": "2026-10-19T20:43:58.599658-03:00"
     },
     {
       "id": "reel-20261020-0800-dd1be51493",
