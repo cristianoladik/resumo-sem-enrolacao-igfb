@@ -1096,7 +1096,7 @@
       "id": "story-20261019-1841d6b7d7",
       "data": "2026-10-19",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 17 - As 5 leis do ouro.mp4",
         "sha256": "1841d6b7d76e64b8c24fc613596b697faa08a5f918347a560ad30c49bf038ebc",
@@ -1106,7 +1106,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-1841d6b7d7-Babilonia-17---As-5-leis-do-ouro.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-1841d6b7d7-Babilonia-17---As-5-leis-do-ouro.mp4",
@@ -1115,13 +1115,30 @@
             "duracao_segundos": 32.533
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18127667164853423",
+            "publish_iniciado_em": "2026-10-19T09:17:40-03:00",
+            "id": "18116259559823704",
+            "publicado_em": "2026-10-19T09:17:49-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1183173917367767",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-19T09:17:59-03:00",
+            "post_id_candidato": "1138632025773526",
+            "finish_em": "2026-10-19T09:18:03-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjExMzg2MzIwMjkxMDY4NTk=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1138632025773526",
+            "publicado_em": "2026-10-19T09:18:40-03:00"
+          },
+          "concluido_em": "2026-10-19T09:18:40-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-19T09:18:40-03:00"
     },
     {
       "id": "story-20261020-c4fd1e17fb",
