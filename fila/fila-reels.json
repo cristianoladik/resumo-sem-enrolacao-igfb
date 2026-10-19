@@ -2916,7 +2916,7 @@
       "id": "reel-20261019-1400-8faca78a73",
       "data": "2026-10-19",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Me Poupe 03 - A menina que pediu uma poupanca.mp4",
         "sha256": "8faca78a738b7b64701da4ecc2f561504ad0256d98f28ac62792b8ebb5f048c3"
@@ -2929,12 +2929,17 @@
       },
       "instagram": {
         "legenda": "Uma menina pediu aos pais pra abrir uma poupança.\n\nA resposta foi não.\n\nEssa lição está no livro Me Poupe!\n\nVocê tá esperando alguém te ensinar a cuidar do seu dinheiro?\n\nOu vai fazer igual ela e começar sozinho, do jeito que der?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18104256629357733",
+        "publicado_em": "2026-10-19T15:16:10.069775-03:00"
       },
       "facebook": {
         "legenda": "Uma menina pediu aos pais pra abrir uma poupança.\n\nA resposta foi não.\n\nEssa lição está no livro Me Poupe!\n\nVocê tá esperando alguém te ensinar a cuidar do seu dinheiro?\n\nOu vai fazer igual ela e começar sozinho, do jeito que der?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1618168216757615",
+        "publicado_em": "2026-10-19T15:16:20.668703-03:00"
+      },
+      "concluido_em": "2026-10-19T15:16:20.678827-03:00"
     },
     {
       "id": "reel-20261019-1700-03928c7fbf",
