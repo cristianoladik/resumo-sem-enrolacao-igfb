@@ -2886,7 +2886,7 @@
       "id": "reel-20261019-1100-c0e76073a9",
       "data": "2026-10-19",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 03 - A fada que dobrou o dinheiro.mp4",
         "sha256": "c0e76073a9f8b562c1d1ce7b936ab79ef604321d50ffbbb0871224d1916b8d4d"
@@ -2899,12 +2899,17 @@
       },
       "instagram": {
         "legenda": "E se uma fada dobrasse o dinheiro de todo mundo?\n\nEsse exemplo é do filósofo escocês David Hume.\n\nEssa lição está no livro Em Nome do Povo.\n\nTodo mundo tem mais nota e o mesmo pão.\n\nMais moeda não é mais riqueza.\n\nRiqueza é o que se produz.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17898369204405241",
+        "publicado_em": "2026-10-19T11:36:28.596020-03:00"
       },
       "facebook": {
         "legenda": "E se uma fada dobrasse o dinheiro de todo mundo?\n\nEsse exemplo é do filósofo escocês David Hume.\n\nEssa lição está no livro Em Nome do Povo.\n\nTodo mundo tem mais nota e o mesmo pão.\n\nMais moeda não é mais riqueza.\n\nRiqueza é o que se produz.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1769338427631669",
+        "publicado_em": "2026-10-19T11:36:37.927817-03:00"
+      },
+      "concluido_em": "2026-10-19T11:36:37.939939-03:00"
     },
     {
       "id": "reel-20261019-1400-8faca78a73",
