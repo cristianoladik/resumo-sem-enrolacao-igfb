@@ -2856,7 +2856,7 @@
       "id": "reel-20261019-0800-004fa417ca",
       "data": "2026-10-19",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Do Mil ao Milhao 03 - Cinco mil em uma semana.mp4",
         "sha256": "004fa417caea33d42562c44a3c17255e5de37d32ebd2f91202707293ea3ff974"
@@ -2869,12 +2869,17 @@
       },
       "instagram": {
         "legenda": "Cinco mil reais.\n\nUma semana.\n\nZero no saldo.\n\nEssa é a primeira história do autor de Do Mil ao Milhão.\n\nO prejuízo dele custou cinco mil.\n\nPra você, custa só este vídeo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17917975806467488",
+        "publicado_em": "2026-10-19T09:16:45.021728-03:00"
       },
       "facebook": {
         "legenda": "Cinco mil reais.\n\nUma semana.\n\nZero no saldo.\n\nEssa é a primeira história do autor de Do Mil ao Milhão.\n\nO prejuízo dele custou cinco mil.\n\nPra você, custa só este vídeo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1641072344730671",
+        "publicado_em": "2026-10-19T09:16:55.403089-03:00"
+      },
+      "concluido_em": "2026-10-19T09:16:55.415913-03:00"
     },
     {
       "id": "reel-20261019-1100-c0e76073a9",
