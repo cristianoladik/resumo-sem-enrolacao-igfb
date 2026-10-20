@@ -2969,6 +2969,68 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261218-b729cf86cf",
+      "data": "2026-12-18",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Em Nome do Povo 02 - O Taliba e o dolar.mp4",
+        "sha256": "b729cf86cf9d6aa8f10947b2dc4892b5073ca3323f37862a4319959e0aafe662",
+        "pacote": "Em Nome do Povo 02 - O Taliba e o dolar",
+        "pacote_id": "story-b729cf86cf9d"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-b729cf86cf-Em-Nome-do-Povo-02---O-Taliba-e-o-dolar.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-b729cf86cf-Em-Nome-do-Povo-02---O-Taliba-e-o-dolar.mp4",
+            "sha256": "b729cf86cf9d6aa8f10947b2dc4892b5073ca3323f37862a4319959e0aafe662",
+            "tamanho_bytes": 9331627,
+            "duracao_segundos": 35.625
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261219-75183dfbc6",
+      "data": "2026-12-19",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Me Poupe 02 - Espera cinco dias.mp4",
+        "sha256": "75183dfbc629e797ee318db3866862a0f051fbe11dedc272b0117f2656479fbf",
+        "pacote": "Me Poupe 02 - Espera cinco dias",
+        "pacote_id": "story-75183dfbc629"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-75183dfbc6-Me-Poupe-02---Espera-cinco-dias.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-75183dfbc6-Me-Poupe-02---Espera-cinco-dias.mp4",
+            "sha256": "75183dfbc629e797ee318db3866862a0f051fbe11dedc272b0117f2656479fbf",
+            "tamanho_bytes": 8097162,
+            "duracao_segundos": 33.125
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
