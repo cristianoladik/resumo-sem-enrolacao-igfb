@@ -3075,7 +3075,8 @@
         "asset": "reel-dd2c309a7a-Tamanho-1m00---Pai-Rico-03---O-conselho-do-emprego-seguro.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-dd2c309a7a-Tamanho-1m00---Pai-Rico-03---O-conselho-do-emprego-seguro.mp4",
         "sha256": "dd2c309a7a9e33ff818a62fd25e6bb68458851128982484b8b384388d418bc8b",
-        "tamanho_bytes": 10712985
+        "tamanho_bytes": 10712985,
+        "removido_da_release_em": "2026-10-20T14:56:50.828436-03:00"
       },
       "instagram": {
         "legenda": "\"Estuda e arruma um emprego seguro.\" Esse conselho pode te deixar pobre.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nEntão troca o conselho.\n\nEstuda, sim.\n\nMas estuda como o dinheiro funciona.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
