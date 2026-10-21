@@ -1210,7 +1210,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-3dcde8de7b-Babilonia-19---Desejo-definido.mp4",
             "sha256": "3dcde8de7bd2da4c48f803e66ba7329d6ed6f4862f7bae4054e023a0e8aa9553",
             "tamanho_bytes": 6522542,
-            "duracao_segundos": 26.9
+            "duracao_segundos": 26.9,
+            "removido_da_release_em": "2026-10-21T09:55:12.148396-03:00"
           },
           "instagram": {
             "status": "publicado",
