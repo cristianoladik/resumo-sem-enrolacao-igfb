@@ -3246,7 +3246,7 @@
       "id": "reel-20261021-1700-c6d4955dff",
       "data": "2026-10-21",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Deixe de Ser Pobre 04 - Fugir da divida.mp4",
         "sha256": "c6d4955dffdae51085ae1413751dcaec3915ab2669e78aa5481e2d702345d0fc"
@@ -3259,12 +3259,17 @@
       },
       "instagram": {
         "legenda": "Você tem uma dívida que prefere nem lembrar que existe?\n\nO livro Deixe de Ser Pobre tem um recado direto pra você.\n\nE quanto tá pagando de juros.\n\nO primeiro passo é esse: colocar tudo no papel, sem esconder nada de você mesmo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18010043055004422",
+        "publicado_em": "2026-10-21T18:44:03.574916-03:00"
       },
       "facebook": {
         "legenda": "Você tem uma dívida que prefere nem lembrar que existe?\n\nO livro Deixe de Ser Pobre tem um recado direto pra você.\n\nE quanto tá pagando de juros.\n\nO primeiro passo é esse: colocar tudo no papel, sem esconder nada de você mesmo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1559329462613813",
+        "publicado_em": "2026-10-21T18:44:14.109673-03:00"
+      },
+      "concluido_em": "2026-10-21T18:44:14.122332-03:00"
     },
     {
       "id": "reel-20261021-2000-ca517bfa3d",
