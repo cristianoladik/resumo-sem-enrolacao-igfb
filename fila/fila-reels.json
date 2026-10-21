@@ -3216,7 +3216,7 @@
       "id": "reel-20261021-1400-38f6bbfbe2",
       "data": "2026-10-21",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Como Fazer Amigos 04 - Os cinco dolares que nao chegaram.mp4",
         "sha256": "38f6bbfbe2d089026842e91e828ccef3ddd836b8bc967f508c5c170769c60eb1"
@@ -3229,12 +3229,17 @@
       },
       "instagram": {
         "legenda": "Um tio apostou cem dólares que os sobrinhos iam responder a carta dele sem ele pedir.\n\nOs dois, na faculdade, nunca respondiam as cartas da mãe.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nQuem tem que querer a isca é o peixe, não você.\n\nNo anúncio, esquece o seu produto.\n\nFala do problema que o cliente quer resolver.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18206538622374335",
+        "publicado_em": "2026-10-21T14:04:18.893331-03:00"
       },
       "facebook": {
         "legenda": "Um tio apostou cem dólares que os sobrinhos iam responder a carta dele sem ele pedir.\n\nOs dois, na faculdade, nunca respondiam as cartas da mãe.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nQuem tem que querer a isca é o peixe, não você.\n\nNo anúncio, esquece o seu produto.\n\nFala do problema que o cliente quer resolver.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1770089730778217",
+        "publicado_em": "2026-10-21T14:04:31.134496-03:00"
+      },
+      "concluido_em": "2026-10-21T14:04:31.145169-03:00"
     },
     {
       "id": "reel-20261021-1700-c6d4955dff",
