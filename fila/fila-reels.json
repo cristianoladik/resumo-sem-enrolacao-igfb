@@ -3156,7 +3156,7 @@
       "id": "reel-20261021-0800-a12b145157",
       "data": "2026-10-21",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "A Sutil Arte 04 - Nao tente.mp4",
         "sha256": "a12b14515749c35e269c346f30d41094a11eb244b4f8a86d6c56626d1e6416e4"
@@ -3169,12 +3169,17 @@
       },
       "instagram": {
         "legenda": "No túmulo desse escritor está escrito: não tente.\n\nEle é o Charles Bukowski, recusado pelas editoras durante décadas.\n\nEssa lição está no livro A Sutil Arte.\n\nPro livro, não se importar não é ser indiferente.\n\nÉ topar ser diferente.\n\nNinguém tem energia pra se importar com tudo, então escolha bem com o que se importar.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18032889344902991",
+        "publicado_em": "2026-10-21T08:35:49.652224-03:00"
       },
       "facebook": {
         "legenda": "No túmulo desse escritor está escrito: não tente.\n\nEle é o Charles Bukowski, recusado pelas editoras durante décadas.\n\nEssa lição está no livro A Sutil Arte.\n\nPro livro, não se importar não é ser indiferente.\n\nÉ topar ser diferente.\n\nNinguém tem energia pra se importar com tudo, então escolha bem com o que se importar.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2615258002253572",
+        "publicado_em": "2026-10-21T08:36:02.819649-03:00"
+      },
+      "concluido_em": "2026-10-21T08:36:02.829216-03:00"
     },
     {
       "id": "reel-20261021-1100-83ae3cd3c6",
