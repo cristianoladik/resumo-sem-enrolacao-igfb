@@ -3306,7 +3306,7 @@
       "id": "reel-20261022-0800-38d253029e",
       "data": "2026-10-22",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais que Dinheiro 04 - Divida que compra ativo.mp4",
         "sha256": "38d253029e06228f702d958b3deacf7e91d8dcb95c7ec65233ae815b0f8b23b1"
@@ -3319,12 +3319,17 @@
       },
       "instagram": {
         "legenda": "Tem dívida que outra pessoa ajuda você a pagar todo mês.\n\nÉ o caso do imóvel alugado: o aluguel ajuda a pagar a parcela.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nCrédito com estratégia constrói.\n\nA regra que sai daí: o imóvel tem que render mais do que o crédito custa.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18138286513652664",
+        "publicado_em": "2026-10-22T08:35:35.638987-03:00"
       },
       "facebook": {
         "legenda": "Tem dívida que outra pessoa ajuda você a pagar todo mês.\n\nÉ o caso do imóvel alugado: o aluguel ajuda a pagar a parcela.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nCrédito com estratégia constrói.\n\nA regra que sai daí: o imóvel tem que render mais do que o crédito custa.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1089201070758354",
+        "publicado_em": "2026-10-22T08:35:46.057445-03:00"
+      },
+      "concluido_em": "2026-10-22T08:35:46.069960-03:00"
     },
     {
       "id": "reel-20261022-1100-e31eb40c4b",
