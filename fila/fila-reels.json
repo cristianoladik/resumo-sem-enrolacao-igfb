@@ -3366,7 +3366,7 @@
       "id": "reel-20261022-1400-974a29a90d",
       "data": "2026-10-22",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Do Mil ao Milhao 04 - A regra de desempate.mp4",
         "sha256": "974a29a90d7d31f467488d94cb2464746468f24437cba0e3790a003dbe8fda2c"
@@ -3379,12 +3379,17 @@
       },
       "instagram": {
         "legenda": "Dois investimentos com o mesmo risco.\n\nQual você escolhe?\n\nO livro Do Mil ao Milhão tem uma regra de desempate que resolve isso em segundos.\n\nÉ a facilidade de transformar o investimento em dinheiro na mão.\n\nCom tudo empatado, poder sacar rápido é vantagem de graça.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17889654660478565",
+        "publicado_em": "2026-10-22T14:03:30.482157-03:00"
       },
       "facebook": {
         "legenda": "Dois investimentos com o mesmo risco.\n\nQual você escolhe?\n\nO livro Do Mil ao Milhão tem uma regra de desempate que resolve isso em segundos.\n\nÉ a facilidade de transformar o investimento em dinheiro na mão.\n\nCom tudo empatado, poder sacar rápido é vantagem de graça.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "39579526874996417",
+        "publicado_em": "2026-10-22T14:03:43.786205-03:00"
+      },
+      "concluido_em": "2026-10-22T14:03:43.798713-03:00"
     },
     {
       "id": "reel-20261022-1700-30eac9b62e",
