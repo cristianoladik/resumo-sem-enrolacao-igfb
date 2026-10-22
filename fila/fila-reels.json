@@ -3336,7 +3336,7 @@
       "id": "reel-20261022-1100-e31eb40c4b",
       "data": "2026-10-22",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro os Segredos de Quem Tem 04 - O rico tambem erra.mp4",
         "sha256": "e31eb40c4bfd6774a5801dfd184feca23ce458c222dcfe0bfa50d1be143c21d3"
@@ -3349,12 +3349,17 @@
       },
       "instagram": {
         "legenda": "O rico também erra dinheiro.\n\nE erra muito.\n\nQuem diz é o Gustavo Cerbasi, no livro Dinheiro, os Segredos de Quem Tem.\n\nNenhum deles depende de ganhar mais.\n\nTodos dependem do que você faz com o que já ganha.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17922994383225937",
+        "publicado_em": "2026-10-22T11:11:52.759829-03:00"
       },
       "facebook": {
         "legenda": "O rico também erra dinheiro.\n\nE erra muito.\n\nQuem diz é o Gustavo Cerbasi, no livro Dinheiro, os Segredos de Quem Tem.\n\nNenhum deles depende de ganhar mais.\n\nTodos dependem do que você faz com o que já ganha.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1652000060270270",
+        "publicado_em": "2026-10-22T11:12:03.108961-03:00"
+      },
+      "concluido_em": "2026-10-22T11:12:03.119195-03:00"
     },
     {
       "id": "reel-20261022-1400-974a29a90d",
