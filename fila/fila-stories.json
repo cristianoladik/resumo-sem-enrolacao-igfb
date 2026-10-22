@@ -1243,7 +1243,7 @@
       "id": "story-20261022-21c4958932",
       "data": "2026-10-22",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 20 - Nao e ficar rico rapido.mp4",
         "sha256": "21c4958932ef2fda741b60b7e1a573432f1804aa0c1ff4ada1d8f275bad054f6",
@@ -1253,7 +1253,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-21c4958932-Babilonia-20---Nao-e-ficar-rico-rapido.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-21c4958932-Babilonia-20---Nao-e-ficar-rico-rapido.mp4",
@@ -1262,13 +1262,30 @@
             "duracao_segundos": 30.233
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18128019514853423",
+            "publish_iniciado_em": "2026-10-22T09:16:12-03:00",
+            "id": "18088435052313533",
+            "publicado_em": "2026-10-22T09:16:22-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "3680944762059215",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-22T09:16:29-03:00",
+            "post_id_candidato": "1415110016920133",
+            "finish_em": "2026-10-22T09:16:35-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjE0MTUxMTAwMjM1ODY3OTk=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1415110016920133",
+            "publicado_em": "2026-10-22T09:17:11-03:00"
+          },
+          "concluido_em": "2026-10-22T09:17:11-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-22T09:17:11-03:00"
     },
     {
       "id": "story-20261023-0b3eb0664f",
