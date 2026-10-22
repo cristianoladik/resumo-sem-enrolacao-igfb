@@ -3405,7 +3405,8 @@
         "asset": "reel-30eac9b62e-Em-Nome-do-Povo-04---O-salario-que-encolheu.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-30eac9b62e-Em-Nome-do-Povo-04---O-salario-que-encolheu.mp4",
         "sha256": "30eac9b62e96bf48afac181354af658322b57e8d9748635d7a3d74b41daedac5",
-        "tamanho_bytes": 7315204
+        "tamanho_bytes": 7315204,
+        "removido_da_release_em": "2026-10-22T19:11:30.797850-03:00"
       },
       "instagram": {
         "legenda": "Seu salário pode encolher sem ninguém tirar um real dele.\n\nO livro Em Nome do Povo, do Bruno Perini, explica como.\n\nE isso acontece aos poucos, sem aviso nenhum na sua conta.\n\nPor isso muitos economistas chamam a inflação de imposto invisível.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
