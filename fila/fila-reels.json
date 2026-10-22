@@ -3276,7 +3276,7 @@
       "id": "reel-20261021-2000-ca517bfa3d",
       "data": "2026-10-21",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Dinheiro Segredos 04 - Eu nao levo jeito pra dinheiro.mp4",
         "sha256": "ca517bfa3d7ac0ee4bf03a04d0302e407eac53fab5f6a39f51fb792c44648a0b"
@@ -3289,12 +3289,17 @@
       },
       "instagram": {
         "legenda": "Você já disse a frase: eu não levo jeito pra dinheiro?\n\nEntão ouve isso com atenção.\n\nEssa lição está no livro Dinheiro: Os Segredos de Quem Tem.\n\nTroca o eu perco em tudo por um eu posso aprender a ganhar.\n\nNão é mágica.\n\nÉ mudar o que você se permite tentar.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18117786607785626",
+        "publicado_em": "2026-10-21T21:16:07.761583-03:00"
       },
       "facebook": {
         "legenda": "Você já disse a frase: eu não levo jeito pra dinheiro?\n\nEntão ouve isso com atenção.\n\nEssa lição está no livro Dinheiro: Os Segredos de Quem Tem.\n\nTroca o eu perco em tudo por um eu posso aprender a ganhar.\n\nNão é mágica.\n\nÉ mudar o que você se permite tentar.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2179848962969368",
+        "publicado_em": "2026-10-21T21:16:18.540646-03:00"
+      },
+      "concluido_em": "2026-10-21T21:16:18.552821-03:00"
     },
     {
       "id": "reel-20261022-0800-38d253029e",
