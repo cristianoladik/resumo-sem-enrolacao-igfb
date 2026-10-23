@@ -3426,7 +3426,7 @@
       "id": "reel-20261022-2000-355c3dc901",
       "data": "2026-10-22",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Me Poupe 04 - A culpa e do governo.mp4",
         "sha256": "355c3dc901cc14f79a122b2d959a84e348d053da36c6caadf5289c7f53386083"
@@ -3439,12 +3439,17 @@
       },
       "instagram": {
         "legenda": "A culpa da sua conta no vermelho é do governo?\n\nDo chefe que não te dá aumento?\n\nDa crise?\n\nEssa lição está no livro Me Poupe!\n\nE é por isso que nada muda.\n\nA resposta que eu prometi: a sua vida financeira só vira quando você pega o controle dela.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18433689961146226",
+        "publicado_em": "2026-10-22T21:35:19.882823-03:00"
       },
       "facebook": {
         "legenda": "A culpa da sua conta no vermelho é do governo?\n\nDo chefe que não te dá aumento?\n\nDa crise?\n\nEssa lição está no livro Me Poupe!\n\nE é por isso que nada muda.\n\nA resposta que eu prometi: a sua vida financeira só vira quando você pega o controle dela.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1097558036407726",
+        "publicado_em": "2026-10-22T21:35:29.709084-03:00"
+      },
+      "concluido_em": "2026-10-22T21:35:29.720157-03:00"
     },
     {
       "id": "reel-20261023-0800-748043f6e0",
