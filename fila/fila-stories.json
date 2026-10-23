@@ -1308,7 +1308,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-0b3eb0664f-Mente-Milionaria-08---Oportunidade-x-obstaculo.mp4",
             "sha256": "0b3eb0664f7f16751b2aca47fc27340787837a8144e8fab34d207b6f5dfa1213",
             "tamanho_bytes": 8610493,
-            "duracao_segundos": 29.933
+            "duracao_segundos": 29.933,
+            "removido_da_release_em": "2026-10-23T09:17:09.824760-03:00"
           },
           "instagram": {
             "status": "publicado",
