@@ -3486,7 +3486,7 @@
       "id": "reel-20261023-1100-2aac245d3a",
       "data": "2026-10-23",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pense como um Bilionario 04 - Visite o bairro em outros horarios.mp4",
         "sha256": "2aac245d3adf898277b07c017aeaa234a231e5c0b2189fdf01fa8938e3698c83"
@@ -3499,12 +3499,17 @@
       },
       "instagram": {
         "legenda": "Você visitou o imóvel num sábado de sol e se apaixonou?\n\nCuidado.\n\nO livro Pense como um Bilionário manda fazer uma coisa antes de fechar.\n\nE quem compra vai viver ali em todos os outros momentos também.\n\nTrês visitas a mais podem te poupar anos de arrependimento.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18025845122860638",
+        "publicado_em": "2026-10-23T11:11:05.457428-03:00"
       },
       "facebook": {
         "legenda": "Você visitou o imóvel num sábado de sol e se apaixonou?\n\nCuidado.\n\nO livro Pense como um Bilionário manda fazer uma coisa antes de fechar.\n\nE quem compra vai viver ali em todos os outros momentos também.\n\nTrês visitas a mais podem te poupar anos de arrependimento.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1457469129615349",
+        "publicado_em": "2026-10-23T11:11:17.843581-03:00"
+      },
+      "concluido_em": "2026-10-23T11:11:17.855911-03:00"
     },
     {
       "id": "reel-20261023-1400-5ea616144b",
