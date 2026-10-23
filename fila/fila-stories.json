@@ -1292,7 +1292,7 @@
       "id": "story-20261023-0b3eb0664f",
       "data": "2026-10-23",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 08 - Oportunidade x obstaculo.mp4",
         "sha256": "0b3eb0664f7f16751b2aca47fc27340787837a8144e8fab34d207b6f5dfa1213",
@@ -1302,7 +1302,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-0b3eb0664f-Mente-Milionaria-08---Oportunidade-x-obstaculo.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-0b3eb0664f-Mente-Milionaria-08---Oportunidade-x-obstaculo.mp4",
@@ -1311,13 +1311,30 @@
             "duracao_segundos": 29.933
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18128130868853423",
+            "publish_iniciado_em": "2026-10-23T09:16:11-03:00",
+            "id": "18116447789468772",
+            "publicado_em": "2026-10-23T09:16:19-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1126889306597613",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-23T09:16:25-03:00",
+            "post_id_candidato": "1254324384056269",
+            "finish_em": "2026-10-23T09:16:29-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjEyNTQzMjQzODczODk2MDI=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1254324384056269",
+            "publicado_em": "2026-10-23T09:17:06-03:00"
+          },
+          "concluido_em": "2026-10-23T09:17:06-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-23T09:17:06-03:00"
     },
     {
       "id": "story-20261024-a78f5bde68",
