@@ -3456,7 +3456,7 @@
       "id": "reel-20261023-0800-748043f6e0",
       "data": "2026-10-23",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 04 - O milhao aos 27.mp4",
         "sha256": "748043f6e0f7e2b5f131000fb72f6b16864b3968c6017c23552a27089423cb38"
@@ -3469,12 +3469,17 @@
       },
       "instagram": {
         "legenda": "Uma revista dizia que dava pra ter um milhão aos sessenta anos.\n\nEra guardar um salário mínimo por mês na poupança, dos dezoito aos sessenta.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nO exemplo do livro: somou duzentos e trinta e três mil reais.\n\nNuma meta de um milhão, já está em vinte e três por cento.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18478637446117767",
+        "publicado_em": "2026-10-23T08:25:00.114554-03:00"
       },
       "facebook": {
         "legenda": "Uma revista dizia que dava pra ter um milhão aos sessenta anos.\n\nEra guardar um salário mínimo por mês na poupança, dos dezoito aos sessenta.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nO exemplo do livro: somou duzentos e trinta e três mil reais.\n\nNuma meta de um milhão, já está em vinte e três por cento.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1851415016297830",
+        "publicado_em": "2026-10-23T08:25:13.050692-03:00"
+      },
+      "concluido_em": "2026-10-23T08:25:13.062722-03:00"
     },
     {
       "id": "reel-20261023-1100-2aac245d3a",
