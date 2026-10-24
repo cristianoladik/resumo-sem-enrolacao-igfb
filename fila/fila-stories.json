@@ -1357,7 +1357,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-a78f5bde68-Mente-Milionaria-09---Admirar-quem-chegou-la.mp4",
             "sha256": "a78f5bde68da75d833822bb96344a6503bf2899c00b991cb5fe37590fbaf252a",
             "tamanho_bytes": 7080219,
-            "duracao_segundos": 27.1
+            "duracao_segundos": 27.1,
+            "removido_da_release_em": "2026-10-24T09:18:20.134736-03:00"
           },
           "instagram": {
             "status": "publicado",
