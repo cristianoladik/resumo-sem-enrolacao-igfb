@@ -3576,7 +3576,7 @@
       "id": "reel-20261023-2000-e0a1eaf10a",
       "data": "2026-10-23",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Pai Rico 04 - Trabalhando de graca.mp4",
         "sha256": "e0a1eaf10afe1bd8a2f3de7f24abe5c0ce78e88d49763c939960283d39591aac"
@@ -3589,12 +3589,17 @@
       },
       "instagram": {
         "legenda": "Um menino de nove anos foi trabalhar de graça.\n\nE aprendeu a lição mais importante da vida.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nO dinheiro entrava mesmo com eles longe de lá.\n\nOs ricos não trabalham pelo dinheiro.\n\nFazem o dinheiro trabalhar pra eles.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18130366963835998",
+        "publicado_em": "2026-10-23T21:32:02.060476-03:00"
       },
       "facebook": {
         "legenda": "Um menino de nove anos foi trabalhar de graça.\n\nE aprendeu a lição mais importante da vida.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nO dinheiro entrava mesmo com eles longe de lá.\n\nOs ricos não trabalham pelo dinheiro.\n\nFazem o dinheiro trabalhar pra eles.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2358462284969795",
+        "publicado_em": "2026-10-23T21:32:12.248177-03:00"
+      },
+      "concluido_em": "2026-10-23T21:32:12.255634-03:00"
     },
     {
       "id": "reel-20261024-0800-a433effb40",
