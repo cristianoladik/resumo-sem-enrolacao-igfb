@@ -3696,7 +3696,7 @@
       "id": "reel-20261024-1700-d527ea6754",
       "data": "2026-10-24",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Casais Inteligentes 05 - O gastador.mp4",
         "sha256": "d527ea6754b3090a7c3ac614f1f06586317460c31a951d673cd210fb626ccaa8"
@@ -3709,12 +3709,17 @@
       },
       "instagram": {
         "legenda": "Recebeu o salário na sexta e na segunda já não sobrou nada?\n\nO livro Casais Inteligentes Enriquecem Juntos tem nome pra isso: perfil gastador.\n\nCom o parceiro ajudando a enxergar o amanhã.\n\nSe você se viu aqui, o primeiro passo já foi dado.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17875630881594839",
+        "publicado_em": "2026-10-24T18:37:30.610632-03:00"
       },
       "facebook": {
         "legenda": "Recebeu o salário na sexta e na segunda já não sobrou nada?\n\nO livro Casais Inteligentes Enriquecem Juntos tem nome pra isso: perfil gastador.\n\nCom o parceiro ajudando a enxergar o amanhã.\n\nSe você se viu aqui, o primeiro passo já foi dado.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1120969536990461",
+        "publicado_em": "2026-10-24T18:37:39.223274-03:00"
+      },
+      "concluido_em": "2026-10-24T18:37:39.233513-03:00"
     },
     {
       "id": "reel-20261024-2000-c84e3455c7",
