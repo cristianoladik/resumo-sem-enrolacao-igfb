@@ -1406,7 +1406,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-d4f1c208c2-Mente-Milionaria-10---As-5-pessoas.mp4",
             "sha256": "d4f1c208c2e0c69ab6f3c31316d3b4e7d26f209404abd5e4dac0d8c6c39c8c97",
             "tamanho_bytes": 10717741,
-            "duracao_segundos": 34.6
+            "duracao_segundos": 34.6,
+            "removido_da_release_em": "2026-10-25T09:17:09.770883-03:00"
           },
           "instagram": {
             "status": "publicado",
