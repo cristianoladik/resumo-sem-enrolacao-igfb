@@ -1390,7 +1390,7 @@
       "id": "story-20261025-d4f1c208c2",
       "data": "2026-10-25",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 10 - As 5 pessoas.mp4",
         "sha256": "d4f1c208c2e0c69ab6f3c31316d3b4e7d26f209404abd5e4dac0d8c6c39c8c97",
@@ -1400,7 +1400,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-d4f1c208c2-Mente-Milionaria-10---As-5-pessoas.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-d4f1c208c2-Mente-Milionaria-10---As-5-pessoas.mp4",
@@ -1409,13 +1409,30 @@
             "duracao_segundos": 34.6
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18128418862853423",
+            "publish_iniciado_em": "2026-10-25T09:16:10-03:00",
+            "id": "17921091735241801",
+            "publicado_em": "2026-10-25T09:16:18-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1672684791130234",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-25T09:16:26-03:00",
+            "post_id_candidato": "2343736683111133",
+            "finish_em": "2026-10-25T09:16:30-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjIzNDM3MzY2ODk3Nzc3OTk=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2343736683111133",
+            "publicado_em": "2026-10-25T09:17:06-03:00"
+          },
+          "concluido_em": "2026-10-25T09:17:06-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-25T09:17:06-03:00"
     },
     {
       "id": "story-20261026-42e385e271",
