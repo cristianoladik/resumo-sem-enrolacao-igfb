@@ -3846,7 +3846,7 @@
       "id": "reel-20261025-1700-9465fd7781",
       "data": "2026-10-25",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro os Segredos de Quem Tem 05 - O hipermercado e o centavo.mp4",
         "sha256": "9465fd778185a61a22b37494f0a1138fd4c824c56371e3935f89df504cd01b79"
@@ -3859,12 +3859,17 @@
       },
       "instagram": {
         "legenda": "O hipermercado ganha só um pouquinho em cada produto.\n\nE, somando tudo, fatura bilhões por ano.\n\nEssa lição está no livro Dinheiro: Os Segredos de Quem Tem.\n\nPequeno que cresce em cima de si mesmo vira gigante.\n\nNo lucro e no prejuízo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17948549181346648",
+        "publicado_em": "2026-10-25T19:01:12.199043-03:00"
       },
       "facebook": {
         "legenda": "O hipermercado ganha só um pouquinho em cada produto.\n\nE, somando tudo, fatura bilhões por ano.\n\nEssa lição está no livro Dinheiro: Os Segredos de Quem Tem.\n\nPequeno que cresce em cima de si mesmo vira gigante.\n\nNo lucro e no prejuízo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1687751069643061",
+        "publicado_em": "2026-10-25T19:01:22.752947-03:00"
+      },
+      "concluido_em": "2026-10-25T19:01:22.784219-03:00"
     },
     {
       "id": "reel-20261025-2000-ae6a605bf9",
