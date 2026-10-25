@@ -3756,7 +3756,7 @@
       "id": "reel-20261025-0800-e1f7a36b12",
       "data": "2026-10-25",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Deixe de Ser Pobre 05 - Trinta anos em tres.mp4",
         "sha256": "e1f7a36b124cb7fc858bf4c09230c901813f352abb094d53502667f5a48f4adc"
@@ -3769,12 +3769,17 @@
       },
       "instagram": {
         "legenda": "Um vídeo sobre financiamento de casa passou de dez milhões de visualizações.\n\nA promessa era encurtar uma dívida de trinta anos pra três.\n\nEssa lição está no livro Deixe de Ser Pobre.\n\nFunciona porque o juro morde o saldo, e você diminuiu o tamanho da mordida.\n\nAntes de fazer, confere as regras do seu contrato com o banco.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17914805901546396",
+        "publicado_em": "2026-10-25T08:09:48.547408-03:00"
       },
       "facebook": {
         "legenda": "Um vídeo sobre financiamento de casa passou de dez milhões de visualizações.\n\nA promessa era encurtar uma dívida de trinta anos pra três.\n\nEssa lição está no livro Deixe de Ser Pobre.\n\nFunciona porque o juro morde o saldo, e você diminuiu o tamanho da mordida.\n\nAntes de fazer, confere as regras do seu contrato com o banco.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2657125131374816",
+        "publicado_em": "2026-10-25T08:10:01.011226-03:00"
+      },
+      "concluido_em": "2026-10-25T08:10:01.023999-03:00"
     },
     {
       "id": "reel-20261025-1100-eb1d222b6c",
