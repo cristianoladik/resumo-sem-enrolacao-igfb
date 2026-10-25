@@ -3816,7 +3816,7 @@
       "id": "reel-20261025-1400-aaab75d790",
       "data": "2026-10-25",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais que Dinheiro 05 - Duzentos mil viram seiscentos e nove.mp4",
         "sha256": "aaab75d79026e7b0a18ecf677ecffe79310c1f9eda2d0b6621f7e25325cbd840"
@@ -3829,12 +3829,17 @@
       },
       "instagram": {
         "legenda": "Duzentos mil emprestados podem virar seiscentos e nove mil devolvidos.\n\nExemplo nosso: trinta anos, a dez por cento ao ano, fora seguros e taxas.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nSe o imóvel render mais do que o crédito custa, a conta fecha.\n\nSe não render, a dívida só tirou dinheiro do seu bolso.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18141831868722313",
+        "publicado_em": "2026-10-25T14:02:30.873861-03:00"
       },
       "facebook": {
         "legenda": "Duzentos mil emprestados podem virar seiscentos e nove mil devolvidos.\n\nExemplo nosso: trinta anos, a dez por cento ao ano, fora seguros e taxas.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nSe o imóvel render mais do que o crédito custa, a conta fecha.\n\nSe não render, a dívida só tirou dinheiro do seu bolso.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1126470016406312",
+        "publicado_em": "2026-10-25T14:02:40.191528-03:00"
+      },
+      "concluido_em": "2026-10-25T14:02:40.203893-03:00"
     },
     {
       "id": "reel-20261025-1700-9465fd7781",
