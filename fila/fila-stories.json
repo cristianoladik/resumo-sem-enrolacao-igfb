@@ -1455,7 +1455,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-42e385e271-Mente-Milionaria-11---Vergonha-de-vender.mp4",
             "sha256": "42e385e2718ef15c6d2f7204462722f9d28f5bf674e8c4ffad56b02c1a1671a9",
             "tamanho_bytes": 6731097,
-            "duracao_segundos": 25.167
+            "duracao_segundos": 25.167,
+            "removido_da_release_em": "2026-10-26T09:18:18.788051-03:00"
           },
           "instagram": {
             "status": "publicado",
