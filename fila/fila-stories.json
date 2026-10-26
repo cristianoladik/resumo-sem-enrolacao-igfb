@@ -1439,7 +1439,7 @@
       "id": "story-20261026-42e385e271",
       "data": "2026-10-26",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 11 - Vergonha de vender.mp4",
         "sha256": "42e385e2718ef15c6d2f7204462722f9d28f5bf674e8c4ffad56b02c1a1671a9",
@@ -1449,7 +1449,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-42e385e271-Mente-Milionaria-11---Vergonha-de-vender.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-42e385e271-Mente-Milionaria-11---Vergonha-de-vender.mp4",
@@ -1458,13 +1458,30 @@
             "duracao_segundos": 25.167
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18128586949853423",
+            "publish_iniciado_em": "2026-10-26T09:17:21-03:00",
+            "id": "17964711831078291",
+            "publicado_em": "2026-10-26T09:17:30-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "991880350627845",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-26T09:17:35-03:00",
+            "post_id_candidato": "2198971630962049",
+            "finish_em": "2026-10-26T09:17:39-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjIxOTg5NzE2NDA5NjIwNDg=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2198971630962049",
+            "publicado_em": "2026-10-26T09:18:15-03:00"
+          },
+          "concluido_em": "2026-10-26T09:18:15-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-26T09:18:15-03:00"
     },
     {
       "id": "story-20261027-eb94e510f3",
