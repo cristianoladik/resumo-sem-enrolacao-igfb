@@ -3966,7 +3966,7 @@
       "id": "reel-20261026-1400-383705cc77",
       "data": "2026-10-26",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 05 - A Land Rover pelo mesmo preco.mp4",
         "sha256": "383705cc77b5e103afb070f783e7c7607ab35cbbe336daef429c867440b2ab36"
@@ -3979,12 +3979,17 @@
       },
       "instagram": {
         "legenda": "Ele usou um carro por um ano e vendeu pelo mesmo preço que pagou.\n\nEra uma Land Rover.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nVale pro carro, pros móveis e até pra energia elétrica.\n\nPra você: antes de comprar, pesquisa o preço de mercado e oferece menos.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18341405329279811",
+        "publicado_em": "2026-10-26T15:09:01.087559-03:00"
       },
       "facebook": {
         "legenda": "Ele usou um carro por um ano e vendeu pelo mesmo preço que pagou.\n\nEra uma Land Rover.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nVale pro carro, pros móveis e até pra energia elétrica.\n\nPra você: antes de comprar, pesquisa o preço de mercado e oferece menos.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1765099308117709",
+        "publicado_em": "2026-10-26T15:09:11.966034-03:00"
+      },
+      "concluido_em": "2026-10-26T15:09:11.978274-03:00"
     },
     {
       "id": "reel-20261026-1700-6b505918c0",
