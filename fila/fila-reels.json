@@ -3915,7 +3915,8 @@
         "asset": "reel-333e9ea4e9-Em-Nome-do-Povo-05---Lucrar-duas-vezes.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-333e9ea4e9-Em-Nome-do-Povo-05---Lucrar-duas-vezes.mp4",
         "sha256": "333e9ea4e970eb602924c879dfd211baa1e3b907e7ec35227b7fcd88b6b86321",
-        "tamanho_bytes": 7003425
+        "tamanho_bytes": 7003425,
+        "removido_da_release_em": "2026-10-26T09:16:37.848140-03:00"
       },
       "instagram": {
         "legenda": "Hoje não basta lucrar uma vez.\n\nVocê precisa lucrar duas.\n\nÉ a ideia mais prática do livro Em Nome do Povo, do Bruno Perini.\n\nRendeu quatro por cento com inflação de seis?\n\nPerdeu uns dois.\n\nO que conta é o ganho acima da inflação.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
