@@ -3876,7 +3876,7 @@
       "id": "reel-20261025-2000-ae6a605bf9",
       "data": "2026-10-25",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Do Mil ao Milhao 05 - So quem ganha bem investe.mp4",
         "sha256": "ae6a605bf93f3d1b3ad82aa41f2c158258e73c970eccf75a580fd5e06635dc7d"
@@ -3889,12 +3889,17 @@
       },
       "instagram": {
         "legenda": "Você acha que só vai conseguir guardar dinheiro quando ganhar mais?\n\nEssa ideia deixa um monte de gente parada no ponto de partida.\n\nEssa lição está no livro Do Mil ao Milhão.\n\nO que você faz com ele, todo mês, sem pular.\n\nComeça pequeno hoje, e deixa o hábito fazer o trabalho.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18028400762696307",
+        "publicado_em": "2026-10-25T21:08:52.952967-03:00"
       },
       "facebook": {
         "legenda": "Você acha que só vai conseguir guardar dinheiro quando ganhar mais?\n\nEssa ideia deixa um monte de gente parada no ponto de partida.\n\nEssa lição está no livro Do Mil ao Milhão.\n\nO que você faz com ele, todo mês, sem pular.\n\nComeça pequeno hoje, e deixa o hábito fazer o trabalho.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2495443160984366",
+        "publicado_em": "2026-10-25T21:09:05.469379-03:00"
+      },
+      "concluido_em": "2026-10-25T21:09:05.481914-03:00"
     },
     {
       "id": "reel-20261026-0800-333e9ea4e9",
