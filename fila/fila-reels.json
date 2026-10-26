@@ -3906,7 +3906,7 @@
       "id": "reel-20261026-0800-333e9ea4e9",
       "data": "2026-10-26",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 05 - Lucrar duas vezes.mp4",
         "sha256": "333e9ea4e970eb602924c879dfd211baa1e3b907e7ec35227b7fcd88b6b86321"
@@ -3919,12 +3919,17 @@
       },
       "instagram": {
         "legenda": "Hoje não basta lucrar uma vez.\n\nVocê precisa lucrar duas.\n\nÉ a ideia mais prática do livro Em Nome do Povo, do Bruno Perini.\n\nRendeu quatro por cento com inflação de seis?\n\nPerdeu uns dois.\n\nO que conta é o ganho acima da inflação.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17992009652861007",
+        "publicado_em": "2026-10-26T09:16:18.258981-03:00"
       },
       "facebook": {
         "legenda": "Hoje não basta lucrar uma vez.\n\nVocê precisa lucrar duas.\n\nÉ a ideia mais prática do livro Em Nome do Povo, do Bruno Perini.\n\nRendeu quatro por cento com inflação de seis?\n\nPerdeu uns dois.\n\nO que conta é o ganho acima da inflação.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1642611571212477",
+        "publicado_em": "2026-10-26T09:16:35.103933-03:00"
+      },
+      "concluido_em": "2026-10-26T09:16:35.114352-03:00"
     },
     {
       "id": "reel-20261026-1100-dc2db1b986",
