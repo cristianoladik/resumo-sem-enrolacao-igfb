@@ -3936,7 +3936,7 @@
       "id": "reel-20261026-1100-dc2db1b986",
       "data": "2026-10-26",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Me Poupe 05 - A ordem certa.mp4",
         "sha256": "dc2db1b98691fb8d727a01f624be67e3261220266b96611a29370b75ba42d781"
@@ -3949,12 +3949,17 @@
       },
       "instagram": {
         "legenda": "Você quer começar a investir, mas ainda tem parcela atrasada no cartão?\n\nEntão para tudo, porque a ordem importa.\n\nEssa lição está no livro Me Poupe!\n\nSó depois, investir.\n\nParece devagar, mas é o caminho que não te joga de volta pro começo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18147101983584275",
+        "publicado_em": "2026-10-26T11:12:24.067632-03:00"
       },
       "facebook": {
         "legenda": "Você quer começar a investir, mas ainda tem parcela atrasada no cartão?\n\nEntão para tudo, porque a ordem importa.\n\nEssa lição está no livro Me Poupe!\n\nSó depois, investir.\n\nParece devagar, mas é o caminho que não te joga de volta pro começo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1112811024938374",
+        "publicado_em": "2026-10-26T11:12:34.820193-03:00"
+      },
+      "concluido_em": "2026-10-26T11:12:34.830939-03:00"
     },
     {
       "id": "reel-20261026-1400-383705cc77",
