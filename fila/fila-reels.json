@@ -4116,7 +4116,7 @@
       "id": "reel-20261027-1400-fc412a49bc",
       "data": "2026-10-27",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Casais Inteligentes 06 - O livro que virou filme.mp4",
         "sha256": "fc412a49bc30ee56fbbe59c957035fdf4c9b14e2f326a54c9439dae716cefa93"
@@ -4129,12 +4129,17 @@
       },
       "instagram": {
         "legenda": "Um livro de finanças virou comédia de cinema e lotou as salas do Brasil.\n\nO nome do livro é Casais Inteligentes Enriquecem Juntos.\n\nDividir é o mínimo.\n\nSomar é o que constrói alguma coisa de verdade.\n\nSe você mora com alguém, manda esse vídeo pra essa pessoa hoje.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18345418762251896",
+        "publicado_em": "2026-10-27T14:22:47.539289-03:00"
       },
       "facebook": {
         "legenda": "Um livro de finanças virou comédia de cinema e lotou as salas do Brasil.\n\nO nome do livro é Casais Inteligentes Enriquecem Juntos.\n\nDividir é o mínimo.\n\nSomar é o que constrói alguma coisa de verdade.\n\nSe você mora com alguém, manda esse vídeo pra essa pessoa hoje.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1468438391884904",
+        "publicado_em": "2026-10-27T14:23:01.760044-03:00"
+      },
+      "concluido_em": "2026-10-27T14:23:01.767532-03:00"
     },
     {
       "id": "reel-20261027-1700-908949404d",
