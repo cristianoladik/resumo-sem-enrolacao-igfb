@@ -1488,7 +1488,7 @@
       "id": "story-20261027-eb94e510f3",
       "data": "2026-10-27",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 12 - Maior que o problema.mp4",
         "sha256": "eb94e510f3d3ed30e3d5ec33c45ca5bb9ba6f811d549b3b3731e205d40faa564",
@@ -1498,7 +1498,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-eb94e510f3-Mente-Milionaria-12---Maior-que-o-problema.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-eb94e510f3-Mente-Milionaria-12---Maior-que-o-problema.mp4",
@@ -1507,13 +1507,30 @@
             "duracao_segundos": 27.4
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18128735662853423",
+            "publish_iniciado_em": "2026-10-27T09:16:16-03:00",
+            "id": "18134334232751885",
+            "publicado_em": "2026-10-27T09:16:23-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1748154582937686",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-27T09:16:30-03:00",
+            "post_id_candidato": "1770292087363445",
+            "finish_em": "2026-10-27T09:16:35-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjE3NzAyOTIwOTQwMzAxMTE=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1770292087363445",
+            "publicado_em": "2026-10-27T09:17:11-03:00"
+          },
+          "concluido_em": "2026-10-27T09:17:11-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-27T09:17:11-03:00"
     },
     {
       "id": "story-20261028-da518f17af",
