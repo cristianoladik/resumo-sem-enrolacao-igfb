@@ -4056,7 +4056,7 @@
       "id": "reel-20261027-0800-5dfcb2e093",
       "data": "2026-10-27",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m30 - Babilonia 05 - As joias de vidro.mp4",
         "sha256": "5dfcb2e093e7945fe382c73ed20f1c74408ceeb596e848ff2c6cf427f7904148"
@@ -4069,12 +4069,17 @@
       },
       "instagram": {
         "legenda": "Um ano inteiro guardando dinheiro.\n\nE tudo virou pedaço de vidro.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nAnos depois, o mestre perguntou: ainda ouve conselho de fabricante de tijolo?\n\nSobre tijolo, eles dão ótimo conselho.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17864725143693460",
+        "publicado_em": "2026-10-27T08:02:29.154915-03:00"
       },
       "facebook": {
         "legenda": "Um ano inteiro guardando dinheiro.\n\nE tudo virou pedaço de vidro.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nAnos depois, o mestre perguntou: ainda ouve conselho de fabricante de tijolo?\n\nSobre tijolo, eles dão ótimo conselho.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1928375731865979",
+        "publicado_em": "2026-10-27T08:02:38.527153-03:00"
+      },
+      "concluido_em": "2026-10-27T08:02:38.535023-03:00"
     },
     {
       "id": "reel-20261027-1100-786da34ad4",
