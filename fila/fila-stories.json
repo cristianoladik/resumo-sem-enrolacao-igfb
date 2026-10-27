@@ -1504,7 +1504,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-eb94e510f3-Mente-Milionaria-12---Maior-que-o-problema.mp4",
             "sha256": "eb94e510f3d3ed30e3d5ec33c45ca5bb9ba6f811d549b3b3731e205d40faa564",
             "tamanho_bytes": 8767429,
-            "duracao_segundos": 27.4
+            "duracao_segundos": 27.4,
+            "removido_da_release_em": "2026-10-27T09:17:14.155438-03:00"
           },
           "instagram": {
             "status": "publicado",
