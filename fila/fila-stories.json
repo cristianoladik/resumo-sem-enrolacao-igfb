@@ -1553,7 +1553,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-da518f17af-Mente-Milionaria-13---Saber-receber.mp4",
             "sha256": "da518f17af9e19c155462c7c77e8c79b9958e13a144f6e032de8f1d9774b9b9f",
             "tamanho_bytes": 6857312,
-            "duracao_segundos": 28.033
+            "duracao_segundos": 28.033,
+            "removido_da_release_em": "2026-10-28T09:17:03.590673-03:00"
           },
           "instagram": {
             "status": "publicado",
