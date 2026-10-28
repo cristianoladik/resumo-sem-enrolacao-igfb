@@ -4296,7 +4296,7 @@
       "id": "reel-20261028-1700-c9e82defec",
       "data": "2026-10-28",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Do Mil ao Milhao 06 - O investimento perfeito.mp4",
         "sha256": "c9e82defece196a9f5b96f765f5609352a8a70d1679a7af2e25dab1af54675c5"
@@ -4309,12 +4309,17 @@
       },
       "instagram": {
         "legenda": "Rende muito, não tem risco e você saca quando quiser.\n\nSe alguém te oferecer isso, desconfia.\n\nEssa lição está no livro Do Mil ao Milhão.\n\nSe rende tanto assim, onde tá o risco?\n\nSe ninguém souber te responder, a resposta é você.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17915547792552902",
+        "publicado_em": "2026-10-28T18:47:14.858465-03:00"
       },
       "facebook": {
         "legenda": "Rende muito, não tem risco e você saca quando quiser.\n\nSe alguém te oferecer isso, desconfia.\n\nEssa lição está no livro Do Mil ao Milhão.\n\nSe rende tanto assim, onde tá o risco?\n\nSe ninguém souber te responder, a resposta é você.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1401952498592039",
+        "publicado_em": "2026-10-28T18:47:28.959483-03:00"
+      },
+      "concluido_em": "2026-10-28T18:47:28.970212-03:00"
     },
     {
       "id": "reel-20261028-2000-b25c9ffe56",
