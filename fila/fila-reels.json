@@ -4206,7 +4206,7 @@
       "id": "reel-20261028-0800-100804068f",
       "data": "2026-10-28",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Dinheiro Segredos 06 - Carro maior, conta maior.mp4",
         "sha256": "100804068f2e083d05ac61e76ede4539031e26b785a9b3d1d91a1b85f38b6729"
@@ -4219,12 +4219,17 @@
       },
       "instagram": {
         "legenda": "Você comprou um carro melhor.\n\nE junto veio uma fatura que ninguém te mostrou.\n\nO livro Dinheiro, os Segredos de Quem Tem chama atenção pra esse efeito escondido.\n\nÉ soltar o dinheiro que hoje segura coisa que pouco te alegra.\n\nE esse dinheiro solto pode ir trabalhar pra você, em vez de sustentar o que te pesa.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18119319745978330",
+        "publicado_em": "2026-10-28T08:35:04.968393-03:00"
       },
       "facebook": {
         "legenda": "Você comprou um carro melhor.\n\nE junto veio uma fatura que ninguém te mostrou.\n\nO livro Dinheiro, os Segredos de Quem Tem chama atenção pra esse efeito escondido.\n\nÉ soltar o dinheiro que hoje segura coisa que pouco te alegra.\n\nE esse dinheiro solto pode ir trabalhar pra você, em vez de sustentar o que te pesa.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4448597572117578",
+        "publicado_em": "2026-10-28T08:35:16.304998-03:00"
+      },
+      "concluido_em": "2026-10-28T08:35:16.317459-03:00"
     },
     {
       "id": "reel-20261028-1100-a794c2cf21",
