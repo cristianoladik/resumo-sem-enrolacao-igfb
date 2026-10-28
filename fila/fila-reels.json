@@ -4236,7 +4236,7 @@
       "id": "reel-20261028-1100-a794c2cf21",
       "data": "2026-10-28",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais que Dinheiro 06 - Cartao contra imovel.mp4",
         "sha256": "a794c2cf216b6d5a0a242a82c8d87ad1c02b162b6233fcad4f3005339ab6401d"
@@ -4249,12 +4249,17 @@
       },
       "instagram": {
         "legenda": "O rotativo do cartão pode passar de dez por cento ao mês.\n\nO financiamento de imóvel costuma ficar abaixo de um por cento ao mês.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nÉ onde a dívida tem mais chance de virar patrimônio.\n\nJá a dívida de consumo, pro livro, só tira do seu bolso.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18128824052310282",
+        "publicado_em": "2026-10-28T11:11:15.708152-03:00"
       },
       "facebook": {
         "legenda": "O rotativo do cartão pode passar de dez por cento ao mês.\n\nO financiamento de imóvel costuma ficar abaixo de um por cento ao mês.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nÉ onde a dívida tem mais chance de virar patrimônio.\n\nJá a dívida de consumo, pro livro, só tira do seu bolso.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1605536157291694",
+        "publicado_em": "2026-10-28T11:11:25.101682-03:00"
+      },
+      "concluido_em": "2026-10-28T11:11:25.109640-03:00"
     },
     {
       "id": "reel-20261028-1400-7747b08a1a",
