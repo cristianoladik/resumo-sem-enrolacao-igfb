@@ -1537,7 +1537,7 @@
       "id": "story-20261028-da518f17af",
       "data": "2026-10-28",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 13 - Saber receber.mp4",
         "sha256": "da518f17af9e19c155462c7c77e8c79b9958e13a144f6e032de8f1d9774b9b9f",
@@ -1547,7 +1547,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-da518f17af-Mente-Milionaria-13---Saber-receber.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-da518f17af-Mente-Milionaria-13---Saber-receber.mp4",
@@ -1556,13 +1556,30 @@
             "duracao_segundos": 28.033
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18128887039853423",
+            "publish_iniciado_em": "2026-10-28T09:16:07-03:00",
+            "id": "18018082877957445",
+            "publicado_em": "2026-10-28T09:16:14-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1173185915457723",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-28T09:16:20-03:00",
+            "post_id_candidato": "1144550111245121",
+            "finish_em": "2026-10-28T09:16:25-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjExNDQ1NTAxMTQ1Nzg0NTQ=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1144550111245121",
+            "publicado_em": "2026-10-28T09:17:00-03:00"
+          },
+          "concluido_em": "2026-10-28T09:17:00-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-28T09:17:00-03:00"
     },
     {
       "id": "story-20261029-14af2819a6",
