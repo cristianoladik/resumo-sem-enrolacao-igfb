@@ -4266,7 +4266,7 @@
       "id": "reel-20261028-1400-7747b08a1a",
       "data": "2026-10-28",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro os Segredos de Quem Tem 06 - O exercicio dos dez dias.mp4",
         "sha256": "7747b08a1adf30b7879369320a8a301221e7e11ca2a3baaa0545cd941af423df"
@@ -4279,12 +4279,17 @@
       },
       "instagram": {
         "legenda": "Lembra de uma vez, nos últimos dez dias, em que você jogou dinheiro fora.\n\nÉ um exercício do livro Dinheiro, os Segredos de Quem Tem, do Gustavo Cerbasi.\n\nPro livro, só perceber o erro já é um passo grande.\n\nEntão faz o exercício agora.\n\nQual foi o seu?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17964009075236587",
+        "publicado_em": "2026-10-28T14:21:31.856496-03:00"
       },
       "facebook": {
         "legenda": "Lembra de uma vez, nos últimos dez dias, em que você jogou dinheiro fora.\n\nÉ um exercício do livro Dinheiro, os Segredos de Quem Tem, do Gustavo Cerbasi.\n\nPro livro, só perceber o erro já é um passo grande.\n\nEntão faz o exercício agora.\n\nQual foi o seu?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1865757771516255",
+        "publicado_em": "2026-10-28T14:21:41.093277-03:00"
+      },
+      "concluido_em": "2026-10-28T14:21:41.104032-03:00"
     },
     {
       "id": "reel-20261028-1700-c9e82defec",
