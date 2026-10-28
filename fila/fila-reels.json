@@ -4176,7 +4176,7 @@
       "id": "reel-20261027-2000-c224088053",
       "data": "2026-10-27",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Deixe de Ser Pobre 06 - Comecar com pouco.mp4",
         "sha256": "c224088053c6b2d5030499796ff0969d60988c6b2e6d35a07e83be60944ef857"
@@ -4189,12 +4189,17 @@
       },
       "instagram": {
         "legenda": "Investir é coisa de rico?\n\nO livro Deixe de Ser Pobre diz que não, e explica o porquê.\n\nAchar que valor pequeno é vergonha.\n\nNão é.\n\nVergonha é passar mais um ano sem dar o primeiro passo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18099678476404125",
+        "publicado_em": "2026-10-27T21:07:59.695561-03:00"
       },
       "facebook": {
         "legenda": "Investir é coisa de rico?\n\nO livro Deixe de Ser Pobre diz que não, e explica o porquê.\n\nAchar que valor pequeno é vergonha.\n\nNão é.\n\nVergonha é passar mais um ano sem dar o primeiro passo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1458035646276767",
+        "publicado_em": "2026-10-27T21:08:11.884809-03:00"
+      },
+      "concluido_em": "2026-10-27T21:08:11.897358-03:00"
     },
     {
       "id": "reel-20261028-0800-100804068f",
