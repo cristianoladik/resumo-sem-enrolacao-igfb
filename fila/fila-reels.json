@@ -4356,7 +4356,7 @@
       "id": "reel-20261029-0800-00be83a25f",
       "data": "2026-10-29",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Me Poupe 06 - Uma conta so.mp4",
         "sha256": "00be83a25f8f8fc485e3adcffbd79d4b78ecc733e09f875b5bfd77c475cf6e81"
@@ -4369,12 +4369,17 @@
       },
       "instagram": {
         "legenda": "O salário cai na conta e, dez dias depois, você não sabe onde ele foi parar?\n\nO livro Me Poupe diz que o problema pode ser uma conta só.\n\nO que importa é dividir assim que o dinheiro entra, e não depois que ele acaba.\n\nPorque dinheiro sem destino encontra um destino sozinho.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17923833708220863",
+        "publicado_em": "2026-10-29T09:17:32.902648-03:00"
       },
       "facebook": {
         "legenda": "O salário cai na conta e, dez dias depois, você não sabe onde ele foi parar?\n\nO livro Me Poupe diz que o problema pode ser uma conta só.\n\nO que importa é dividir assim que o dinheiro entra, e não depois que ele acaba.\n\nPorque dinheiro sem destino encontra um destino sozinho.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1798707598235798",
+        "publicado_em": "2026-10-29T09:17:45.858799-03:00"
+      },
+      "concluido_em": "2026-10-29T09:17:45.869285-03:00"
     },
     {
       "id": "reel-20261029-1100-f1bdee8c60",
