@@ -1586,7 +1586,7 @@
       "id": "story-20261029-14af2819a6",
       "data": "2026-10-29",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 14 - Agir com medo.mp4",
         "sha256": "14af2819a60ef28eb45d8d3fb98d942df97806a07d360bb33821fc7497cba70d",
@@ -1596,7 +1596,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-14af2819a6-Mente-Milionaria-14---Agir-com-medo.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-14af2819a6-Mente-Milionaria-14---Agir-com-medo.mp4",
@@ -1605,13 +1605,30 @@
             "duracao_segundos": 27.767
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18129048439853423",
+            "publish_iniciado_em": "2026-10-29T09:18:30-03:00",
+            "id": "18125301454936237",
+            "publicado_em": "2026-10-29T09:18:38-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "3086276471710668",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-29T09:18:46-03:00",
+            "post_id_candidato": "1128039142948367",
+            "finish_em": "2026-10-29T09:18:51-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjExMjgwMzkxNDk2MTUwMzM=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1128039142948367",
+            "publicado_em": "2026-10-29T09:19:28-03:00"
+          },
+          "concluido_em": "2026-10-29T09:19:28-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-29T09:19:28-03:00"
     },
     {
       "id": "story-20261030-df400bbcc4",
