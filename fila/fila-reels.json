@@ -4365,7 +4365,8 @@
         "asset": "reel-00be83a25f-Me-Poupe-06---Uma-conta-so.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-00be83a25f-Me-Poupe-06---Uma-conta-so.mp4",
         "sha256": "00be83a25f8f8fc485e3adcffbd79d4b78ecc733e09f875b5bfd77c475cf6e81",
-        "tamanho_bytes": 12897013
+        "tamanho_bytes": 12897013,
+        "removido_da_release_em": "2026-10-29T09:17:48.216420-03:00"
       },
       "instagram": {
         "legenda": "O salário cai na conta e, dez dias depois, você não sabe onde ele foi parar?\n\nO livro Me Poupe diz que o problema pode ser uma conta só.\n\nO que importa é dividir assim que o dinheiro entra, e não depois que ele acaba.\n\nPorque dinheiro sem destino encontra um destino sozinho.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
