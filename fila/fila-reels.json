@@ -4326,7 +4326,7 @@
       "id": "reel-20261028-2000-b25c9ffe56",
       "data": "2026-10-28",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 06 - A marmita que perdeu lucro.mp4",
         "sha256": "b25c9ffe56f7cccc9fbca7f52af83a38364264803232110d18aaddd031359941"
@@ -4339,12 +4339,17 @@
       },
       "instagram": {
         "legenda": "A marmita vende igual, mas o lucro caiu quase trinta por cento.\n\nO vilão é a inflação, explicada no livro Em Nome do Povo.\n\nRevisa custo e preço uma vez por ano, na ponta do lápis.\n\nE contrato longo sem reajuste é dinheiro deixado na mesa.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18131452288697165",
+        "publicado_em": "2026-10-28T22:17:36.236901-03:00"
       },
       "facebook": {
         "legenda": "A marmita vende igual, mas o lucro caiu quase trinta por cento.\n\nO vilão é a inflação, explicada no livro Em Nome do Povo.\n\nRevisa custo e preço uma vez por ano, na ponta do lápis.\n\nE contrato longo sem reajuste é dinheiro deixado na mesa.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4352987114954366",
+        "publicado_em": "2026-10-28T22:17:45.244693-03:00"
+      },
+      "concluido_em": "2026-10-28T22:17:45.253537-03:00"
     },
     {
       "id": "reel-20261029-0800-00be83a25f",
