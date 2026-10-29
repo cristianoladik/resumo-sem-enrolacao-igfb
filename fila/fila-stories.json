@@ -1602,7 +1602,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-14af2819a6-Mente-Milionaria-14---Agir-com-medo.mp4",
             "sha256": "14af2819a60ef28eb45d8d3fb98d942df97806a07d360bb33821fc7497cba70d",
             "tamanho_bytes": 8311048,
-            "duracao_segundos": 27.767
+            "duracao_segundos": 27.767,
+            "removido_da_release_em": "2026-10-29T09:19:31.643385-03:00"
           },
           "instagram": {
             "status": "publicado",
