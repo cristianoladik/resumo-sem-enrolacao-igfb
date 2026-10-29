@@ -4446,7 +4446,7 @@
       "id": "reel-20261029-1700-03945d3fff",
       "data": "2026-10-29",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Babilonia 06 - Emprestar pra parente.mp4",
         "sha256": "03945d3fff6066b59fb5c7b0632337101db2ff97bf5a008e159fb99bd1d70b75"
@@ -4459,18 +4459,23 @@
       },
       "instagram": {
         "legenda": "Seu parente pediu dinheiro emprestado?\n\nEsse livro tem um conselho de cem anos pra você.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nNão arrisca o que você levou anos pra juntar.\n\nE a frase da caixa: melhor um pouco de cuidado do que um grande arrependimento.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18131298328858709",
+        "publicado_em": "2026-10-29T20:37:49.039572-03:00"
       },
       "facebook": {
         "legenda": "Seu parente pediu dinheiro emprestado?\n\nEsse livro tem um conselho de cem anos pra você.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nNão arrisca o que você levou anos pra juntar.\n\nE a frase da caixa: melhor um pouco de cuidado do que um grande arrependimento.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1139346025382444",
+        "publicado_em": "2026-10-29T20:37:59.542480-03:00"
+      },
+      "concluido_em": "2026-10-29T20:37:59.555425-03:00"
     },
     {
       "id": "reel-20261029-2000-a44bf093f9",
       "data": "2026-10-29",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Pai Rico 06 - Corrida dos ratos.mp4",
         "sha256": "a44bf093f915871624abcb8bc08ba68fe2174bbbd8b139a081f1596d78893c13"
@@ -4483,12 +4488,17 @@
       },
       "instagram": {
         "legenda": "Você corre o mês inteiro e não sai do lugar.\n\nIsso tem nome.\n\nE tem saída.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nAté isso pagar as suas contas no lugar do salário.\n\nAí sim você sai da roda.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18105634817375685",
+        "publicado_em": "2026-10-29T20:38:39.241275-03:00"
       },
       "facebook": {
         "legenda": "Você corre o mês inteiro e não sai do lugar.\n\nIsso tem nome.\n\nE tem saída.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nAté isso pagar as suas contas no lugar do salário.\n\nAí sim você sai da roda.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1776019823655550",
+        "publicado_em": "2026-10-29T20:38:48.826296-03:00"
+      },
+      "concluido_em": "2026-10-29T20:38:48.838794-03:00"
     },
     {
       "id": "reel-20261030-0800-e33825a203",
