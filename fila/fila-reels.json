@@ -4335,7 +4335,8 @@
         "asset": "reel-b25c9ffe56-Em-Nome-do-Povo-06---A-marmita-que-perdeu-lucro.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-b25c9ffe56-Em-Nome-do-Povo-06---A-marmita-que-perdeu-lucro.mp4",
         "sha256": "b25c9ffe56f7cccc9fbca7f52af83a38364264803232110d18aaddd031359941",
-        "tamanho_bytes": 7006643
+        "tamanho_bytes": 7006643,
+        "removido_da_release_em": "2026-10-28T22:17:47.862267-03:00"
       },
       "instagram": {
         "legenda": "A marmita vende igual, mas o lucro caiu quase trinta por cento.\n\nO vilão é a inflação, explicada no livro Em Nome do Povo.\n\nRevisa custo e preço uma vez por ano, na ponta do lápis.\n\nE contrato longo sem reajuste é dinheiro deixado na mesa.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
