@@ -4386,7 +4386,7 @@
       "id": "reel-20261029-1100-f1bdee8c60",
       "data": "2026-10-29",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 06 - O unico sinal que enriquece.mp4",
         "sha256": "f1bdee8c60b7b86838614c80e2b0e5096ff283f88b6f11e34786bd00048c84ea"
@@ -4399,12 +4399,17 @@
       },
       "instagram": {
         "legenda": "Só um sinal da matemática deixa alguém rico.\n\nE não é a soma.\n\nQuem diz isso é o Pablo Marçal, no livro Os Códigos do Milhão.\n\nSó multiplica quem tem algo inteiro na mão.\n\nUm produto pronto, um cliente, uma habilidade.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18107714183338308",
+        "publicado_em": "2026-10-29T11:11:31.627027-03:00"
       },
       "facebook": {
         "legenda": "Só um sinal da matemática deixa alguém rico.\n\nE não é a soma.\n\nQuem diz isso é o Pablo Marçal, no livro Os Códigos do Milhão.\n\nSó multiplica quem tem algo inteiro na mão.\n\nUm produto pronto, um cliente, uma habilidade.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2029853847672388",
+        "publicado_em": "2026-10-29T11:11:38.854200-03:00"
+      },
+      "concluido_em": "2026-10-29T11:11:38.867017-03:00"
     },
     {
       "id": "reel-20261029-1400-e3ce9ef4d4",
