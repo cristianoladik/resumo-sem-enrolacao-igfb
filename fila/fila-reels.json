@@ -4596,7 +4596,7 @@
       "id": "reel-20261030-1700-9c35b4e407",
       "data": "2026-10-30",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Como Fazer Amigos 07 - O nome que vendeu os trilhos.mp4",
         "sha256": "9c35b4e40746bac0ed2b423422094b0fb1ddefef3ba62ca43dadcc5806ff5248"
@@ -4609,12 +4609,17 @@
       },
       "instagram": {
         "legenda": "Ele construiu uma usina enorme e deu a ela o nome do presidente de uma ferrovia.\n\nAdivinha de quem a ferrovia passou a comprar trilhos.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nPra pessoa, o próprio nome é o som mais doce que existe.\n\nAnota o nome do cliente, do filho, até do cachorro.\n\nE usa na próxima conversa.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18107986654975438",
+        "publicado_em": "2026-10-30T17:48:33.671545-03:00"
       },
       "facebook": {
         "legenda": "Ele construiu uma usina enorme e deu a ela o nome do presidente de uma ferrovia.\n\nAdivinha de quem a ferrovia passou a comprar trilhos.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nPra pessoa, o próprio nome é o som mais doce que existe.\n\nAnota o nome do cliente, do filho, até do cachorro.\n\nE usa na próxima conversa.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1048207668277501",
+        "publicado_em": "2026-10-30T17:48:46.905153-03:00"
+      },
+      "concluido_em": "2026-10-30T17:48:46.919737-03:00"
     },
     {
       "id": "reel-20261030-2000-7176b96cfe",
