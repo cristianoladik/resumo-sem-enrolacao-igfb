@@ -1635,7 +1635,7 @@
       "id": "story-20261030-df400bbcc4",
       "data": "2026-10-30",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 15 - A xicara cheia.mp4",
         "sha256": "df400bbcc40714e97cc4a2e8f1a44b3f4ad0999bee80724fa8568f116b0038e0",
@@ -1645,7 +1645,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-df400bbcc4-Mente-Milionaria-15---A-xicara-cheia.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-df400bbcc4-Mente-Milionaria-15---A-xicara-cheia.mp4",
@@ -1654,13 +1654,30 @@
             "duracao_segundos": 27.833
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18129189559853423",
+            "publish_iniciado_em": "2026-10-30T09:17:53-03:00",
+            "id": "18343007908258767",
+            "publicado_em": "2026-10-30T09:18:00-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1705757144239777",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-30T09:18:08-03:00",
+            "post_id_candidato": "3438802443381523",
+            "finish_em": "2026-10-30T09:18:12-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjM0Mzg4MDI0NDY3MTQ4NTY=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "3438802443381523",
+            "publicado_em": "2026-10-30T09:18:48-03:00"
+          },
+          "concluido_em": "2026-10-30T09:18:48-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-30T09:18:48-03:00"
     },
     {
       "id": "story-20261031-8276f6aaa3",
