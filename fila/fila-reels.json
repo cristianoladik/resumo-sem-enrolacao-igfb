@@ -4686,7 +4686,7 @@
       "id": "reel-20261031-1100-c9984b0b3d",
       "data": "2026-10-31",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais que Dinheiro 07 - Noventa mil de aluguel.mp4",
         "sha256": "c9984b0b3d0c24c141123b1c6e11b2863a4a5f67085611787251d32c2d0d5fd3"
@@ -4699,12 +4699,17 @@
       },
       "instagram": {
         "legenda": "Cinco anos de aluguel a mil e quinhentos dão noventa mil reais.\n\nÉ um exemplo nosso.\n\nE nenhum real disso virou tijolo seu.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nA conta honesta é parcela mais custos, contra aluguel mais o que a entrada renderia.\n\nQuanto mais tempo você vai ficar no lugar, mais a compra tende a pesar a favor.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17870287593659680",
+        "publicado_em": "2026-10-31T11:11:07.675043-03:00"
       },
       "facebook": {
         "legenda": "Cinco anos de aluguel a mil e quinhentos dão noventa mil reais.\n\nÉ um exemplo nosso.\n\nE nenhum real disso virou tijolo seu.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nA conta honesta é parcela mais custos, contra aluguel mais o que a entrada renderia.\n\nQuanto mais tempo você vai ficar no lugar, mais a compra tende a pesar a favor.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2171681890412991",
+        "publicado_em": "2026-10-31T11:11:19.678184-03:00"
+      },
+      "concluido_em": "2026-10-31T11:11:19.688681-03:00"
     },
     {
       "id": "reel-20261031-1400-dd95ae85e3",
