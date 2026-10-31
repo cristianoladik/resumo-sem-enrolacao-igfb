@@ -4785,7 +4785,8 @@
         "asset": "reel-f8499f3266-Em-Nome-do-Povo-07---O-teste-do-dinheiro.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-f8499f3266-Em-Nome-do-Povo-07---O-teste-do-dinheiro.mp4",
         "sha256": "f8499f326638c709b0cef61aeecdb835f7c44fdd51a59c96766f3d182eedf364",
-        "tamanho_bytes": 6262933
+        "tamanho_bytes": 6262933,
+        "removido_da_release_em": "2026-10-31T20:18:41.663432-03:00"
       },
       "instagram": {
         "legenda": "O ouro passa num teste que o real e o dólar só passam com freio.\n\nEsse teste está no livro Em Nome do Povo, do Bruno Perini.\n\nE o real e o dólar?\n\nHoje eles não têm lastro nenhum.\n\nSó passam na escassez se quem cria a moeda tiver freio.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
