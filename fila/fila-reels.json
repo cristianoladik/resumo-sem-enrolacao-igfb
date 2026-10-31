@@ -4716,7 +4716,7 @@
       "id": "reel-20261031-1400-dd95ae85e3",
       "data": "2026-10-31",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro os Segredos de Quem Tem 07 - Seis jeitos de pagar menos.mp4",
         "sha256": "dd95ae85e399e300d0bece4374a10d048873157c827a5615eff442cb432bdc56"
@@ -4729,12 +4729,17 @@
       },
       "instagram": {
         "legenda": "Vendedor parado, esperando cliente, negocia muito mais.\n\nÉ uma das seis dicas de negociação de Dinheiro, os Segredos de Quem Tem.\n\nO autor, Gustavo Cerbasi, chama isso de comprar como vendedor.\n\nNo fim, você vende a ideia de que o seu dinheiro vale muito.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17937736035407240",
+        "publicado_em": "2026-10-31T14:12:05.836492-03:00"
       },
       "facebook": {
         "legenda": "Vendedor parado, esperando cliente, negocia muito mais.\n\nÉ uma das seis dicas de negociação de Dinheiro, os Segredos de Quem Tem.\n\nO autor, Gustavo Cerbasi, chama isso de comprar como vendedor.\n\nNo fim, você vende a ideia de que o seu dinheiro vale muito.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1954064962467684",
+        "publicado_em": "2026-10-31T14:12:17.662293-03:00"
+      },
+      "concluido_em": "2026-10-31T14:12:17.672958-03:00"
     },
     {
       "id": "reel-20261031-1700-0f867409b2",
