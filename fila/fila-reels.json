@@ -4656,7 +4656,7 @@
       "id": "reel-20261031-0800-9602ab1a2c",
       "data": "2026-10-31",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Dinheiro Segredos 07 - Depois eu vejo isso.mp4",
         "sha256": "9602ab1a2c3b8ffb6b6802fe7a93d91cc3619bd2f80a2cacf7fd8ccd15bdc093"
@@ -4669,12 +4669,17 @@
       },
       "instagram": {
         "legenda": "Tem uma frase que parece inofensiva e custa caríssimo: depois eu vejo.\n\nO livro Dinheiro, os Segredos de Quem Tem coloca ela em primeiro lugar na lista das cinco crenças que prendem o seu dinheiro.\n\nPor isso adiar sai tão caro, mesmo quando parece que não custa nada.\n\nNão precisa começar grande.\n\nPrecisa começar agora, com o que dá.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17976864168176230",
+        "publicado_em": "2026-10-31T08:15:32.932501-03:00"
       },
       "facebook": {
         "legenda": "Tem uma frase que parece inofensiva e custa caríssimo: depois eu vejo.\n\nO livro Dinheiro, os Segredos de Quem Tem coloca ela em primeiro lugar na lista das cinco crenças que prendem o seu dinheiro.\n\nPor isso adiar sai tão caro, mesmo quando parece que não custa nada.\n\nNão precisa começar grande.\n\nPrecisa começar agora, com o que dá.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1107406711883830",
+        "publicado_em": "2026-10-31T08:15:46.963980-03:00"
+      },
+      "concluido_em": "2026-10-31T08:15:46.976443-03:00"
     },
     {
       "id": "reel-20261031-1100-c9984b0b3d",
