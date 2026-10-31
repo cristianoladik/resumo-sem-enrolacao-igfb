@@ -1700,7 +1700,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-8276f6aaa3-Pai-Rico-01---Salario-nao-e-o-problema.mp4",
             "sha256": "8276f6aaa3fbd9343a446458e58f73d8b52ea8f928c489a844780ca71ddd9ce6",
             "tamanho_bytes": 6782382,
-            "duracao_segundos": 27.167
+            "duracao_segundos": 27.167,
+            "removido_da_release_em": "2026-10-31T09:16:55.347793-03:00"
           },
           "instagram": {
             "status": "publicado",
