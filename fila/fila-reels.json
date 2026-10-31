@@ -4626,7 +4626,7 @@
       "id": "reel-20261030-2000-7176b96cfe",
       "data": "2026-10-30",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Deixe de Ser Pobre 07 - Sem formula magica.mp4",
         "sha256": "7176b96cfeb63ae197b590bc0b3e61683a450498f636c6f8fb28542ad527a0e5"
@@ -4639,12 +4639,17 @@
       },
       "instagram": {
         "legenda": "Esse livro de dinheiro não jura que você vai ficar rico.\n\nEstranho?\n\nÉ o Deixe de Ser Pobre.\n\nÉ menos empolgante, eu sei.\n\nO ponto a favor é esse: ele não te vende sonho, te passa um caminho que dá pra seguir.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18102427862547604",
+        "publicado_em": "2026-10-30T21:13:58.021343-03:00"
       },
       "facebook": {
         "legenda": "Esse livro de dinheiro não jura que você vai ficar rico.\n\nEstranho?\n\nÉ o Deixe de Ser Pobre.\n\nÉ menos empolgante, eu sei.\n\nO ponto a favor é esse: ele não te vende sonho, te passa um caminho que dá pra seguir.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1476545114334745",
+        "publicado_em": "2026-10-30T21:14:06.510470-03:00"
+      },
+      "concluido_em": "2026-10-30T21:14:06.518628-03:00"
     },
     {
       "id": "reel-20261031-0800-9602ab1a2c",
