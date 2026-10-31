@@ -4746,7 +4746,7 @@
       "id": "reel-20261031-1700-0f867409b2",
       "data": "2026-10-31",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Do Mil ao Milhao 07 - O carro que perde valor.mp4",
         "sha256": "0f867409b2d58446b33d31719339064929c5cbebf4b473d6642e071d2da42a4a"
@@ -4759,12 +4759,17 @@
       },
       "instagram": {
         "legenda": "Tirou o carro zero da concessionária, e ele já vale menos.\n\nE mesmo assim, muita gente compra só pra mostrar pros outros.\n\nEssa lição está no livro Do Mil ao Milhão.\n\nA pergunta é essa: eu quero ou eu preciso?\n\nSe é só vontade de impressionar, a resposta já veio.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17972673069194600",
+        "publicado_em": "2026-10-31T19:11:15.272491-03:00"
       },
       "facebook": {
         "legenda": "Tirou o carro zero da concessionária, e ele já vale menos.\n\nE mesmo assim, muita gente compra só pra mostrar pros outros.\n\nEssa lição está no livro Do Mil ao Milhão.\n\nA pergunta é essa: eu quero ou eu preciso?\n\nSe é só vontade de impressionar, a resposta já veio.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1459381452951501",
+        "publicado_em": "2026-10-31T19:11:25.502466-03:00"
+      },
+      "concluido_em": "2026-10-31T19:11:25.515261-03:00"
     },
     {
       "id": "reel-20261031-2000-f8499f3266",
