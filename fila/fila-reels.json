@@ -4776,7 +4776,7 @@
       "id": "reel-20261031-2000-f8499f3266",
       "data": "2026-10-31",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 07 - O teste do dinheiro.mp4",
         "sha256": "f8499f326638c709b0cef61aeecdb835f7c44fdd51a59c96766f3d182eedf364"
@@ -4789,12 +4789,17 @@
       },
       "instagram": {
         "legenda": "O ouro passa num teste que o real e o dólar só passam com freio.\n\nEsse teste está no livro Em Nome do Povo, do Bruno Perini.\n\nE o real e o dólar?\n\nHoje eles não têm lastro nenhum.\n\nSó passam na escassez se quem cria a moeda tiver freio.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17914216086492971",
+        "publicado_em": "2026-10-31T20:18:29.584718-03:00"
       },
       "facebook": {
         "legenda": "O ouro passa num teste que o real e o dólar só passam com freio.\n\nEsse teste está no livro Em Nome do Povo, do Bruno Perini.\n\nE o real e o dólar?\n\nHoje eles não têm lastro nenhum.\n\nSó passam na escassez se quem cria a moeda tiver freio.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1086138214260120",
+        "publicado_em": "2026-10-31T20:18:39.552234-03:00"
+      },
+      "concluido_em": "2026-10-31T20:18:39.565334-03:00"
     },
     {
       "id": "reel-20261101-0800-249668f87b",
