@@ -4896,7 +4896,7 @@
       "id": "reel-20261101-1700-e7805bc4d5",
       "data": "2026-11-01",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Mente Milionaria 07 - Conta de padeiro.mp4",
         "sha256": "e7805bc4d5b5a155ad2014dcbe613a6ac6eb4c2c92226db9fe92ddaf8eb06e6f"
@@ -4909,12 +4909,17 @@
       },
       "instagram": {
         "legenda": "A sua renda tem o tamanho de uma coisa.\n\nE não é o seu esforço.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nA pergunta muda o caminho.\n\nEsse é o jogo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18018259436747922",
+        "publicado_em": "2026-11-01T17:31:24.022247-03:00"
       },
       "facebook": {
         "legenda": "A sua renda tem o tamanho de uma coisa.\n\nE não é o seu esforço.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nA pergunta muda o caminho.\n\nEsse é o jogo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "956976953800520",
+        "publicado_em": "2026-11-01T17:31:34.753810-03:00"
+      },
+      "concluido_em": "2026-11-01T17:31:34.766869-03:00"
     },
     {
       "id": "reel-20261101-2000-45513a16ac",
