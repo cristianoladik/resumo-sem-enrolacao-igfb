@@ -1733,7 +1733,7 @@
       "id": "story-20261101-8498da5237",
       "data": "2026-11-01",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 02 - Eu nao posso pagar.mp4",
         "sha256": "8498da5237dc4937b3566e37847e4535649a75ae171e4196f3abb8f1b1ca924a",
@@ -1743,7 +1743,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-8498da5237-Pai-Rico-02---Eu-nao-posso-pagar.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-8498da5237-Pai-Rico-02---Eu-nao-posso-pagar.mp4",
@@ -1752,13 +1752,30 @@
             "duracao_segundos": 25.9
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18129467731853423",
+            "publish_iniciado_em": "2026-11-01T09:16:01-03:00",
+            "id": "18074755370487621",
+            "publicado_em": "2026-11-01T09:16:08-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "4759847360962112",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-01T09:16:16-03:00",
+            "post_id_candidato": "28614317541603138",
+            "finish_em": "2026-11-01T09:16:20-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjI4NjE0MzE3NTU4MjY5ODAz/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "28614317541603138",
+            "publicado_em": "2026-11-01T09:16:57-03:00"
+          },
+          "concluido_em": "2026-11-01T09:16:57-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-01T09:16:57-03:00"
     },
     {
       "id": "story-20261102-768cdc2169",
