@@ -4806,7 +4806,7 @@
       "id": "reel-20261101-0800-249668f87b",
       "data": "2026-11-01",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Me Poupe 07 - O gasto que voce nem lembra.mp4",
         "sha256": "249668f87b118412c0d88f81e18e6360b4ea33c1c315e0b7123fa05801be2585"
@@ -4819,12 +4819,17 @@
       },
       "instagram": {
         "legenda": "Não é o carro nem a viagem que acaba com o seu mês.\n\nÉ o lanche de quatro reais que você nem lembra que comprou.\n\nEssa lição está no livro Me Poupe!\n\nSomado no fim do mês, vira uma conta que você não planejou.\n\nO hábito do livro é simples: anotar todo gasto, até o menor.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18100680218451146",
+        "publicado_em": "2026-11-01T09:18:08.772835-03:00"
       },
       "facebook": {
         "legenda": "Não é o carro nem a viagem que acaba com o seu mês.\n\nÉ o lanche de quatro reais que você nem lembra que comprou.\n\nEssa lição está no livro Me Poupe!\n\nSomado no fim do mês, vira uma conta que você não planejou.\n\nO hábito do livro é simples: anotar todo gasto, até o menor.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "3329536764101662",
+        "publicado_em": "2026-11-01T09:18:18.820048-03:00"
+      },
+      "concluido_em": "2026-11-01T09:18:18.828715-03:00"
     },
     {
       "id": "reel-20261101-1100-cb619f0ba0",
