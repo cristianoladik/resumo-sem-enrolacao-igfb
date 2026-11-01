@@ -1749,7 +1749,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-8498da5237-Pai-Rico-02---Eu-nao-posso-pagar.mp4",
             "sha256": "8498da5237dc4937b3566e37847e4535649a75ae171e4196f3abb8f1b1ca924a",
             "tamanho_bytes": 6302548,
-            "duracao_segundos": 25.9
+            "duracao_segundos": 25.9,
+            "removido_da_release_em": "2026-11-01T09:16:59.561939-03:00"
           },
           "instagram": {
             "status": "publicado",
