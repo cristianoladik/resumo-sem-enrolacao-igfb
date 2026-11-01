@@ -4926,7 +4926,7 @@
       "id": "reel-20261101-2000-45513a16ac",
       "data": "2026-11-01",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m30 - Mente Milionaria 07 - Conta de padeiro.mp4",
         "sha256": "45513a16ac7bcd66940779fb7b8b086a3e8f38506ce2d385d66b533607350a4b"
@@ -4939,12 +4939,17 @@
       },
       "instagram": {
         "legenda": "A sua renda tem o tamanho de uma coisa.\n\nE não é o seu esforço.\n\nNo final eu te conto a pergunta que muda o tamanho da sua renda.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nResumindo: esforço é importante, mas quem manda na renda é o alcance.\n\nEsse é o jogo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18222409867344095",
+        "publicado_em": "2026-11-01T20:51:09.335225-03:00"
       },
       "facebook": {
         "legenda": "A sua renda tem o tamanho de uma coisa.\n\nE não é o seu esforço.\n\nNo final eu te conto a pergunta que muda o tamanho da sua renda.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nResumindo: esforço é importante, mas quem manda na renda é o alcance.\n\nEsse é o jogo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1705465314433088",
+        "publicado_em": "2026-11-01T20:51:20.011028-03:00"
+      },
+      "concluido_em": "2026-11-01T20:51:20.024339-03:00"
     },
     {
       "id": "reel-20261102-0800-0fb36d0465",
