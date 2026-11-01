@@ -4836,7 +4836,7 @@
       "id": "reel-20261101-1100-cb619f0ba0",
       "data": "2026-11-01",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 07 - Uma hora de estudo vinte de pratica.mp4",
         "sha256": "cb619f0ba063381f5bcb33a102f04486582cedf1fe87584f0c94ec831f310645"
@@ -4849,12 +4849,17 @@
       },
       "instagram": {
         "legenda": "Fez um curso de duas horas?\n\nEntão faltam quarenta horas de prática.\n\nÉ a fórmula do livro Os Códigos do Milhão, do Pablo Marçal.\n\nA Blockbuster era a maior locadora do mundo, não mudou a tempo, e quebrou.\n\nPra você: aprendeu algo hoje?\n\nAplica vinte vezes antes de estudar o próximo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18108029492222498",
+        "publicado_em": "2026-11-01T11:11:58.495253-03:00"
       },
       "facebook": {
         "legenda": "Fez um curso de duas horas?\n\nEntão faltam quarenta horas de prática.\n\nÉ a fórmula do livro Os Códigos do Milhão, do Pablo Marçal.\n\nA Blockbuster era a maior locadora do mundo, não mudou a tempo, e quebrou.\n\nPra você: aprendeu algo hoje?\n\nAplica vinte vezes antes de estudar o próximo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1057341394013937",
+        "publicado_em": "2026-11-01T11:12:12.262110-03:00"
+      },
+      "concluido_em": "2026-11-01T11:12:12.274852-03:00"
     },
     {
       "id": "reel-20261101-1400-fc1d4bbe91",
