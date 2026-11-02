@@ -4956,7 +4956,7 @@
       "id": "reel-20261102-0800-0fb36d0465",
       "data": "2026-11-02",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "A Sutil Arte 08 - O Panda da Decepcao.mp4",
         "sha256": "0fb36d04653a48c6639bc5aa58f6d401215be36902d0803208c849e7757c53ec"
@@ -4969,12 +4969,17 @@
       },
       "instagram": {
         "legenda": "Existe um super-herói cujo poder é contar as verdades que você não quer ouvir.\n\nÉ o Panda da Decepção.\n\nEssa lição está no livro A Sutil Arte.\n\nEsse é um problema bom.\n\nA meta não é uma vida sem problemas.\n\nÉ trocar problema ruim por problema bom.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18104379761456786",
+        "publicado_em": "2026-11-02T09:16:14.648362-03:00"
       },
       "facebook": {
         "legenda": "Existe um super-herói cujo poder é contar as verdades que você não quer ouvir.\n\nÉ o Panda da Decepção.\n\nEssa lição está no livro A Sutil Arte.\n\nEsse é um problema bom.\n\nA meta não é uma vida sem problemas.\n\nÉ trocar problema ruim por problema bom.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1445748773557681",
+        "publicado_em": "2026-11-02T09:16:25.179213-03:00"
+      },
+      "concluido_em": "2026-11-02T09:16:25.191919-03:00"
     },
     {
       "id": "reel-20261102-1100-4b0dcf5535",
