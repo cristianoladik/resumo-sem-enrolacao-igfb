@@ -4986,7 +4986,7 @@
       "id": "reel-20261102-1100-4b0dcf5535",
       "data": "2026-11-02",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Casais Inteligentes 08 - Divida escondida.mp4",
         "sha256": "4b0dcf5535387ce9311059f1fe1aead8b17c9810e1adb21cc7ac81e174c3bc46"
@@ -4999,12 +4999,17 @@
       },
       "instagram": {
         "legenda": "Tem um segredo que destrói casamento sem fazer barulho.\n\nNão é traição.\n\nÉ dívida escondida.\n\nEssa lição está no livro Casais Inteligentes Enriquecem Juntos.\n\nO caminho é abrir o jogo antes que o outro descubra sozinho.\n\nDívida contada se resolve a dois.\n\nDívida escondida se resolve sozinho, e mal.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18413979094089734",
+        "publicado_em": "2026-11-02T11:11:20.735460-03:00"
       },
       "facebook": {
         "legenda": "Tem um segredo que destrói casamento sem fazer barulho.\n\nNão é traição.\n\nÉ dívida escondida.\n\nEssa lição está no livro Casais Inteligentes Enriquecem Juntos.\n\nO caminho é abrir o jogo antes que o outro descubra sozinho.\n\nDívida contada se resolve a dois.\n\nDívida escondida se resolve sozinho, e mal.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1632644528657938",
+        "publicado_em": "2026-11-02T11:11:33.906402-03:00"
+      },
+      "concluido_em": "2026-11-02T11:11:33.919016-03:00"
     },
     {
       "id": "reel-20261102-1400-fa9c37a7d6",
