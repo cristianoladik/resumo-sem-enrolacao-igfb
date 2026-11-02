@@ -5016,7 +5016,7 @@
       "id": "reel-20261102-1400-fa9c37a7d6",
       "data": "2026-11-02",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Como Fazer Amigos 08 - O cliente furioso.mp4",
         "sha256": "fa9c37a7d6f9b8791e3ca2e8d1b041f549286c3a3edfaba473c11777dbc7e776"
@@ -5029,18 +5029,23 @@
       },
       "instagram": {
         "legenda": "Um cliente furioso invadiu a sala do dono de uma empresa de lã.\n\nSe negava a pagar uma conta e jurava nunca mais comprar ali.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nÉ o princípio sete: seja um bom ouvinte.\n\nCliente bravo quer primeiro ser ouvido.\n\nSó depois ele escuta você.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18123700991287339",
+        "publicado_em": "2026-11-02T17:28:07.914856-03:00"
       },
       "facebook": {
         "legenda": "Um cliente furioso invadiu a sala do dono de uma empresa de lã.\n\nSe negava a pagar uma conta e jurava nunca mais comprar ali.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nÉ o princípio sete: seja um bom ouvinte.\n\nCliente bravo quer primeiro ser ouvido.\n\nSó depois ele escuta você.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1631173281804786",
+        "publicado_em": "2026-11-02T17:28:16.511207-03:00"
+      },
+      "concluido_em": "2026-11-02T17:28:16.520944-03:00"
     },
     {
       "id": "reel-20261102-1700-ec62684038",
       "data": "2026-11-02",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Deixe de Ser Pobre 08 - Do geladinho ao Jabuti.mp4",
         "sha256": "ec6268403897d623e233014dc285470c2f58ae8d741e5d7c570758710a0bea8d"
@@ -5053,12 +5058,17 @@
       },
       "instagram": {
         "legenda": "Com nove anos, ele já vendia geladinho na rua.\n\nE adesivo de carro, pra ganhar um trocado.\n\nEssa lição está no livro Deixe de Ser Pobre.\n\nAção antes de perfeição.\n\nE você, tá desistindo de alguma coisa só porque ainda ninguém tá vendo?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18076726484770336",
+        "publicado_em": "2026-11-02T17:29:44.890893-03:00"
       },
       "facebook": {
         "legenda": "Com nove anos, ele já vendia geladinho na rua.\n\nE adesivo de carro, pra ganhar um trocado.\n\nEssa lição está no livro Deixe de Ser Pobre.\n\nAção antes de perfeição.\n\nE você, tá desistindo de alguma coisa só porque ainda ninguém tá vendo?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1645567197109005",
+        "publicado_em": "2026-11-02T17:29:55.741024-03:00"
+      },
+      "concluido_em": "2026-11-02T17:29:55.750458-03:00"
     },
     {
       "id": "reel-20261102-2000-caefee6a91",
