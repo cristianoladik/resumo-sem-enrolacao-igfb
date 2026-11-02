@@ -1782,7 +1782,7 @@
       "id": "story-20261102-768cdc2169",
       "data": "2026-11-02",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 03 - O conselho do emprego seguro.mp4",
         "sha256": "768cdc2169c24d9c247ce4ff200343f090d2b5c6652434d3667e6798c7693cdb",
@@ -1792,7 +1792,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-768cdc2169-Pai-Rico-03---O-conselho-do-emprego-seguro.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-768cdc2169-Pai-Rico-03---O-conselho-do-emprego-seguro.mp4",
@@ -1801,13 +1801,30 @@
             "duracao_segundos": 31.1
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18129604906853423",
+            "publish_iniciado_em": "2026-11-02T09:17:07-03:00",
+            "id": "18005937072008401",
+            "publicado_em": "2026-11-02T09:17:15-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2265738004288666",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-02T09:17:27-03:00",
+            "post_id_candidato": "1602082111598312",
+            "finish_em": "2026-11-02T09:17:31-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjE2MDIwODIxMjE1OTgzMTE=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1602082111598312",
+            "publicado_em": "2026-11-02T09:18:07-03:00"
+          },
+          "concluido_em": "2026-11-02T09:18:07-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-02T09:18:07-03:00"
     },
     {
       "id": "story-20261103-d23c01cfbf",
