@@ -5106,7 +5106,7 @@
       "id": "reel-20261103-0800-d9d3a45e35",
       "data": "2026-11-03",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais que Dinheiro 08 - O caminho do senso comum.mp4",
         "sha256": "d9d3a45e35213c2f9303456ab844eb6067763a513b898ebed26093e6ad129b40"
@@ -5119,12 +5119,17 @@
       },
       "instagram": {
         "legenda": "Arruma um emprego estável, guarda parte do salário e um dia compra a casa.\n\nÉ o caminho que a sociedade vende como o certo.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nEntender o sistema financeiro, em vez de fugir dele.\n\nQuem entende o contrato negocia.\n\nQuem tem medo, ou foge, ou assina qualquer coisa.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18477496852113201",
+        "publicado_em": "2026-11-03T09:18:16.484710-03:00"
       },
       "facebook": {
         "legenda": "Arruma um emprego estável, guarda parte do salário e um dia compra a casa.\n\nÉ o caminho que a sociedade vende como o certo.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nEntender o sistema financeiro, em vez de fugir dele.\n\nQuem entende o contrato negocia.\n\nQuem tem medo, ou foge, ou assina qualquer coisa.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2089654288335873",
+        "publicado_em": "2026-11-03T09:18:26.873390-03:00"
+      },
+      "concluido_em": "2026-11-03T09:18:26.886488-03:00"
     },
     {
       "id": "reel-20261103-1100-ef3129d0d1",
