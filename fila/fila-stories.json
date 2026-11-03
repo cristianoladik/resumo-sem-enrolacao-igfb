@@ -1847,7 +1847,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-d23c01cfbf-Pai-Rico-04---Trabalhando-de-graca.mp4",
             "sha256": "d23c01cfbf2bac292b1527940948981064b1a51335e9ff0a5a261823629328d8",
             "tamanho_bytes": 8356118,
-            "duracao_segundos": 32.067
+            "duracao_segundos": 32.067,
+            "removido_da_release_em": "2026-11-03T09:20:16.971618-03:00"
           },
           "instagram": {
             "status": "publicado",
