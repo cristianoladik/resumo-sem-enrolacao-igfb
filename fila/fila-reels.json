@@ -5205,7 +5205,8 @@
         "asset": "reel-36bfca169a-Em-Nome-do-Povo-08---A-nota-era-recibo-de-ouro.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-36bfca169a-Em-Nome-do-Povo-08---A-nota-era-recibo-de-ouro.mp4",
         "sha256": "36bfca169aafa5cc2e908d788733b7ff428d9fcfd4e001e9130630fff1a68495",
-        "tamanho_bytes": 8030560
+        "tamanho_bytes": 8030560,
+        "removido_da_release_em": "2026-11-03T17:30:28.956576-03:00"
       },
       "instagram": {
         "legenda": "Já teve um tempo em que a sua nota era um recibo de ouro.\n\nEssa história está no livro Em Nome do Povo, do Bruno Perini.\n\nE, segundo o livro, a classe política costuma quebrar essa confiança.\n\nPor isso, pro autor, a direção dessas moedas é uma só: pra baixo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
