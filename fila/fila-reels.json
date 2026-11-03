@@ -5136,7 +5136,7 @@
       "id": "reel-20261103-1100-ef3129d0d1",
       "data": "2026-11-03",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro os Segredos de Quem Tem 08 - A vendedora e o casal.mp4",
         "sha256": "ef3129d0d1813c8b8de1d57ce16cfc3f85a6eae27084c2d95955dd6664a7f4d4"
@@ -5149,12 +5149,17 @@
       },
       "instagram": {
         "legenda": "A vendedora olhou o casal e descobriu na hora quem era mais fácil de convencer.\n\nA história está no livro Dinheiro, os Segredos de Quem Tem, do Gustavo Cerbasi.\n\nA vitrine não foi feita pra você olhar.\n\nFoi feita pra olhar você.\n\nCombina antes o jogo com quem vai junto, e fala do preço longe do vendedor.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18412002175095701",
+        "publicado_em": "2026-11-03T11:11:10.927467-03:00"
       },
       "facebook": {
         "legenda": "A vendedora olhou o casal e descobriu na hora quem era mais fácil de convencer.\n\nA história está no livro Dinheiro, os Segredos de Quem Tem, do Gustavo Cerbasi.\n\nA vitrine não foi feita pra você olhar.\n\nFoi feita pra olhar você.\n\nCombina antes o jogo com quem vai junto, e fala do preço longe do vendedor.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1488278073192669",
+        "publicado_em": "2026-11-03T11:11:20.289853-03:00"
+      },
+      "concluido_em": "2026-11-03T11:11:20.302615-03:00"
     },
     {
       "id": "reel-20261103-1400-832db5fb3d",
