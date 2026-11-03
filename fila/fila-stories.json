@@ -1831,7 +1831,7 @@
       "id": "story-20261103-d23c01cfbf",
       "data": "2026-11-03",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 04 - Trabalhando de graca.mp4",
         "sha256": "d23c01cfbf2bac292b1527940948981064b1a51335e9ff0a5a261823629328d8",
@@ -1841,7 +1841,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-d23c01cfbf-Pai-Rico-04---Trabalhando-de-graca.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-d23c01cfbf-Pai-Rico-04---Trabalhando-de-graca.mp4",
@@ -1850,13 +1850,30 @@
             "duracao_segundos": 32.067
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18129717580853423",
+            "publish_iniciado_em": "2026-11-03T09:19:16-03:00",
+            "id": "18204688549337187",
+            "publicado_em": "2026-11-03T09:19:25-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2291227061718468",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-03T09:19:32-03:00",
+            "post_id_candidato": "3389259524594185",
+            "finish_em": "2026-11-03T09:19:37-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjMzODkyNTk1MzEyNjA4NTE=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "3389259524594185",
+            "publicado_em": "2026-11-03T09:20:14-03:00"
+          },
+          "concluido_em": "2026-11-03T09:20:14-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-03T09:20:14-03:00"
     },
     {
       "id": "story-20261104-f80c2567d4",
