@@ -5196,7 +5196,7 @@
       "id": "reel-20261103-1700-36bfca169a",
       "data": "2026-11-03",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 08 - A nota era recibo de ouro.mp4",
         "sha256": "36bfca169aafa5cc2e908d788733b7ff428d9fcfd4e001e9130630fff1a68495"
@@ -5209,12 +5209,17 @@
       },
       "instagram": {
         "legenda": "Já teve um tempo em que a sua nota era um recibo de ouro.\n\nEssa história está no livro Em Nome do Povo, do Bruno Perini.\n\nE, segundo o livro, a classe política costuma quebrar essa confiança.\n\nPor isso, pro autor, a direção dessas moedas é uma só: pra baixo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18135472054771912",
+        "publicado_em": "2026-11-03T17:30:12.747345-03:00"
       },
       "facebook": {
         "legenda": "Já teve um tempo em que a sua nota era um recibo de ouro.\n\nEssa história está no livro Em Nome do Povo, do Bruno Perini.\n\nE, segundo o livro, a classe política costuma quebrar essa confiança.\n\nPor isso, pro autor, a direção dessas moedas é uma só: pra baixo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1470180425054679",
+        "publicado_em": "2026-11-03T17:30:25.349204-03:00"
+      },
+      "concluido_em": "2026-11-03T17:30:25.357517-03:00"
     },
     {
       "id": "reel-20261103-2000-0c3ab420f4",
