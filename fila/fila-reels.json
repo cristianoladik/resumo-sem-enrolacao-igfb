@@ -5076,7 +5076,7 @@
       "id": "reel-20261102-2000-caefee6a91",
       "data": "2026-11-02",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Dinheiro Segredos 08 - Comprar ou alugar.mp4",
         "sha256": "caefee6a91ca9c1b5c0d7b821d99aa278a569b7e60d1350a9ebe2318b819cf00"
@@ -5089,12 +5089,17 @@
       },
       "instagram": {
         "legenda": "Todo mundo diz que aluguel é dinheiro jogado fora.\n\nSerá mesmo?\n\nO livro Dinheiro, os Segredos de Quem Tem faz essa conta, e o resultado surpreende muita gente.\n\nAluguel não é sempre dinheiro jogado fora, e comprar não é sempre o melhor negócio.\n\nÉ só uma conta.\n\nE quem faz a conta decide melhor.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18113178893522463",
+        "publicado_em": "2026-11-02T23:37:57.626679-03:00"
       },
       "facebook": {
         "legenda": "Todo mundo diz que aluguel é dinheiro jogado fora.\n\nSerá mesmo?\n\nO livro Dinheiro, os Segredos de Quem Tem faz essa conta, e o resultado surpreende muita gente.\n\nAluguel não é sempre dinheiro jogado fora, e comprar não é sempre o melhor negócio.\n\nÉ só uma conta.\n\nE quem faz a conta decide melhor.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1678242247258265",
+        "publicado_em": "2026-11-02T23:38:15.385447-03:00"
+      },
+      "concluido_em": "2026-11-02T23:38:15.395999-03:00"
     },
     {
       "id": "reel-20261103-0800-d9d3a45e35",
