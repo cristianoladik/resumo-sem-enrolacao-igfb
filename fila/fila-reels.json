@@ -5166,7 +5166,7 @@
       "id": "reel-20261103-1400-832db5fb3d",
       "data": "2026-11-03",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Do Mil ao Milhao 08 - Depois do tombo.mp4",
         "sha256": "832db5fb3d3c202692136a652a7d7cbf39f45240e15ec38004ec5b2c1c07720f"
@@ -5179,12 +5179,17 @@
       },
       "instagram": {
         "legenda": "O que você faz quando perde dinheiro por um erro seu?\n\nEsconde, esquece, e nunca mais toca no assunto?\n\nEssa lição está no livro Do Mil ao Milhão.\n\nEntão, pensa no seu último erro com dinheiro.\n\nVocê escolheu a saída um ou a saída dois?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18118826899825801",
+        "publicado_em": "2026-11-03T14:44:51.714395-03:00"
       },
       "facebook": {
         "legenda": "O que você faz quando perde dinheiro por um erro seu?\n\nEsconde, esquece, e nunca mais toca no assunto?\n\nEssa lição está no livro Do Mil ao Milhão.\n\nEntão, pensa no seu último erro com dinheiro.\n\nVocê escolheu a saída um ou a saída dois?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1899995174743989",
+        "publicado_em": "2026-11-03T14:45:03.959500-03:00"
+      },
+      "concluido_em": "2026-11-03T14:45:03.972263-03:00"
     },
     {
       "id": "reel-20261103-1700-36bfca169a",
