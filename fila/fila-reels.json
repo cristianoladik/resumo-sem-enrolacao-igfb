@@ -5286,7 +5286,7 @@
       "id": "reel-20261104-1100-95d87095bd",
       "data": "2026-11-04",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pense como um Bilionario 08 - As seis licoes sobre pessoas.mp4",
         "sha256": "95d87095bd6e31dcd4b085af413aaa220332c40307155c1d6c9e64c0fb8ae9ea"
@@ -5299,12 +5299,17 @@
       },
       "instagram": {
         "legenda": "Você pode ter o melhor produto do mundo e mesmo assim perder o negócio.\n\nSabe por quê?\n\nPor causa de gente.\n\nEssa lição está no livro Pense como um Bilionário.\n\nExige atenção às pessoas, todos os dias.\n\nE quem aprende a lidar com gente abre porta que dinheiro nenhum abre sozinho.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18097869734682960",
+        "publicado_em": "2026-11-04T11:15:00.693072-03:00"
       },
       "facebook": {
         "legenda": "Você pode ter o melhor produto do mundo e mesmo assim perder o negócio.\n\nSabe por quê?\n\nPor causa de gente.\n\nEssa lição está no livro Pense como um Bilionário.\n\nExige atenção às pessoas, todos os dias.\n\nE quem aprende a lidar com gente abre porta que dinheiro nenhum abre sozinho.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1490197979597108",
+        "publicado_em": "2026-11-04T11:15:12.594386-03:00"
+      },
+      "concluido_em": "2026-11-04T11:15:12.604211-03:00"
     },
     {
       "id": "reel-20261104-1400-f91d1199c4",
