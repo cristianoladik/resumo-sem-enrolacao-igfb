@@ -1896,7 +1896,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-f80c2567d4-Pai-Rico-05---A-biblioteca-de-gibis.mp4",
             "sha256": "f80c2567d472948b0dc7995e7ed82b4e5d4020aa3cad150efc682bc75e064adf",
             "tamanho_bytes": 6921853,
-            "duracao_segundos": 29.433
+            "duracao_segundos": 29.433,
+            "removido_da_release_em": "2026-11-04T09:18:12.937519-03:00"
           },
           "instagram": {
             "status": "publicado",
