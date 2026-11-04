@@ -1880,7 +1880,7 @@
       "id": "story-20261104-f80c2567d4",
       "data": "2026-11-04",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 05 - A biblioteca de gibis.mp4",
         "sha256": "f80c2567d472948b0dc7995e7ed82b4e5d4020aa3cad150efc682bc75e064adf",
@@ -1890,7 +1890,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-f80c2567d4-Pai-Rico-05---A-biblioteca-de-gibis.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-f80c2567d4-Pai-Rico-05---A-biblioteca-de-gibis.mp4",
@@ -1899,13 +1899,30 @@
             "duracao_segundos": 29.433
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18129818839853423",
+            "publish_iniciado_em": "2026-11-04T09:17:10-03:00",
+            "id": "18130014889867930",
+            "publicado_em": "2026-11-04T09:17:20-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1479468887381957",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-04T09:17:29-03:00",
+            "post_id_candidato": "2221436998796616",
+            "finish_em": "2026-11-04T09:17:34-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjIyMjE0MzcwMTIxMjk5NDg=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2221436998796616",
+            "publicado_em": "2026-11-04T09:18:10-03:00"
+          },
+          "concluido_em": "2026-11-04T09:18:10-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-04T09:18:10-03:00"
     },
     {
       "id": "story-20261105-c7210cdcfe",
