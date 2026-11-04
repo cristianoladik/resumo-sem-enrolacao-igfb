@@ -5346,7 +5346,7 @@
       "id": "reel-20261104-1700-68f6fb645b",
       "data": "2026-11-04",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "A Sutil Arte 09 - Que dor voce topa.mp4",
         "sha256": "68f6fb645b9ba6fe9dd74fe0a6a1929bd6e3bcd82d3cd33e69f30e8081e63622"
@@ -5359,12 +5359,17 @@
       },
       "instagram": {
         "legenda": "Todo mundo quer dinheiro e sucesso.\n\nPor isso essa não é a pergunta certa.\n\nA pergunta certa é: que dor você topa enfrentar pra chegar lá?\n\nEssa lição está no livro A Sutil Arte.\n\nCorrer quarenta e dois quilômetros com uma arma apontada é tortura.\n\nNuma maratona que você escolheu, vira conquista.\n\nA diferença é sentir que a luta foi escolha sua.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18100752023541533",
+        "publicado_em": "2026-11-04T17:47:01.454168-03:00"
       },
       "facebook": {
         "legenda": "Todo mundo quer dinheiro e sucesso.\n\nPor isso essa não é a pergunta certa.\n\nA pergunta certa é: que dor você topa enfrentar pra chegar lá?\n\nEssa lição está no livro A Sutil Arte.\n\nCorrer quarenta e dois quilômetros com uma arma apontada é tortura.\n\nNuma maratona que você escolheu, vira conquista.\n\nA diferença é sentir que a luta foi escolha sua.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1072054219214847",
+        "publicado_em": "2026-11-04T17:47:12.434792-03:00"
+      },
+      "concluido_em": "2026-11-04T17:47:12.448281-03:00"
     },
     {
       "id": "reel-20261104-2000-f47cbb4b0c",
