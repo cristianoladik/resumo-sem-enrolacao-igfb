@@ -5226,7 +5226,7 @@
       "id": "reel-20261103-2000-0c3ab420f4",
       "data": "2026-11-03",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Me Poupe 08 - Treze mil por mes e medo.mp4",
         "sha256": "0c3ab420f41a2270f1b16c822a92e30d70486fe85e4cb54d7d3457c9fd420d09"
@@ -5239,12 +5239,17 @@
       },
       "instagram": {
         "legenda": "Treze mil reais por mês, carteira assinada, e medo de olhar a conta.\n\nParece contraditório, né?\n\nEssa lição está no livro Me Poupe!\n\nSeja pra abrir o extrato, seja pra mudar de vida.\n\nEntão me conta: qual decisão de dinheiro você tá adiando por medo?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18120711943754434",
+        "publicado_em": "2026-11-03T23:11:16.899889-03:00"
       },
       "facebook": {
         "legenda": "Treze mil reais por mês, carteira assinada, e medo de olhar a conta.\n\nParece contraditório, né?\n\nEssa lição está no livro Me Poupe!\n\nSeja pra abrir o extrato, seja pra mudar de vida.\n\nEntão me conta: qual decisão de dinheiro você tá adiando por medo?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "29500434622882550",
+        "publicado_em": "2026-11-03T23:11:29.676891-03:00"
+      },
+      "concluido_em": "2026-11-03T23:11:29.689874-03:00"
     },
     {
       "id": "reel-20261104-0800-66efaa7a13",
