@@ -5325,7 +5325,8 @@
         "asset": "reel-f91d1199c4-Tamanho-1m00---Pai-Rico-08---Ativo-x-passivo.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-f91d1199c4-Tamanho-1m00---Pai-Rico-08---Ativo-x-passivo.mp4",
         "sha256": "f91d1199c40e52c96618df1252493efedfd0282be84594fcb1bbf41ebf639191",
-        "tamanho_bytes": 10674024
+        "tamanho_bytes": 10674024,
+        "removido_da_release_em": "2026-11-04T14:39:28.057225-03:00"
       },
       "instagram": {
         "legenda": "A lição mais importante de finanças cabe em duas frases.\n\nE no final eu te mostro o passivo que quase todo mundo tem.\n\nEssa lição está no livro Pai Rico, Pai Pobre. pode ser a casa onde você mora.\n\nEla cobra parcela, imposto, luz e manutenção todo mês.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
