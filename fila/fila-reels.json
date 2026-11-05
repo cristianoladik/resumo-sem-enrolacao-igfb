@@ -5527,7 +5527,7 @@
       "id": "reel-20261105-2000-c212abaa37",
       "data": "2026-11-05",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro os Segredos de Quem Tem 09 - Pense como banqueiro.mp4",
         "sha256": "c212abaa377192e0ae01b4de2192f129940d55b0afd6390ee17eebfa2296a742"
@@ -5540,12 +5540,17 @@
       },
       "instagram": {
         "legenda": "O banco vive de uma diferença entre dois juros.\n\nQuem explica é o Gustavo Cerbasi, no livro Dinheiro, os Segredos de Quem Tem.\n\nE sabe que mil reais não negociam igual a um milhão.\n\nQuem tem mais consegue condição melhor.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18400454377202619",
+        "publicado_em": "2026-11-05T20:43:24.588603-03:00"
       },
       "facebook": {
         "legenda": "O banco vive de uma diferença entre dois juros.\n\nQuem explica é o Gustavo Cerbasi, no livro Dinheiro, os Segredos de Quem Tem.\n\nE sabe que mil reais não negociam igual a um milhão.\n\nQuem tem mais consegue condição melhor.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1426301802990585",
+        "publicado_em": "2026-11-05T20:43:34.836501-03:00"
+      },
+      "concluido_em": "2026-11-05T20:43:34.851363-03:00"
     },
     {
       "id": "reel-20261106-0800-28648972fa",
