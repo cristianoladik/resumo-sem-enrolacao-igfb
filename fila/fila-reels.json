@@ -5436,7 +5436,7 @@
       "id": "reel-20261105-1100-be96dae209",
       "data": "2026-11-05",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "com_defeito",
       "origem": {
         "arquivo": "Babilonia Deixe de Ser Pobre 09 - Sem economes.mp4",
         "sha256": "be96dae209ea2e2154b1fe3ca61662c87f03dbfc317664ed3c03af4fc6d1c95e"
@@ -5449,12 +5449,19 @@
       },
       "instagram": {
         "legenda": "Você já tentou ler sobre investimento e desistiu na segunda frase?\n\nTaxa disso, índice daquilo, sigla que ninguém explica.\n\nEssa lição está no livro Deixe de Ser Pobre.\n\nPra quem já investe há anos e quer estratégia avançada.\n\nEsse leitor vai achar tudo básico demais.\n\nE tá tudo bem, não é pra ele.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "erro",
+        "erro": "Instagram não processou o Reel: {'id': '18129948643853423', 'status': 'Error: Media upload has failed with error code 2207077', 'status_code': 'ERROR'}",
+        "ultima_tentativa_em": "2026-11-05T11:10:49.399157-03:00",
+        "tentativas": 1
       },
       "facebook": {
         "legenda": "Você já tentou ler sobre investimento e desistiu na segunda frase?\n\nTaxa disso, índice daquilo, sigla que ninguém explica.\n\nEssa lição está no livro Deixe de Ser Pobre.\n\nPra quem já investe há anos e quer estratégia avançada.\n\nEsse leitor vai achar tudo básico demais.\n\nE tá tudo bem, não é pra ele.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1167981222462663",
+        "publicado_em": "2026-11-05T11:11:09.093373-03:00"
+      },
+      "motivo_defeito": "instagram: o arquivo foi recusado (media upload has failed)",
+      "posto_de_lado_em": "2026-11-05T11:11:09.114975-03:00"
     },
     {
       "id": "reel-20261105-1400-1a93deebf2",
