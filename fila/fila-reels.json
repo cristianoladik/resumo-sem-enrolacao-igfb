@@ -5376,7 +5376,7 @@
       "id": "reel-20261104-2000-f47cbb4b0c",
       "data": "2026-11-04",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Casais Inteligentes 09 - Poupador casado com gastador.mp4",
         "sha256": "f47cbb4b0c454e2254907fd7dfb7568206f068b9c3dcff503a386970c3567eac"
@@ -5389,12 +5389,17 @@
       },
       "instagram": {
         "legenda": "Um quer guardar tudo.\n\nO outro quer gastar tudo.\n\nE os dois dividem a mesma cama.\n\nÉ a combinação mais explosiva do livro Casais Inteligentes Enriquecem Juntos.\n\nGuardar sem esquecer de viver.\n\nViver sem esquecer de guardar.\n\nDescubram o perfil de cada um e conversem sobre isso sem julgamento.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18389598058235615",
+        "publicado_em": "2026-11-04T23:18:11.677566-03:00"
       },
       "facebook": {
         "legenda": "Um quer guardar tudo.\n\nO outro quer gastar tudo.\n\nE os dois dividem a mesma cama.\n\nÉ a combinação mais explosiva do livro Casais Inteligentes Enriquecem Juntos.\n\nGuardar sem esquecer de viver.\n\nViver sem esquecer de guardar.\n\nDescubram o perfil de cada um e conversem sobre isso sem julgamento.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1277387061230081",
+        "publicado_em": "2026-11-04T23:18:22.148195-03:00"
+      },
+      "concluido_em": "2026-11-04T23:18:22.161053-03:00"
     },
     {
       "id": "reel-20261105-0800-bc2a9cd78c",
