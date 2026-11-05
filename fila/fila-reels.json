@@ -5497,7 +5497,7 @@
       "id": "reel-20261105-1700-01d2449878",
       "data": "2026-11-05",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais que Dinheiro 09 - O custo efetivo total.mp4",
         "sha256": "01d244987866018897b0ba76900dcb99b7210cdedd15e9add5249d48f545c090"
@@ -5510,12 +5510,17 @@
       },
       "instagram": {
         "legenda": "Duas propostas com a mesma taxa de juros podem ter um custo total bem diferente.\n\nA diferença está num número do contrato: o custo efetivo total.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nE compara essas três respostas em mais de um banco.\n\nQuem entende o contrato negocia.\n\nQuem tem medo, assina qualquer coisa.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18111175562206043",
+        "publicado_em": "2026-11-05T18:01:40.791292-03:00"
       },
       "facebook": {
         "legenda": "Duas propostas com a mesma taxa de juros podem ter um custo total bem diferente.\n\nA diferença está num número do contrato: o custo efetivo total.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nE compara essas três respostas em mais de um banco.\n\nQuem entende o contrato negocia.\n\nQuem tem medo, assina qualquer coisa.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "999849219835938",
+        "publicado_em": "2026-11-05T18:01:51.542780-03:00"
+      },
+      "concluido_em": "2026-11-05T18:01:51.553546-03:00"
     },
     {
       "id": "reel-20261105-2000-c212abaa37",
