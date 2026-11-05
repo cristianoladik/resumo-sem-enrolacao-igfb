@@ -5406,7 +5406,7 @@
       "id": "reel-20261105-0800-bc2a9cd78c",
       "data": "2026-11-05",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Como Fazer Amigos 09 - O padeiro e o hotel.mp4",
         "sha256": "bc2a9cd78c815dbe5989225efae8422397b2267d04dad106bc7d644a2d0485e8"
@@ -5419,12 +5419,17 @@
       },
       "instagram": {
         "legenda": "Um padeiro tentou vender pão pra um hotel de Nova York durante quatro anos.\n\nVisitava o gerente toda semana e chegou a se hospedar no hotel.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nÉ o princípio oito: fale sobre o que interessa ao outro.\n\nAntes da visita, descobre do que o cliente gosta de falar.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17915859360550266",
+        "publicado_em": "2026-11-05T09:16:57.401101-03:00"
       },
       "facebook": {
         "legenda": "Um padeiro tentou vender pão pra um hotel de Nova York durante quatro anos.\n\nVisitava o gerente toda semana e chegou a se hospedar no hotel.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nÉ o princípio oito: fale sobre o que interessa ao outro.\n\nAntes da visita, descobre do que o cliente gosta de falar.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4672826049710207",
+        "publicado_em": "2026-11-05T09:17:07.970607-03:00"
+      },
+      "concluido_em": "2026-11-05T09:17:07.979221-03:00"
     },
     {
       "id": "reel-20261105-1100-be96dae209",
