@@ -1929,7 +1929,7 @@
       "id": "story-20261105-c7210cdcfe",
       "data": "2026-11-05",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 06 - Corrida dos ratos.mp4",
         "sha256": "c7210cdcfeafab06351d047df76026a49a9c01dca0cadfa0753c4fbe28cd2f3e",
@@ -1939,7 +1939,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-c7210cdcfe-Pai-Rico-06---Corrida-dos-ratos.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-c7210cdcfe-Pai-Rico-06---Corrida-dos-ratos.mp4",
@@ -1948,13 +1948,30 @@
             "duracao_segundos": 26.9
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18129939427853423",
+            "publish_iniciado_em": "2026-11-05T09:17:51-03:00",
+            "id": "18139379029730118",
+            "publicado_em": "2026-11-05T09:18:01-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1468491005215257",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-05T09:18:09-03:00",
+            "post_id_candidato": "1902867074405514",
+            "finish_em": "2026-11-05T09:18:13-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjE5MDI4NjcwNzc3Mzg4NDc=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1902867074405514",
+            "publicado_em": "2026-11-05T09:18:50-03:00"
+          },
+          "concluido_em": "2026-11-05T09:18:50-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-05T09:18:50-03:00"
     },
     {
       "id": "story-20261106-909cafc811",
