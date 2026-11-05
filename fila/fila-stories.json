@@ -1945,7 +1945,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-c7210cdcfe-Pai-Rico-06---Corrida-dos-ratos.mp4",
             "sha256": "c7210cdcfeafab06351d047df76026a49a9c01dca0cadfa0753c4fbe28cd2f3e",
             "tamanho_bytes": 6853109,
-            "duracao_segundos": 26.9
+            "duracao_segundos": 26.9,
+            "removido_da_release_em": "2026-11-05T09:18:53.056658-03:00"
           },
           "instagram": {
             "status": "publicado",
