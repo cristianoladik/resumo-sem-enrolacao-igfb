@@ -5647,7 +5647,7 @@
       "id": "reel-20261106-1700-55f9d4c4f1",
       "data": "2026-11-06",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 09 - Empresa nao quebra por falta de dinheiro.mp4",
         "sha256": "55f9d4c4f1d890239d0549f4b1178fc14f8888b940ffe70aec85178d0d49b281"
@@ -5660,12 +5660,17 @@
       },
       "instagram": {
         "legenda": "Pro livro, empresa não quebra por falta de dinheiro.\n\nQuebra por falta de capital emocional.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nQuem vê crescimento chega a entregar noventa por cento.\n\nPra você: mostra pra sua equipe como dá pra crescer aí dentro.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18138491545649927",
+        "publicado_em": "2026-11-06T17:23:54.647715-03:00"
       },
       "facebook": {
         "legenda": "Pro livro, empresa não quebra por falta de dinheiro.\n\nQuebra por falta de capital emocional.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nQuem vê crescimento chega a entregar noventa por cento.\n\nPra você: mostra pra sua equipe como dá pra crescer aí dentro.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1176015744989130",
+        "publicado_em": "2026-11-06T17:24:06.043138-03:00"
+      },
+      "concluido_em": "2026-11-06T17:24:06.050803-03:00"
     },
     {
       "id": "reel-20261106-2000-d0ab577df2",
