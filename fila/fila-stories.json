@@ -1978,7 +1978,7 @@
       "id": "story-20261106-909cafc811",
       "data": "2026-11-06",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 07 - Conta de padeiro.mp4",
         "sha256": "909cafc811c234fe0ab06de0bee5af5d2e66d1126e3a556d84e68ee7c30ec881",
@@ -1988,7 +1988,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-909cafc811-Mente-Milionaria-07---Conta-de-padeiro.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-909cafc811-Mente-Milionaria-07---Conta-de-padeiro.mp4",
@@ -1997,13 +1997,30 @@
             "duracao_segundos": 34.367
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18130068073853423",
+            "publish_iniciado_em": "2026-11-06T11:58:59-03:00",
+            "id": "17963464683246690",
+            "publicado_em": "2026-11-06T11:59:08-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1069920562717858",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-06T11:59:15-03:00",
+            "post_id_candidato": "1727585302117251",
+            "finish_em": "2026-11-06T11:59:20-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjE3Mjc1ODUzMDU0NTA1ODQ=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1727585302117251",
+            "publicado_em": "2026-11-06T11:59:56-03:00"
+          },
+          "concluido_em": "2026-11-06T11:59:56-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-06T11:59:56-03:00"
     },
     {
       "id": "story-20261107-1de292ec17",
