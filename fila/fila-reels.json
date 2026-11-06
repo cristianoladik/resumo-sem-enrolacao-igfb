@@ -5617,7 +5617,7 @@
       "id": "reel-20261106-1400-80b3a7b214",
       "data": "2026-11-06",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Me Poupe 09 - Meta sem prazo.mp4",
         "sha256": "80b3a7b214a41d1e87cf04c1e2b7b78ff8619411e1f7dc8b22ca82da415f7a28"
@@ -5630,12 +5630,17 @@
       },
       "instagram": {
         "legenda": "Tem um motivo pro seu sonho continuar só no sonho.\n\nE segundo o livro Me Poupe, esse motivo cabe numa palavra só.\n\nJuntar pra uma viagem com a família é bem diferente de juntar porque alguém mandou.\n\nE de vez em quando, senta e ajusta o plano, porque a vida não fica parada.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18107912432459945",
+        "publicado_em": "2026-11-06T15:21:45.795272-03:00"
       },
       "facebook": {
         "legenda": "Tem um motivo pro seu sonho continuar só no sonho.\n\nE segundo o livro Me Poupe, esse motivo cabe numa palavra só.\n\nJuntar pra uma viagem com a família é bem diferente de juntar porque alguém mandou.\n\nE de vez em quando, senta e ajusta o plano, porque a vida não fica parada.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2747989998959272",
+        "publicado_em": "2026-11-06T15:21:56.179908-03:00"
+      },
+      "concluido_em": "2026-11-06T15:21:56.191840-03:00"
     },
     {
       "id": "reel-20261106-1700-55f9d4c4f1",
