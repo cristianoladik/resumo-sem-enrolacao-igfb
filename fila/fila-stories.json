@@ -1994,7 +1994,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-909cafc811-Mente-Milionaria-07---Conta-de-padeiro.mp4",
             "sha256": "909cafc811c234fe0ab06de0bee5af5d2e66d1126e3a556d84e68ee7c30ec881",
             "tamanho_bytes": 9875419,
-            "duracao_segundos": 34.367
+            "duracao_segundos": 34.367,
+            "removido_da_release_em": "2026-11-06T11:59:59.979268-03:00"
           },
           "instagram": {
             "status": "publicado",
