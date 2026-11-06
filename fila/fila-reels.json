@@ -5677,7 +5677,7 @@
       "id": "reel-20261106-2000-d0ab577df2",
       "data": "2026-11-06",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pense como um Bilionario 09 - Arriscar forte ou espalhar o dinheiro.mp4",
         "sha256": "d0ab577df2f0e794fd5fbaa464bb1c82aa2c66df2442e2e4c9aa41df27bfb5e5"
@@ -5690,12 +5690,17 @@
       },
       "instagram": {
         "legenda": "Colocar todo o seu dinheiro numa oportunidade só é coragem ou é burrice?\n\nO livro Pense como um Bilionário tem uma resposta que parece contraditória.\n\nE cortar custo é bom, desde que a qualidade do que você entrega não caia.\n\nEntão, antes do próximo investimento, escreve num papel o máximo que você topa perder.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18203974825379826",
+        "publicado_em": "2026-11-06T20:19:56.484858-03:00"
       },
       "facebook": {
         "legenda": "Colocar todo o seu dinheiro numa oportunidade só é coragem ou é burrice?\n\nO livro Pense como um Bilionário tem uma resposta que parece contraditória.\n\nE cortar custo é bom, desde que a qualidade do que você entrega não caia.\n\nEntão, antes do próximo investimento, escreve num papel o máximo que você topa perder.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1158311453561134",
+        "publicado_em": "2026-11-06T20:20:08.590656-03:00"
+      },
+      "concluido_em": "2026-11-06T20:20:08.602520-03:00"
     },
     {
       "id": "reel-20261107-0800-42c4f68224",
