@@ -5557,7 +5557,7 @@
       "id": "reel-20261106-0800-28648972fa",
       "data": "2026-11-06",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Do Mil ao Milhao 09 - Cortar tem limite.mp4",
         "sha256": "28648972fa5ffa6c71e8da22a9c73c4f3336fd3a69a8f4a3eb94d71c790e97b2"
@@ -5570,12 +5570,17 @@
       },
       "instagram": {
         "legenda": "Você pode cortar gasto até zero.\n\nDepois disso, não tem mais o que cortar.\n\nEssa lição está no livro Do Mil ao Milhão.\n\nApertar o cinto ajuda.\n\nMas ninguém enriquece só apertando.\n\nA resposta que eu prometi: cortar tem fim, crescer não.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18111599969615710",
+        "publicado_em": "2026-11-06T08:32:04.896112-03:00"
       },
       "facebook": {
         "legenda": "Você pode cortar gasto até zero.\n\nDepois disso, não tem mais o que cortar.\n\nEssa lição está no livro Do Mil ao Milhão.\n\nApertar o cinto ajuda.\n\nMas ninguém enriquece só apertando.\n\nA resposta que eu prometi: cortar tem fim, crescer não.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1122727656794316",
+        "publicado_em": "2026-11-06T08:32:19.089033-03:00"
+      },
+      "concluido_em": "2026-11-06T08:32:19.100707-03:00"
     },
     {
       "id": "reel-20261106-1100-b5bb83946f",
