@@ -5707,7 +5707,7 @@
       "id": "reel-20261107-0800-42c4f68224",
       "data": "2026-11-07",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Pai Rico 09 - A casa onde voce mora.mp4",
         "sha256": "42c4f682244ef9b190a20a21638d8cccf12ef6c7ea0e107835cc14d8675eee76"
@@ -5720,12 +5720,17 @@
       },
       "instagram": {
         "legenda": "A sua casa não é investimento.\n\nPelo menos não pro livro Pai Rico, Pai Pobre.\n\nDepois, o que os ativos rendem ajuda a pagar o luxo.\n\nAtivo primeiro.\n\nCasa grande depois.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18194952280403700",
+        "publicado_em": "2026-11-07T09:48:57.580736-03:00"
       },
       "facebook": {
         "legenda": "A sua casa não é investimento.\n\nPelo menos não pro livro Pai Rico, Pai Pobre.\n\nDepois, o que os ativos rendem ajuda a pagar o luxo.\n\nAtivo primeiro.\n\nCasa grande depois.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "988394987096341",
+        "publicado_em": "2026-11-07T09:49:07.603047-03:00"
+      },
+      "concluido_em": "2026-11-07T09:49:07.615188-03:00"
     },
     {
       "id": "reel-20261107-1100-3b4cf071b6",
