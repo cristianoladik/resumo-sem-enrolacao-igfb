@@ -2027,7 +2027,7 @@
       "id": "story-20261107-1de292ec17",
       "data": "2026-11-07",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 07 - O aumento que some.mp4",
         "sha256": "1de292ec17e9d1a9f35f7e5780c047865a80c4087fb02f166a8d9e1f30695c83",
@@ -2037,7 +2037,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-1de292ec17-Pai-Rico-07---O-aumento-que-some.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-1de292ec17-Pai-Rico-07---O-aumento-que-some.mp4",
@@ -2046,13 +2046,30 @@
             "duracao_segundos": 29.8
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18130180765853423",
+            "publish_iniciado_em": "2026-11-07T10:56:31-03:00",
+            "id": "17999878476049503",
+            "publicado_em": "2026-11-07T10:56:37-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1644547804119127",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-07T10:56:44-03:00",
+            "post_id_candidato": "2670420346746956",
+            "finish_em": "2026-11-07T10:56:49-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjI2NzA0MjAzNTAwODAyODk=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2670420346746956",
+            "publicado_em": "2026-11-07T10:57:25-03:00"
+          },
+          "concluido_em": "2026-11-07T10:57:25-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-07T10:57:25-03:00"
     },
     {
       "id": "story-20261108-a88c59d2a9",
