@@ -2043,7 +2043,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-1de292ec17-Pai-Rico-07---O-aumento-que-some.mp4",
             "sha256": "1de292ec17e9d1a9f35f7e5780c047865a80c4087fb02f166a8d9e1f30695c83",
             "tamanho_bytes": 7016227,
-            "duracao_segundos": 29.8
+            "duracao_segundos": 29.8,
+            "removido_da_release_em": "2026-11-07T10:57:27.964807-03:00"
           },
           "instagram": {
             "status": "publicado",
