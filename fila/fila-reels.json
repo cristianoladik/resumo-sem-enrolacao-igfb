@@ -5797,7 +5797,7 @@
       "id": "reel-20261107-1700-2d19b8aa50",
       "data": "2026-11-07",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Deixe de Ser Pobre 10 - Saber e nao fazer.mp4",
         "sha256": "2d19b8aa50ad06e57dea289676be3643b7fd0ad08e2f2be0c6061eab66c7f1a7"
@@ -5810,18 +5810,23 @@
       },
       "instagram": {
         "legenda": "Você já assistiu dezenas de vídeos sobre dinheiro.\n\nSabe que precisa guardar, sabe que precisa sair da dívida, e a conta continua igualzinha.\n\nEssa lição está no livro Deixe de Ser Pobre.\n\nSe a resposta for nada, esse vídeo aqui é o seu lembrete.\n\nEscolhe uma ação pequena e faz ainda hoje.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18103707002378912",
+        "publicado_em": "2026-11-07T20:10:06.867818-03:00"
       },
       "facebook": {
         "legenda": "Você já assistiu dezenas de vídeos sobre dinheiro.\n\nSabe que precisa guardar, sabe que precisa sair da dívida, e a conta continua igualzinha.\n\nEssa lição está no livro Deixe de Ser Pobre.\n\nSe a resposta for nada, esse vídeo aqui é o seu lembrete.\n\nEscolhe uma ação pequena e faz ainda hoje.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1823544588769549",
+        "publicado_em": "2026-11-07T20:10:15.860938-03:00"
+      },
+      "concluido_em": "2026-11-07T20:10:15.873215-03:00"
     },
     {
       "id": "reel-20261107-2000-e0c06773bb",
       "data": "2026-11-07",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Dinheiro Segredos 10 - A massa critica.mp4",
         "sha256": "e0c06773bba7d51c9be0dcfb975f1979658fd4160bccb5d877267feb77345a55"
@@ -5834,12 +5839,17 @@
       },
       "instagram": {
         "legenda": "Existe um número que, quando você chega nele, trabalhar vira opção.\n\nO livro Dinheiro, os Segredos de Quem Tem chama isso de massa crítica.\n\nO hábito de todo mês pesa mais que o valor do começo.\n\nPega um papel hoje e escreve o primeiro passo: quanto por mês você quer receber.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18126568363709614",
+        "publicado_em": "2026-11-07T20:11:04.381066-03:00"
       },
       "facebook": {
         "legenda": "Existe um número que, quando você chega nele, trabalhar vira opção.\n\nO livro Dinheiro, os Segredos de Quem Tem chama isso de massa crítica.\n\nO hábito de todo mês pesa mais que o valor do começo.\n\nPega um papel hoje e escreve o primeiro passo: quanto por mês você quer receber.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1510129654506683",
+        "publicado_em": "2026-11-07T20:11:14.230024-03:00"
+      },
+      "concluido_em": "2026-11-07T20:11:14.242585-03:00"
     },
     {
       "id": "reel-20261108-0800-c876d09f26",
