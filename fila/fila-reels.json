@@ -5767,7 +5767,7 @@
       "id": "reel-20261107-1400-04051a700b",
       "data": "2026-11-07",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Como Fazer Amigos 10 - Ganha a briga e perde a venda.mp4",
         "sha256": "04051a700bd642e15a19d6d63926f05066936d9af416229715262fa1fde0b22e"
@@ -5780,12 +5780,17 @@
       },
       "instagram": {
         "legenda": "Ele ganhava toda briga com cliente.\n\nE quase não vendia.\n\nO Patrick vendia caminhões e rebatia todo cliente que falava mal do produto.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nPerdeu esse cliente?\n\nSão seis mil reais a menos em um ano.\n\nEm cinco anos, trinta mil.\n\nTudo pra ter razão numa conversa.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17970961302195797",
+        "publicado_em": "2026-11-07T14:20:50.569858-03:00"
       },
       "facebook": {
         "legenda": "Ele ganhava toda briga com cliente.\n\nE quase não vendia.\n\nO Patrick vendia caminhões e rebatia todo cliente que falava mal do produto.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nPerdeu esse cliente?\n\nSão seis mil reais a menos em um ano.\n\nEm cinco anos, trinta mil.\n\nTudo pra ter razão numa conversa.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1138598649139401",
+        "publicado_em": "2026-11-07T14:21:00.791176-03:00"
+      },
+      "concluido_em": "2026-11-07T14:21:00.803087-03:00"
     },
     {
       "id": "reel-20261107-1700-2d19b8aa50",
