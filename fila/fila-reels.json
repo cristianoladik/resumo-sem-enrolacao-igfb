@@ -5737,7 +5737,7 @@
       "id": "reel-20261107-1100-3b4cf071b6",
       "data": "2026-11-07",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "A Sutil Arte 10 - O sonho de astro do rock.mp4",
         "sha256": "3b4cf071b6797f46a5e7d933636c5673fb62bba21969e6092914ed6a9b92a95e"
@@ -5750,12 +5750,17 @@
       },
       "instagram": {
         "legenda": "O autor desse livro passou anos sonhando em ser astro do rock.\n\nE nunca chegou lá.\n\nEssa lição está no livro A Sutil Arte.\n\nQuem aceita que é comum para de se comparar e começa a treinar.\n\nE aí sim melhora de verdade.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18421377493084174",
+        "publicado_em": "2026-11-07T12:57:04.689854-03:00"
       },
       "facebook": {
         "legenda": "O autor desse livro passou anos sonhando em ser astro do rock.\n\nE nunca chegou lá.\n\nEssa lição está no livro A Sutil Arte.\n\nQuem aceita que é comum para de se comparar e começa a treinar.\n\nE aí sim melhora de verdade.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2136053507027783",
+        "publicado_em": "2026-11-07T12:57:13.213926-03:00"
+      },
+      "concluido_em": "2026-11-07T12:57:13.225996-03:00"
     },
     {
       "id": "reel-20261107-1400-04051a700b",
