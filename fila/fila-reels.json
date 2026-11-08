@@ -5947,7 +5947,7 @@
       "id": "reel-20261108-1700-9d517ff97f",
       "data": "2026-11-08",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 10 - Por que quase tudo sobe junto.mp4",
         "sha256": "9d517ff97f102c035a0c27fa59bb316dba7e2879c91de457bfaf4e0d1be34735"
@@ -5960,12 +5960,17 @@
       },
       "instagram": {
         "legenda": "Uma geada deixa o café mais caro.\n\nMas por que quase tudo sobe junto?\n\nO livro Em Nome do Povo, do Bruno Perini, responde.\n\nÉ oferta e demanda, só que valendo pra quase tudo ao mesmo tempo.\n\nE acontece aos poucos, sem aviso nenhum na sua conta.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18350982247268603",
+        "publicado_em": "2026-11-08T17:30:27.459871-03:00"
       },
       "facebook": {
         "legenda": "Uma geada deixa o café mais caro.\n\nMas por que quase tudo sobe junto?\n\nO livro Em Nome do Povo, do Bruno Perini, responde.\n\nÉ oferta e demanda, só que valendo pra quase tudo ao mesmo tempo.\n\nE acontece aos poucos, sem aviso nenhum na sua conta.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "946068201716703",
+        "publicado_em": "2026-11-08T17:30:37.248181-03:00"
+      },
+      "concluido_em": "2026-11-08T17:30:37.255997-03:00"
     },
     {
       "id": "reel-20261108-2000-05af62b232",
