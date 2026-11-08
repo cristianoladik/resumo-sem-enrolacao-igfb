@@ -2092,7 +2092,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-a88c59d2a9-Pai-Rico-08---Ativo-x-passivo.mp4",
             "sha256": "a88c59d2a9eee253ebfd9f46677e2b4364462c3da32620b5ec30100b29105777",
             "tamanho_bytes": 6643934,
-            "duracao_segundos": 28.167
+            "duracao_segundos": 28.167,
+            "removido_da_release_em": "2026-11-08T09:32:55.954491-03:00"
           },
           "instagram": {
             "status": "publicado",
