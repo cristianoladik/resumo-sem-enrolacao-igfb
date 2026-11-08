@@ -2076,7 +2076,7 @@
       "id": "story-20261108-a88c59d2a9",
       "data": "2026-11-08",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 08 - Ativo x passivo.mp4",
         "sha256": "a88c59d2a9eee253ebfd9f46677e2b4364462c3da32620b5ec30100b29105777",
@@ -2086,7 +2086,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-a88c59d2a9-Pai-Rico-08---Ativo-x-passivo.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-a88c59d2a9-Pai-Rico-08---Ativo-x-passivo.mp4",
@@ -2095,13 +2095,30 @@
             "duracao_segundos": 28.167
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18130301296853423",
+            "publish_iniciado_em": "2026-11-08T09:31:58-03:00",
+            "id": "18117477197105524",
+            "publicado_em": "2026-11-08T09:32:05-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2346248335779668",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-08T09:32:12-03:00",
+            "post_id_candidato": "1802657981040011",
+            "finish_em": "2026-11-08T09:32:17-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjE4MDI2NTc5OTEwNDAwMTA=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1802657981040011",
+            "publicado_em": "2026-11-08T09:32:53-03:00"
+          },
+          "concluido_em": "2026-11-08T09:32:53-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-08T09:32:53-03:00"
     },
     {
       "id": "story-20261109-d4224cfacc",
