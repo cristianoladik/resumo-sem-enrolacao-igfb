@@ -5857,7 +5857,7 @@
       "id": "reel-20261108-0800-c876d09f26",
       "data": "2026-11-08",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais que Dinheiro 10 - A corrida dos ratos.mp4",
         "sha256": "c876d09f26938aa2e9e434b8e3c6997a87edef9046879584c8b9fcb50c420475"
@@ -5870,12 +5870,17 @@
       },
       "instagram": {
         "legenda": "O salário entra, as contas levam tudo, e o mês começa de novo.\n\nIsso tem nome: corrida dos ratos.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nO que passar dela pode virar entrada de um bem que trabalha por você.\n\nQuando o aluguel de um imóvel paga uma conta sua, você tirou um pé da roda.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18182544724441077",
+        "publicado_em": "2026-11-08T09:31:04.420074-03:00"
       },
       "facebook": {
         "legenda": "O salário entra, as contas levam tudo, e o mês começa de novo.\n\nIsso tem nome: corrida dos ratos.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nO que passar dela pode virar entrada de um bem que trabalha por você.\n\nQuando o aluguel de um imóvel paga uma conta sua, você tirou um pé da roda.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1525791169381194",
+        "publicado_em": "2026-11-08T09:31:13.375735-03:00"
+      },
+      "concluido_em": "2026-11-08T09:31:13.388026-03:00"
     },
     {
       "id": "reel-20261108-1100-5d576e677f",
