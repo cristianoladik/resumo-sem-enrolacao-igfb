@@ -5887,7 +5887,7 @@
       "id": "reel-20261108-1100-5d576e677f",
       "data": "2026-11-08",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro os Segredos de Quem Tem 10 - Emprestado de si mesmo.mp4",
         "sha256": "5d576e677f85c75ed338f1e5359311ea25f31a1b00cb866cbb96bd82fa8c09c6"
@@ -5900,12 +5900,17 @@
       },
       "instagram": {
         "legenda": "Esse casal ia pagar juro ao banco tendo dinheiro guardado.\n\nO caso está no livro Dinheiro, os Segredos de Quem Tem, do Gustavo Cerbasi.\n\nEm dez meses, tudo de volta, e o juro ficou em casa.\n\nRegra: nunca pague juro maior do que recebe.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18131737849695374",
+        "publicado_em": "2026-11-08T13:10:19.190354-03:00"
       },
       "facebook": {
         "legenda": "Esse casal ia pagar juro ao banco tendo dinheiro guardado.\n\nO caso está no livro Dinheiro, os Segredos de Quem Tem, do Gustavo Cerbasi.\n\nEm dez meses, tudo de volta, e o juro ficou em casa.\n\nRegra: nunca pague juro maior do que recebe.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "28248824941458831",
+        "publicado_em": "2026-11-08T13:10:32.015013-03:00"
+      },
+      "concluido_em": "2026-11-08T13:10:32.023229-03:00"
     },
     {
       "id": "reel-20261108-1400-537560e675",
