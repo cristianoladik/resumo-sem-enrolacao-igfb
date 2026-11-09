@@ -6007,7 +6007,7 @@
       "id": "reel-20261109-0800-c6223b750e",
       "data": "2026-11-09",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 10 - As cinco datas da empresa.mp4",
         "sha256": "c6223b750e81deed0e2f17a2b0950924da13c1ac5bdae041de07c247c3c4ba33"
@@ -6020,12 +6020,17 @@
       },
       "instagram": {
         "legenda": "Toda empresa tem cinco datas, e elas cabem numa mão.\n\nTá no livro Os Códigos do Milhão, do Pablo Marçal.\n\nEmpresa de família só dá certo em quinze por cento na primeira passagem.\n\nPra você: escreve hoje as cinco datas do seu negócio.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17955989757293133",
+        "publicado_em": "2026-11-09T09:31:09.450590-03:00"
       },
       "facebook": {
         "legenda": "Toda empresa tem cinco datas, e elas cabem numa mão.\n\nTá no livro Os Códigos do Milhão, do Pablo Marçal.\n\nEmpresa de família só dá certo em quinze por cento na primeira passagem.\n\nPra você: escreve hoje as cinco datas do seu negócio.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "29788634884061683",
+        "publicado_em": "2026-11-09T09:31:17.751599-03:00"
+      },
+      "concluido_em": "2026-11-09T09:31:17.761721-03:00"
     },
     {
       "id": "reel-20261109-1100-e6333e37b3",
