@@ -6016,7 +6016,8 @@
         "asset": "reel-c6223b750e-Os-Codigos-do-Milhao-10---As-cinco-datas-da-empresa.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-c6223b750e-Os-Codigos-do-Milhao-10---As-cinco-datas-da-empresa.mp4",
         "sha256": "c6223b750e81deed0e2f17a2b0950924da13c1ac5bdae041de07c247c3c4ba33",
-        "tamanho_bytes": 8686210
+        "tamanho_bytes": 8686210,
+        "removido_da_release_em": "2026-11-09T09:31:20.354748-03:00"
       },
       "instagram": {
         "legenda": "Toda empresa tem cinco datas, e elas cabem numa mão.\n\nTá no livro Os Códigos do Milhão, do Pablo Marçal.\n\nEmpresa de família só dá certo em quinze por cento na primeira passagem.\n\nPra você: escreve hoje as cinco datas do seu negócio.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
