@@ -6067,7 +6067,7 @@
       "id": "reel-20261109-1400-92d65f320b",
       "data": "2026-11-09",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "A Sutil Arte 11 - O amigo Jimmy.mp4",
         "sha256": "92d65f320b35fd45e8a3f67baf0ab03baba1a7de4e8455da079771c283294bdf"
@@ -6080,12 +6080,17 @@
       },
       "instagram": {
         "legenda": "Ele sempre tinha um negócio novo pra contar, e quase nunca trabalhava.\n\nÉ o Jimmy, um amigo do autor que vivia de ideias de negócio.\n\nEssa lição está no livro A Sutil Arte.\n\nPro livro, se sentir ótimo com você mesmo não resolve nada.\n\nAutoestima de verdade vem de como você lida com o seu lado ruim.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17917956213466409",
+        "publicado_em": "2026-11-09T14:23:37.540376-03:00"
       },
       "facebook": {
         "legenda": "Ele sempre tinha um negócio novo pra contar, e quase nunca trabalhava.\n\nÉ o Jimmy, um amigo do autor que vivia de ideias de negócio.\n\nEssa lição está no livro A Sutil Arte.\n\nPro livro, se sentir ótimo com você mesmo não resolve nada.\n\nAutoestima de verdade vem de como você lida com o seu lado ruim.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2221203439276072",
+        "publicado_em": "2026-11-09T14:23:48.544203-03:00"
+      },
+      "concluido_em": "2026-11-09T14:23:48.554217-03:00"
     },
     {
       "id": "reel-20261109-1700-894244c9d3",
