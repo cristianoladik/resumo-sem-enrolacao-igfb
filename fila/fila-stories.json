@@ -2141,7 +2141,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-d4224cfacc-Pai-Rico-09---A-casa-onde-voce-mora.mp4",
             "sha256": "d4224cfaccc7b419dac0ac2537b16110143cd761f2716cb3e80f47ff8194f81b",
             "tamanho_bytes": 7841400,
-            "duracao_segundos": 31.833
+            "duracao_segundos": 31.833,
+            "removido_da_release_em": "2026-11-09T09:32:58.283704-03:00"
           },
           "instagram": {
             "status": "publicado",
