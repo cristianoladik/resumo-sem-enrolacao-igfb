@@ -6127,7 +6127,7 @@
       "id": "reel-20261109-2000-9a5a98ca51",
       "data": "2026-11-09",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais que Dinheiro 11 - Trinta por cento contra seis.mp4",
         "sha256": "9a5a98ca51dba7bb5b7ac57193d8898a2c1eefd1f06b36dcd53ccf0684a138d7"
@@ -6140,12 +6140,17 @@
       },
       "instagram": {
         "legenda": "Duas pessoas ganham quinze mil com o mesmo imóvel, e o resultado não é igual.\n\nExemplo nosso: imóvel de duzentos e cinquenta mil que valoriza seis por cento no ano.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nAlavancar é isso: usar pouco dinheiro seu pra controlar um bem bem maior.\n\nMas essa conta está pela metade.\n\nAinda faltam os juros.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18014664059766954",
+        "publicado_em": "2026-11-09T20:23:56.066626-03:00"
       },
       "facebook": {
         "legenda": "Duas pessoas ganham quinze mil com o mesmo imóvel, e o resultado não é igual.\n\nExemplo nosso: imóvel de duzentos e cinquenta mil que valoriza seis por cento no ano.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nAlavancar é isso: usar pouco dinheiro seu pra controlar um bem bem maior.\n\nMas essa conta está pela metade.\n\nAinda faltam os juros.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1444735430377101",
+        "publicado_em": "2026-11-09T20:24:07.363121-03:00"
+      },
+      "concluido_em": "2026-11-09T20:24:07.375410-03:00"
     },
     {
       "id": "reel-20261110-0800-3000de88ab",
