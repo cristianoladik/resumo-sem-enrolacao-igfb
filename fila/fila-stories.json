@@ -2190,7 +2190,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-54ee007d18-Pai-Rico-10---A-casa-que-te-paga.mp4",
             "sha256": "54ee007d18f0eefe69115516b49ff78a454ebbb3a4b3bd8886da868bfac7b2dd",
             "tamanho_bytes": 6456102,
-            "duracao_segundos": 28.167
+            "duracao_segundos": 28.167,
+            "removido_da_release_em": "2026-11-10T09:33:38.889961-03:00"
           },
           "instagram": {
             "status": "publicado",
