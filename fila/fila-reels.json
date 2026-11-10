@@ -6187,7 +6187,7 @@
       "id": "reel-20261110-1100-9d1823a563",
       "data": "2026-11-10",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 11 - Decisao de dinheiro todo dia.mp4",
         "sha256": "9d1823a563b62106b266ac711df2d3e58e9397527e2d26f9f4d4dad6fedb71b7"
@@ -6200,12 +6200,17 @@
       },
       "instagram": {
         "legenda": "Você pode trocar de profissão várias vezes.\n\nMas de uma coisa não escapa.\n\nQuem avisa é o Bruno Perini, no livro Em Nome do Povo.\n\nPor exemplo: saber que dinheiro parado perde valor todo ano.\n\nE que não basta render.\n\nTem que render acima da inflação.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18094592519690862",
+        "publicado_em": "2026-11-10T11:43:18.760753-03:00"
       },
       "facebook": {
         "legenda": "Você pode trocar de profissão várias vezes.\n\nMas de uma coisa não escapa.\n\nQuem avisa é o Bruno Perini, no livro Em Nome do Povo.\n\nPor exemplo: saber que dinheiro parado perde valor todo ano.\n\nE que não basta render.\n\nTem que render acima da inflação.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2252922288615397",
+        "publicado_em": "2026-11-10T11:43:27.980789-03:00"
+      },
+      "concluido_em": "2026-11-10T11:43:27.988895-03:00"
     },
     {
       "id": "reel-20261110-1400-ddde03a7df",
