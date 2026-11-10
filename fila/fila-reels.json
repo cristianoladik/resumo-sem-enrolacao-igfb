@@ -6247,7 +6247,7 @@
       "id": "reel-20261110-1700-99744b685d",
       "data": "2026-11-10",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "A Sutil Arte 12 - A regua do colega.mp4",
         "sha256": "99744b685dddad7c2f244ebeb6965943248ec15dec0155e07a10b26fee41192e"
@@ -6260,12 +6260,17 @@
       },
       "instagram": {
         "legenda": "O colega ganhou um aumento, e você ficou irritado.\n\nMesmo sem perder nada.\n\nEssa lição está no livro A Sutil Arte.\n\nPrimeira camada: o que eu tô sentindo?\n\nValor bom depende de você, não do salário do colega.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17918506293541462",
+        "publicado_em": "2026-11-10T17:46:48.737528-03:00"
       },
       "facebook": {
         "legenda": "O colega ganhou um aumento, e você ficou irritado.\n\nMesmo sem perder nada.\n\nEssa lição está no livro A Sutil Arte.\n\nPrimeira camada: o que eu tô sentindo?\n\nValor bom depende de você, não do salário do colega.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1573209158170954",
+        "publicado_em": "2026-11-10T17:47:00.193850-03:00"
+      },
+      "concluido_em": "2026-11-10T17:47:00.206037-03:00"
     },
     {
       "id": "reel-20261110-2000-facfd3f4a3",
