@@ -6217,7 +6217,7 @@
       "id": "reel-20261110-1400-ddde03a7df",
       "data": "2026-11-10",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 11 - Quando o dinheiro investido volta.mp4",
         "sha256": "ddde03a7dfa031354bcb6e0ba5d99e9eabb1a1706a118fd07897b8897c4447cb"
@@ -6230,12 +6230,17 @@
       },
       "instagram": {
         "legenda": "Você abriu uma empresa com cento e vinte mil reais.\n\nQuando esse dinheiro volta?\n\nO livro Os Códigos do Milhão, do Pablo Marçal, chama essa data de payback. a empresa precisa devolver cinco mil por mês ao dono, além de pagar as contas.\n\nPra você: divide o que investiu pelos meses do seu prazo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18128318893913603",
+        "publicado_em": "2026-11-10T16:15:17.737419-03:00"
       },
       "facebook": {
         "legenda": "Você abriu uma empresa com cento e vinte mil reais.\n\nQuando esse dinheiro volta?\n\nO livro Os Códigos do Milhão, do Pablo Marçal, chama essa data de payback. a empresa precisa devolver cinco mil por mês ao dono, além de pagar as contas.\n\nPra você: divide o que investiu pelos meses do seu prazo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4029640727331022",
+        "publicado_em": "2026-11-10T16:15:27.794511-03:00"
+      },
+      "concluido_em": "2026-11-10T16:15:27.806473-03:00"
     },
     {
       "id": "reel-20261110-1700-99744b685d",
