@@ -2174,7 +2174,7 @@
       "id": "story-20261110-54ee007d18",
       "data": "2026-11-10",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 10 - A casa que te paga.mp4",
         "sha256": "54ee007d18f0eefe69115516b49ff78a454ebbb3a4b3bd8886da868bfac7b2dd",
@@ -2184,7 +2184,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-54ee007d18-Pai-Rico-10---A-casa-que-te-paga.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-54ee007d18-Pai-Rico-10---A-casa-que-te-paga.mp4",
@@ -2193,13 +2193,30 @@
             "duracao_segundos": 28.167
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18130535461853423",
+            "publish_iniciado_em": "2026-11-10T09:32:42-03:00",
+            "id": "17940182781128468",
+            "publicado_em": "2026-11-10T09:32:50-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "875669938941701",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-10T09:32:56-03:00",
+            "post_id_candidato": "1501873378465135",
+            "finish_em": "2026-11-10T09:33:00-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjE1MDE4NzMzODE3OTg0Njg=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1501873378465135",
+            "publicado_em": "2026-11-10T09:33:36-03:00"
+          },
+          "concluido_em": "2026-11-10T09:33:36-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-10T09:33:36-03:00"
     },
     {
       "id": "story-20261111-ded70b2c10",
