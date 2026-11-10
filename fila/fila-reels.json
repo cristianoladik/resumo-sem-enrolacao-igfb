@@ -6157,7 +6157,7 @@
       "id": "reel-20261110-0800-3000de88ab",
       "data": "2026-11-10",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro os Segredos de Quem Tem 11 - Medo de investir.mp4",
         "sha256": "3000de88ab0cb25e5e2bf05906925aeacdbeba279ba31df8bf60da1e6803d30b"
@@ -6170,12 +6170,17 @@
       },
       "instagram": {
         "legenda": "Eu não aguento o risco de investir.\n\nEssa é uma das cinco crenças que travam a riqueza, no livro Dinheiro, os Segredos de Quem Tem.\n\nVai estudando opções melhores enquanto o dinheiro já está guardado.\n\nBuscar informação sobre investimento o tempo todo é, inclusive, um dos mandamentos do livro.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18478640911141785",
+        "publicado_em": "2026-11-10T09:31:11.763556-03:00"
       },
       "facebook": {
         "legenda": "Eu não aguento o risco de investir.\n\nEssa é uma das cinco crenças que travam a riqueza, no livro Dinheiro, os Segredos de Quem Tem.\n\nVai estudando opções melhores enquanto o dinheiro já está guardado.\n\nBuscar informação sobre investimento o tempo todo é, inclusive, um dos mandamentos do livro.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1847231106423618",
+        "publicado_em": "2026-11-10T09:31:23.818087-03:00"
+      },
+      "concluido_em": "2026-11-10T09:31:23.828173-03:00"
     },
     {
       "id": "reel-20261110-1100-9d1823a563",
