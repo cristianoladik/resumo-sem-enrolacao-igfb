@@ -6367,7 +6367,7 @@
       "id": "reel-20261111-1400-5373e76646",
       "data": "2026-11-11",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 12 - O crime que o povo aplaude.mp4",
         "sha256": "5373e766466a0bcd85b7e8be457c2a6f156f20a37203f89f48ebe72583df1369"
@@ -6380,12 +6380,17 @@
       },
       "instagram": {
         "legenda": "Existe um crime que o povo não só tolera, como aplaude.\n\nA frase é do economista austríaco Friedrich Hayek.\n\nEssa lição está no livro Em Nome do Povo.\n\nE quem guarda dinheiro parado paga a conta em silêncio.\n\nE o livro corrige: o tal Nobel do Hayek é uma medalha do Banco Central da Suécia.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18415678243088297",
+        "publicado_em": "2026-11-11T16:11:50.720754-03:00"
       },
       "facebook": {
         "legenda": "Existe um crime que o povo não só tolera, como aplaude.\n\nA frase é do economista austríaco Friedrich Hayek.\n\nEssa lição está no livro Em Nome do Povo.\n\nE quem guarda dinheiro parado paga a conta em silêncio.\n\nE o livro corrige: o tal Nobel do Hayek é uma medalha do Banco Central da Suécia.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "990727560754597",
+        "publicado_em": "2026-11-11T16:12:03.830458-03:00"
+      },
+      "concluido_em": "2026-11-11T16:12:03.840559-03:00"
     },
     {
       "id": "reel-20261111-1700-f5f6ca67b5",
