@@ -6277,7 +6277,7 @@
       "id": "reel-20261110-2000-facfd3f4a3",
       "data": "2026-11-10",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Como Fazer Amigos 12 - O sol e o vento.mp4",
         "sha256": "facfd3f4a353c27642e7e1fc6dd757e1fc331535393380a3bda32aeed229a537"
@@ -6290,12 +6290,17 @@
       },
       "instagram": {
         "legenda": "Uma greve violenta terminou com um discurso amigável.\n\nFoi numa empresa da família Rockefeller, no Colorado.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nPrincípio treze: comece de forma amigável.\n\nNuma negociação difícil, começa pela conversa amigável, não pela cobrança.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17919189600496377",
+        "publicado_em": "2026-11-10T22:27:27.192838-03:00"
       },
       "facebook": {
         "legenda": "Uma greve violenta terminou com um discurso amigável.\n\nFoi numa empresa da família Rockefeller, no Colorado.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nPrincípio treze: comece de forma amigável.\n\nNuma negociação difícil, começa pela conversa amigável, não pela cobrança.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1852901342697542",
+        "publicado_em": "2026-11-10T22:27:36.485364-03:00"
+      },
+      "concluido_em": "2026-11-10T22:27:36.498050-03:00"
     },
     {
       "id": "reel-20261111-0800-66075a6780",
