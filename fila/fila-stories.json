@@ -2239,7 +2239,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-ded70b2c10-Pai-Rico-11---Passivos-disfarcados.mp4",
             "sha256": "ded70b2c10253276c413099b57262a0800dd6cf9f1500224661eae7af1e2a6d4",
             "tamanho_bytes": 7582640,
-            "duracao_segundos": 31.133
+            "duracao_segundos": 31.133,
+            "removido_da_release_em": "2026-11-11T09:32:06.553647-03:00"
           },
           "instagram": {
             "status": "publicado",
