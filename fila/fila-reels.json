@@ -6307,7 +6307,7 @@
       "id": "reel-20261111-0800-66075a6780",
       "data": "2026-11-11",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais que Dinheiro 12 - Os juros comem a valorizacao.mp4",
         "sha256": "66075a678041cfbe85faa7c5bc7340a1de5b10e328a9331eb6ad832025e47ce0"
@@ -6320,12 +6320,17 @@
       },
       "instagram": {
         "legenda": "O imóvel valorizou quinze mil e não pagou nem os juros do ano.\n\nExemplo nosso: duzentos mil financiados a dez por cento ao ano.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nA regra: o imóvel tem que render mais do que o crédito custa.\n\nPro autor, alavancagem serve pra acelerar resultados, sempre com plano de longo prazo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18039106877906189",
+        "publicado_em": "2026-11-11T09:33:15.288236-03:00"
       },
       "facebook": {
         "legenda": "O imóvel valorizou quinze mil e não pagou nem os juros do ano.\n\nExemplo nosso: duzentos mil financiados a dez por cento ao ano.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nA regra: o imóvel tem que render mais do que o crédito custa.\n\nPro autor, alavancagem serve pra acelerar resultados, sempre com plano de longo prazo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2360425861380375",
+        "publicado_em": "2026-11-11T09:33:25.503252-03:00"
+      },
+      "concluido_em": "2026-11-11T09:33:25.516612-03:00"
     },
     {
       "id": "reel-20261111-1100-1f819f9672",
