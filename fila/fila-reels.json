@@ -6337,7 +6337,7 @@
       "id": "reel-20261111-1100-1f819f9672",
       "data": "2026-11-11",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro os Segredos de Quem Tem 12 - Os quatro ingredientes.mp4",
         "sha256": "1f819f967245967cae898ab93f2d933700ad81ecf3fe36be24f3c94086b8917b"
@@ -6350,12 +6350,17 @@
       },
       "instagram": {
         "legenda": "A riqueza tem quatro ingredientes, e um você já tem.\n\nA lista está no livro Dinheiro, os Segredos de Quem Tem, do Gustavo Cerbasi.\n\nIngrediente quatro: o dinheiro que você separa antes de gastar.\n\nOs quatro juntos, com tempo, fazem o pequeno virar grande.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18012939071989771",
+        "publicado_em": "2026-11-11T13:04:39.041462-03:00"
       },
       "facebook": {
         "legenda": "A riqueza tem quatro ingredientes, e um você já tem.\n\nA lista está no livro Dinheiro, os Segredos de Quem Tem, do Gustavo Cerbasi.\n\nIngrediente quatro: o dinheiro que você separa antes de gastar.\n\nOs quatro juntos, com tempo, fazem o pequeno virar grande.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1840135663924955",
+        "publicado_em": "2026-11-11T13:04:47.571984-03:00"
+      },
+      "concluido_em": "2026-11-11T13:04:47.582127-03:00"
     },
     {
       "id": "reel-20261111-1400-5373e76646",
