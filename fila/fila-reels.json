@@ -6517,7 +6517,7 @@
       "id": "reel-20261112-1400-89df500af8",
       "data": "2026-11-12",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais que Dinheiro 13 - Os quatro riscos.mp4",
         "sha256": "89df500af824f76498363574004c2b148281b722c0b97c214f20d1184784e2ce"
@@ -6530,12 +6530,17 @@
       },
       "instagram": {
         "legenda": "Alavancar com dívida tem quatro riscos que você precisa conhecer.\n\nQuem aponta é o próprio livro Crédito Vale Mais que Dinheiro, que defende o crédito.\n\nPor isso a mensagem do livro tem duas partes.\n\nCrédito sem planejamento destrói.\n\nE crédito com estratégia constrói.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17910226014667802",
+        "publicado_em": "2026-11-12T16:06:44.803238-03:00"
       },
       "facebook": {
         "legenda": "Alavancar com dívida tem quatro riscos que você precisa conhecer.\n\nQuem aponta é o próprio livro Crédito Vale Mais que Dinheiro, que defende o crédito.\n\nPor isso a mensagem do livro tem duas partes.\n\nCrédito sem planejamento destrói.\n\nE crédito com estratégia constrói.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "5588928907998855",
+        "publicado_em": "2026-11-12T16:06:55.649107-03:00"
+      },
+      "concluido_em": "2026-11-12T16:06:55.657422-03:00"
     },
     {
       "id": "reel-20261112-1700-5f69394ce3",
