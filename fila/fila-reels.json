@@ -6487,7 +6487,7 @@
       "id": "reel-20261112-1100-0522f7aca5",
       "data": "2026-11-12",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Como Fazer Amigos 13 - So perguntas de sim.mp4",
         "sha256": "0522f7aca5f7a97bc3df1a4bf7d387941dda1cd6404ebf01fc9961ed95992a05"
@@ -6500,12 +6500,17 @@
       },
       "instagram": {
         "legenda": "Um rapaz se recusou a preencher parte da ficha no banco.\n\nE saiu de lá abrindo mais uma conta.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nPrincípio catorze: faça o outro dizer sim logo no começo.\n\nNa venda, começa pelas perguntas em que vocês concordam.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18108846161249918",
+        "publicado_em": "2026-11-12T11:59:10.037650-03:00"
       },
       "facebook": {
         "legenda": "Um rapaz se recusou a preencher parte da ficha no banco.\n\nE saiu de lá abrindo mais uma conta.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nPrincípio catorze: faça o outro dizer sim logo no começo.\n\nNa venda, começa pelas perguntas em que vocês concordam.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1167960672852316",
+        "publicado_em": "2026-11-12T11:59:20.540086-03:00"
+      },
+      "concluido_em": "2026-11-12T11:59:20.552894-03:00"
     },
     {
       "id": "reel-20261112-1400-89df500af8",
