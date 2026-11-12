@@ -6457,7 +6457,7 @@
       "id": "reel-20261112-0800-d3745c09d8",
       "data": "2026-11-12",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "A Sutil Arte 13 - Os valores ruins.mp4",
         "sha256": "d3745c09d8b294cc2d13910c3d3abd032b7bd5ade5f3fbeeafa25016f09b3be1"
@@ -6470,12 +6470,17 @@
       },
       "instagram": {
         "legenda": "Medir a sua vida só pelo dinheiro é um valor ruim.\n\nE ele está numa lista com outros três.\n\nEssa lição está no livro A Sutil Arte.\n\nE os valores bons?\n\nHonestidade, inovação, curiosidade, humildade e criatividade.\n\nSer honesto com o cliente só depende de você.\n\nSer o mais rico da rua, não.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18078356288567851",
+        "publicado_em": "2026-11-12T08:36:07.688989-03:00"
       },
       "facebook": {
         "legenda": "Medir a sua vida só pelo dinheiro é um valor ruim.\n\nE ele está numa lista com outros três.\n\nEssa lição está no livro A Sutil Arte.\n\nE os valores bons?\n\nHonestidade, inovação, curiosidade, humildade e criatividade.\n\nSer honesto com o cliente só depende de você.\n\nSer o mais rico da rua, não.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1885900452768596",
+        "publicado_em": "2026-11-12T08:36:19.171258-03:00"
+      },
+      "concluido_em": "2026-11-12T08:36:19.183115-03:00"
     },
     {
       "id": "reel-20261112-1100-0522f7aca5",
