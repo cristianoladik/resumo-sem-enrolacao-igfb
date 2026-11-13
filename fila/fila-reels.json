@@ -6586,7 +6586,8 @@
         "asset": "reel-611cdd9581-Em-Nome-do-Povo-13---O-imposto-sem-boleto.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-611cdd9581-Em-Nome-do-Povo-13---O-imposto-sem-boleto.mp4",
         "sha256": "611cdd95815cbed3d63b23f877e55d7e00449da68f924d90fb691edc1752be18",
-        "tamanho_bytes": 9166223
+        "tamanho_bytes": 9166223,
+        "removido_da_release_em": "2026-11-12T21:14:46.882192-03:00"
       },
       "instagram": {
         "legenda": "Tem um imposto que não aparece em nenhum boleto.\n\nO livro Em Nome do Povo, do Bruno Perini, explica de onde ele vem.\n\nSegundo o autor, quem mais sente é quem tem menos.\n\nA inflação aumenta a desigualdade.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
