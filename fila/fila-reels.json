@@ -6697,7 +6697,7 @@
       "id": "reel-20261113-1700-903a40be1e",
       "data": "2026-11-13",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m30 - Babilonia 13 - O plano do Dabasir.mp4",
         "sha256": "903a40be1e3124db3c7de23391088490a9b649c9c8a54b479869716b03fde1c4"
@@ -6710,12 +6710,17 @@
       },
       "instagram": {
         "legenda": "Ele devia pra meia cidade.\n\nFugiu, virou escravo e quase morreu no deserto.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE a regra de ouro: nunca gastar mais que os setenta.\n\nEm mais ou menos um ano e meio, pagou a última dívida.\n\nE ainda tinha dinheiro guardado.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18120501893106340",
+        "publicado_em": "2026-11-13T17:52:39.009002-03:00"
       },
       "facebook": {
         "legenda": "Ele devia pra meia cidade.\n\nFugiu, virou escravo e quase morreu no deserto.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE a regra de ouro: nunca gastar mais que os setenta.\n\nEm mais ou menos um ano e meio, pagou a última dívida.\n\nE ainda tinha dinheiro guardado.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1596041008990140",
+        "publicado_em": "2026-11-13T17:52:54.621401-03:00"
+      },
+      "concluido_em": "2026-11-13T17:52:54.633822-03:00"
     },
     {
       "id": "reel-20261113-2000-a3166cc034",
