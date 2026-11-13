@@ -6607,7 +6607,7 @@
       "id": "reel-20261113-0800-c3959b3fb8",
       "data": "2026-11-13",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 13 - Duas escrituras em quinhentas pessoas.mp4",
         "sha256": "c3959b3fb865af4f9aaa7dc42c75ebcbba47959bb28ec899751eff6f7c4b0f78"
@@ -6620,12 +6620,17 @@
       },
       "instagram": {
         "legenda": "Numa plateia de quinhentas pessoas, no máximo cinco têm duas escrituras no nome.\n\nQuem conta é o Pablo Marçal, no livro Os Códigos do Milhão.\n\nPra ele, a herança é a instrução.\n\nPra você: calcula hoje quanto são seis rendas suas.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18102597872564276",
+        "publicado_em": "2026-11-13T09:31:19.981950-03:00"
       },
       "facebook": {
         "legenda": "Numa plateia de quinhentas pessoas, no máximo cinco têm duas escrituras no nome.\n\nQuem conta é o Pablo Marçal, no livro Os Códigos do Milhão.\n\nPra ele, a herança é a instrução.\n\nPra você: calcula hoje quanto são seis rendas suas.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2013352206004496",
+        "publicado_em": "2026-11-13T09:31:31.488560-03:00"
+      },
+      "concluido_em": "2026-11-13T09:31:31.500888-03:00"
     },
     {
       "id": "reel-20261113-1100-885eb7ef35",
