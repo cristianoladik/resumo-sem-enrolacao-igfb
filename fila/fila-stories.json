@@ -2337,7 +2337,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-6b89dd4981-Pai-Rico-13---O-negocio-de-quem.mp4",
             "sha256": "6b89dd498175d30e553c0722d88387cb14018019e6816296130feac0811175be",
             "tamanho_bytes": 6559691,
-            "duracao_segundos": 29.5
+            "duracao_segundos": 29.5,
+            "removido_da_release_em": "2026-11-13T09:33:33.584634-03:00"
           },
           "instagram": {
             "status": "publicado",
