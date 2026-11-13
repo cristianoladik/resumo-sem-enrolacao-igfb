@@ -2321,7 +2321,7 @@
       "id": "story-20261113-6b89dd4981",
       "data": "2026-11-13",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 13 - O negocio de quem.mp4",
         "sha256": "6b89dd498175d30e553c0722d88387cb14018019e6816296130feac0811175be",
@@ -2331,7 +2331,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-6b89dd4981-Pai-Rico-13---O-negocio-de-quem.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-6b89dd4981-Pai-Rico-13---O-negocio-de-quem.mp4",
@@ -2340,13 +2340,30 @@
             "duracao_segundos": 29.5
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18130933717853423",
+            "publish_iniciado_em": "2026-11-13T09:32:35-03:00",
+            "id": "18361172251171003",
+            "publicado_em": "2026-11-13T09:32:44-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1147201784373825",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-13T09:32:51-03:00",
+            "post_id_candidato": "1834132954568249",
+            "finish_em": "2026-11-13T09:32:55-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjE4MzQxMzI5NTc5MDE1ODI=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1834132954568249",
+            "publicado_em": "2026-11-13T09:33:31-03:00"
+          },
+          "concluido_em": "2026-11-13T09:33:31-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-13T09:33:31-03:00"
     },
     {
       "id": "story-20261114-368c5b47b5",
