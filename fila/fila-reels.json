@@ -6727,7 +6727,7 @@
       "id": "reel-20261113-2000-a3166cc034",
       "data": "2026-11-13",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "A Sutil Arte 14 - Tres perguntas antes de investir.mp4",
         "sha256": "a3166cc034499ca5f0691b90a51973f92fd48739b137d496c71d3d27d5bf6fdf"
@@ -6740,12 +6740,17 @@
       },
       "instagram": {
         "legenda": "Antes de colocar dinheiro num negócio que você jura que é certo, faz três perguntas.\n\nElas vêm do livro A Sutil Arte, do Mark Manson.\n\nE cuidado: quanto mais algo ameaça quem você acha que é, mais você foge disso.\n\nComo o vendedor que se acha o melhor e nunca olha o relatório.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18012466448776265",
+        "publicado_em": "2026-11-13T22:42:37.839957-03:00"
       },
       "facebook": {
         "legenda": "Antes de colocar dinheiro num negócio que você jura que é certo, faz três perguntas.\n\nElas vêm do livro A Sutil Arte, do Mark Manson.\n\nE cuidado: quanto mais algo ameaça quem você acha que é, mais você foge disso.\n\nComo o vendedor que se acha o melhor e nunca olha o relatório.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4428260603984817",
+        "publicado_em": "2026-11-13T22:42:48.275075-03:00"
+      },
+      "concluido_em": "2026-11-13T22:42:48.284341-03:00"
     },
     {
       "id": "reel-20261114-0800-e30485d058",
