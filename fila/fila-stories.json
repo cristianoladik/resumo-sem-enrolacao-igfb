@@ -2370,7 +2370,7 @@
       "id": "story-20261114-368c5b47b5",
       "data": "2026-11-14",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 14 - O decimo terceiro.mp4",
         "sha256": "368c5b47b5de04b6ed26c799adf7f2ffdc836f969904c399fec3a8b82ee39b86",
@@ -2380,7 +2380,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-368c5b47b5-Pai-Rico-14---O-decimo-terceiro.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-368c5b47b5-Pai-Rico-14---O-decimo-terceiro.mp4",
@@ -2389,13 +2389,30 @@
             "duracao_segundos": 26.833
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18131070022853423",
+            "publish_iniciado_em": "2026-11-14T09:32:19-03:00",
+            "id": "18098243177443191",
+            "publicado_em": "2026-11-14T09:32:28-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2121686881802349",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-14T09:32:37-03:00",
+            "post_id_candidato": "1856362575498372",
+            "finish_em": "2026-11-14T09:32:42-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjE4NTYzNjI1Nzg4MzE3MDU=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1856362575498372",
+            "publicado_em": "2026-11-14T09:33:19-03:00"
+          },
+          "concluido_em": "2026-11-14T09:33:19-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-14T09:33:19-03:00"
     },
     {
       "id": "story-20261115-4674bc300f",
