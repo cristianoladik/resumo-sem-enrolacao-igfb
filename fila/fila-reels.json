@@ -6847,7 +6847,7 @@
       "id": "reel-20261114-1700-21dfee0c35",
       "data": "2026-11-14",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 14 - Estado nao e governo.mp4",
         "sha256": "21dfee0c35888845339caa8c3ae255de841a1b6ea69c3c97a895d7d5baed6a33"
@@ -6860,18 +6860,23 @@
       },
       "instagram": {
         "legenda": "Governo e Estado parecem a mesma coisa.\n\nNão são.\n\nÉ uma ideia central do livro Em Nome do Povo, do Bruno Perini.\n\nPro autor, a direção dessas moedas é uma só: pra baixo.\n\nSendo otimista, em dez anos o dinheiro perde metade do poder de compra.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18134354584705033",
+        "publicado_em": "2026-11-14T20:28:46.772828-03:00"
       },
       "facebook": {
         "legenda": "Governo e Estado parecem a mesma coisa.\n\nNão são.\n\nÉ uma ideia central do livro Em Nome do Povo, do Bruno Perini.\n\nPro autor, a direção dessas moedas é uma só: pra baixo.\n\nSendo otimista, em dez anos o dinheiro perde metade do poder de compra.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1828467438573979",
+        "publicado_em": "2026-11-14T20:28:56.007391-03:00"
+      },
+      "concluido_em": "2026-11-14T20:28:56.019418-03:00"
     },
     {
       "id": "reel-20261114-2000-a6f78ef351",
       "data": "2026-11-14",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 14 - O salario e a menor renda.mp4",
         "sha256": "a6f78ef3511077cc4ed34ed5725c35b7c5956ab88d7bd497c7dfc184215ff117"
@@ -6884,12 +6889,17 @@
       },
       "instagram": {
         "legenda": "O salário é a menor das rendas.\n\nPelo menos segundo este livro.\n\nÉ Os Códigos do Milhão, do Pablo Marçal.\n\nDa segunda turma em diante, o curso roda sozinho e vira renda passiva.\n\nPra você: pensa no que você faz uma vez e dá pra vender muitas.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18143527597619692",
+        "publicado_em": "2026-11-14T20:29:55.301105-03:00"
       },
       "facebook": {
         "legenda": "O salário é a menor das rendas.\n\nPelo menos segundo este livro.\n\nÉ Os Códigos do Milhão, do Pablo Marçal.\n\nDa segunda turma em diante, o curso roda sozinho e vira renda passiva.\n\nPra você: pensa no que você faz uma vez e dá pra vender muitas.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2861585187570372",
+        "publicado_em": "2026-11-14T20:30:04.204261-03:00"
+      },
+      "concluido_em": "2026-11-14T20:30:04.216333-03:00"
     },
     {
       "id": "reel-20261115-0800-3105807a1f",
