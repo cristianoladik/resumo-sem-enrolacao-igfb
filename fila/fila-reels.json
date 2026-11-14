@@ -6787,7 +6787,7 @@
       "id": "reel-20261114-1100-ddec305491",
       "data": "2026-11-14",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais que Dinheiro 14 - A alavancagem ao contrario.mp4",
         "sha256": "ddec3054912670b63f6579347fe90a586d1fc6f1adce427e65fc09d239b2a494"
@@ -6800,12 +6800,17 @@
       },
       "instagram": {
         "legenda": "O imóvel caiu seis por cento, e o dono perdeu trinta por cento da entrada.\n\nExemplo nosso: imóvel de duzentos e cinquenta mil com cinquenta mil de entrada.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nQuem comprou com folga e reserva atravessa a queda sem vender no prejuízo.\n\nQuem comprou no limite pode ter que vender justo na baixa.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17933875275164122",
+        "publicado_em": "2026-11-14T11:58:26.368736-03:00"
       },
       "facebook": {
         "legenda": "O imóvel caiu seis por cento, e o dono perdeu trinta por cento da entrada.\n\nExemplo nosso: imóvel de duzentos e cinquenta mil com cinquenta mil de entrada.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nQuem comprou com folga e reserva atravessa a queda sem vender no prejuízo.\n\nQuem comprou no limite pode ter que vender justo na baixa.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1669998987920596",
+        "publicado_em": "2026-11-14T11:58:37.823739-03:00"
+      },
+      "concluido_em": "2026-11-14T11:58:37.834085-03:00"
     },
     {
       "id": "reel-20261114-1400-d45694eada",
