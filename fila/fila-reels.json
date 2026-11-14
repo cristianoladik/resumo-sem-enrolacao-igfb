@@ -6817,7 +6817,7 @@
       "id": "reel-20261114-1400-d45694eada",
       "data": "2026-11-14",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro os Segredos de Quem Tem 14 - O emprego nao te deixa rico.mp4",
         "sha256": "d45694eadab3a7fe6368c9f532ff2c92cd995299041114a0114e8ee6bbb87d60"
@@ -6830,12 +6830,17 @@
       },
       "instagram": {
         "legenda": "Não é o seu emprego que vai te deixar rico.\n\nO aviso está no capítulo três de Dinheiro, os Segredos de Quem Tem, do Gustavo Cerbasi.\n\nE quanto antes começar, mais rico fica.\n\nO livro lembra: uma viagem de mil milhas começa com um simples passo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18134449999801713",
+        "publicado_em": "2026-11-14T14:37:36.248988-03:00"
       },
       "facebook": {
         "legenda": "Não é o seu emprego que vai te deixar rico.\n\nO aviso está no capítulo três de Dinheiro, os Segredos de Quem Tem, do Gustavo Cerbasi.\n\nE quanto antes começar, mais rico fica.\n\nO livro lembra: uma viagem de mil milhas começa com um simples passo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2163094717642946",
+        "publicado_em": "2026-11-14T14:37:49.110249-03:00"
+      },
+      "concluido_em": "2026-11-14T14:37:49.117994-03:00"
     },
     {
       "id": "reel-20261114-1700-21dfee0c35",
