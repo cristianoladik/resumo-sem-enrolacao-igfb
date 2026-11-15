@@ -2419,7 +2419,7 @@
       "id": "story-20261115-4674bc300f",
       "data": "2026-11-15",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 15 - A ordem dos impostos.mp4",
         "sha256": "4674bc300f5f7714a4d3f30e9c23d12889a9d05cc3f2a799b34e5323c8edabd5",
@@ -2429,7 +2429,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-4674bc300f-Pai-Rico-15---A-ordem-dos-impostos.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-4674bc300f-Pai-Rico-15---A-ordem-dos-impostos.mp4",
@@ -2438,13 +2438,30 @@
             "duracao_segundos": 30.767
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18131207608853423",
+            "publish_iniciado_em": "2026-11-15T09:31:05-03:00",
+            "id": "18173883730481560",
+            "publicado_em": "2026-11-15T09:31:14-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1647739636342075",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-15T09:31:22-03:00",
+            "post_id_candidato": "2209885106548720",
+            "finish_em": "2026-11-15T09:31:26-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjIyMDk4ODUxMDk4ODIwNTM=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2209885106548720",
+            "publicado_em": "2026-11-15T09:32:02-03:00"
+          },
+          "concluido_em": "2026-11-15T09:32:02-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-15T09:32:02-03:00"
     },
     {
       "id": "story-20261116-50ed511a41",
