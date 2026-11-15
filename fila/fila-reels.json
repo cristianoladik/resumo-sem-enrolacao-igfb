@@ -6997,7 +6997,7 @@
       "id": "reel-20261115-1700-b89aa6187e",
       "data": "2026-11-15",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "A Sutil Arte 15 - O ano do William James.mp4",
         "sha256": "b89aa6187e2d17553bfea445b5db79f922bfa803410df9d235737fa259e7d1bc"
@@ -7010,12 +7010,17 @@
       },
       "instagram": {
         "legenda": "Perto dos trinta anos, ele estava doente, sem rumo e pensando em desistir da vida.\n\nDepois, virou o pai da psicologia americana.\n\nEssa lição está no livro A Sutil Arte.\n\nÉ como no pôquer: cada um recebe as suas cartas.\n\nGanha quem joga melhor a mão que tem.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18215128054367034",
+        "publicado_em": "2026-11-15T18:57:59.375252-03:00"
       },
       "facebook": {
         "legenda": "Perto dos trinta anos, ele estava doente, sem rumo e pensando em desistir da vida.\n\nDepois, virou o pai da psicologia americana.\n\nEssa lição está no livro A Sutil Arte.\n\nÉ como no pôquer: cada um recebe as suas cartas.\n\nGanha quem joga melhor a mão que tem.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4744672072430097",
+        "publicado_em": "2026-11-15T18:58:09.988782-03:00"
+      },
+      "concluido_em": "2026-11-15T18:58:09.999120-03:00"
     },
     {
       "id": "reel-20261115-2000-7d1f6adee6",
