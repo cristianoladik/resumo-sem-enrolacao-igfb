@@ -6937,7 +6937,7 @@
       "id": "reel-20261115-1100-0850c8a357",
       "data": "2026-11-15",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Mente Milionaria 14 - Agir com medo.mp4",
         "sha256": "0850c8a357be29f4b817e1ad4fe2d9b33a0c38fbdc46ac60f73f830ea7a0bae6"
@@ -6950,18 +6950,23 @@
       },
       "instagram": {
         "legenda": "Esperar o medo passar é a maior armadilha que existe.\n\nPorque ele nunca passa.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nSe você faz o que é difícil, a vida fica fácil.\n\nQual medo tá te segurando hoje?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18149728252572074",
+        "publicado_em": "2026-11-15T14:26:25.585908-03:00"
       },
       "facebook": {
         "legenda": "Esperar o medo passar é a maior armadilha que existe.\n\nPorque ele nunca passa.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nSe você faz o que é difícil, a vida fica fácil.\n\nQual medo tá te segurando hoje?\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1126514353471981",
+        "publicado_em": "2026-11-15T14:26:39.918845-03:00"
+      },
+      "concluido_em": "2026-11-15T14:26:39.931262-03:00"
     },
     {
       "id": "reel-20261115-1400-8f6fee1042",
       "data": "2026-11-15",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m30 - Babilonia 14 - A sorte.mp4",
         "sha256": "8f6fee10422415023f50efddce5aa5dd8c2c151ad53d8c0aca2f860e2712f296"
@@ -6974,12 +6979,17 @@
       },
       "instagram": {
         "legenda": "Tem uma coisa que espanta a sorte mais que qualquer azar.\n\nE quase todo mundo faz isso toda semana.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nAs duas chances fugiram pelo mesmo motivo: deixar pra depois.\n\nA sorte segue a oportunidade.\n\nE gosta de quem age.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18121654057960759",
+        "publicado_em": "2026-11-15T14:28:31.140848-03:00"
       },
       "facebook": {
         "legenda": "Tem uma coisa que espanta a sorte mais que qualquer azar.\n\nE quase todo mundo faz isso toda semana.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nAs duas chances fugiram pelo mesmo motivo: deixar pra depois.\n\nA sorte segue a oportunidade.\n\nE gosta de quem age.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1513534294163189",
+        "publicado_em": "2026-11-15T14:28:43.923078-03:00"
+      },
+      "concluido_em": "2026-11-15T14:28:43.936243-03:00"
     },
     {
       "id": "reel-20261115-1700-b89aa6187e",
