@@ -7057,7 +7057,7 @@
       "id": "reel-20261116-0800-491eeac5f5",
       "data": "2026-11-16",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais que Dinheiro 15 - Parcela ate trinta por cento.mp4",
         "sha256": "491eeac5f5c53582a12de7be3404291400fe5934795c3dd9b0bb29c086faae0e"
@@ -7070,12 +7070,17 @@
       },
       "instagram": {
         "legenda": "Pra uma parcela de mil e setecentos, você precisa ganhar uns cinco mil e setecentos.\n\nÉ que os bancos costumam limitar a parcela a uns trinta por cento da renda.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nE antes de assinar, guarda uma reserva de alguns meses de parcela.\n\nÉ ela que segura o aperto quando a renda falha.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18056122865593517",
+        "publicado_em": "2026-11-16T09:33:30.559189-03:00"
       },
       "facebook": {
         "legenda": "Pra uma parcela de mil e setecentos, você precisa ganhar uns cinco mil e setecentos.\n\nÉ que os bancos costumam limitar a parcela a uns trinta por cento da renda.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nE antes de assinar, guarda uma reserva de alguns meses de parcela.\n\nÉ ela que segura o aperto quando a renda falha.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1470901928308992",
+        "publicado_em": "2026-11-16T09:33:43.917579-03:00"
+      },
+      "concluido_em": "2026-11-16T09:33:43.929802-03:00"
     },
     {
       "id": "reel-20261116-1100-82c23b4cd0",
