@@ -7147,7 +7147,7 @@
       "id": "reel-20261116-1700-b8d79d759d",
       "data": "2026-11-16",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 15 - A ideia de mil reais.mp4",
         "sha256": "b8d79d759d9ba5b8e2e26f394a1af0e7ff61c8727889db5194a00edaa61ec9b8"
@@ -7160,12 +7160,17 @@
       },
       "instagram": {
         "legenda": "Um milhão de reais cabe numa ideia de mil reais.\n\nA conta está no livro Os Códigos do Milhão, do Pablo Marçal.\n\nOu um acesso, como o ingresso de um evento.\n\nFaltou ideia?\n\nConversa com gente.\n\nPro livro, a ideia nasce da troca entre duas cabeças.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18653095306016526",
+        "publicado_em": "2026-11-16T18:34:55.809486-03:00"
       },
       "facebook": {
         "legenda": "Um milhão de reais cabe numa ideia de mil reais.\n\nA conta está no livro Os Códigos do Milhão, do Pablo Marçal.\n\nOu um acesso, como o ingresso de um evento.\n\nFaltou ideia?\n\nConversa com gente.\n\nPro livro, a ideia nasce da troca entre duas cabeças.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1125776960293920",
+        "publicado_em": "2026-11-16T18:35:07.865858-03:00"
+      },
+      "concluido_em": "2026-11-16T18:35:07.876229-03:00"
     },
     {
       "id": "reel-20261116-2000-e8b5401f3a",
