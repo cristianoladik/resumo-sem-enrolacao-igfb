@@ -7126,7 +7126,8 @@
         "asset": "reel-c607531591-Em-Nome-do-Povo-15---A-ficcao-em-que-todos-acreditam.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-c607531591-Em-Nome-do-Povo-15---A-ficcao-em-que-todos-acreditam.mp4",
         "sha256": "c607531591af085fa91057405be6052b088a73691e97cb3e874ca7ba42bb7cea",
-        "tamanho_bytes": 8798899
+        "tamanho_bytes": 8798899,
+        "removido_da_release_em": "2026-11-16T15:52:43.506029-03:00"
       },
       "instagram": {
         "legenda": "Tem uma ficção em que até quem não acredita em nada acredita.\n\nÉ o dinheiro, segundo o livro Em Nome do Povo, do Bruno Perini.\n\nE hoje ele é quase só número na tela.\n\nA nota só vale porque as pessoas confiam em quem emite.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
