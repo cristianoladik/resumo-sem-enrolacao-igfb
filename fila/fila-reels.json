@@ -7087,7 +7087,7 @@
       "id": "reel-20261116-1100-82c23b4cd0",
       "data": "2026-11-16",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro os Segredos de Quem Tem 15 - O bonus que nao chegou.mp4",
         "sha256": "82c23b4cd088e1477d47154049e226e88ad7dade2b58a60b347bb77c63fccff8"
@@ -7100,12 +7100,17 @@
       },
       "instagram": {
         "legenda": "Tem gente que gasta o bônus antes dele cair na conta.\n\nO livro Dinheiro, os Segredos de Quem Tem manda não fazer isso.\n\nFaz um plano de gastos com o que já entrou, e segue.\n\nSe o bônus vier, aí sim ele entra no plano.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18643134787040598",
+        "publicado_em": "2026-11-16T12:30:27.468242-03:00"
       },
       "facebook": {
         "legenda": "Tem gente que gasta o bônus antes dele cair na conta.\n\nO livro Dinheiro, os Segredos de Quem Tem manda não fazer isso.\n\nFaz um plano de gastos com o que já entrou, e segue.\n\nSe o bônus vier, aí sim ele entra no plano.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1497318352299130",
+        "publicado_em": "2026-11-16T12:30:37.646554-03:00"
+      },
+      "concluido_em": "2026-11-16T12:30:37.657139-03:00"
     },
     {
       "id": "reel-20261116-1400-c607531591",
