@@ -7117,7 +7117,7 @@
       "id": "reel-20261116-1400-c607531591",
       "data": "2026-11-16",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 15 - A ficcao em que todos acreditam.mp4",
         "sha256": "c607531591af085fa91057405be6052b088a73691e97cb3e874ca7ba42bb7cea"
@@ -7130,12 +7130,17 @@
       },
       "instagram": {
         "legenda": "Tem uma ficção em que até quem não acredita em nada acredita.\n\nÉ o dinheiro, segundo o livro Em Nome do Povo, do Bruno Perini.\n\nE hoje ele é quase só número na tela.\n\nA nota só vale porque as pessoas confiam em quem emite.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18134313928686460",
+        "publicado_em": "2026-11-16T15:52:29.498865-03:00"
       },
       "facebook": {
         "legenda": "Tem uma ficção em que até quem não acredita em nada acredita.\n\nÉ o dinheiro, segundo o livro Em Nome do Povo, do Bruno Perini.\n\nE hoje ele é quase só número na tela.\n\nA nota só vale porque as pessoas confiam em quem emite.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1188937463467303",
+        "publicado_em": "2026-11-16T15:52:40.957868-03:00"
+      },
+      "concluido_em": "2026-11-16T15:52:40.967236-03:00"
     },
     {
       "id": "reel-20261116-1700-b8d79d759d",
