@@ -7027,7 +7027,7 @@
       "id": "reel-20261115-2000-7d1f6adee6",
       "data": "2026-11-15",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Como Fazer Amigos 15 - O cantor que nao queria cantar.mp4",
         "sha256": "7d1f6adee66c66c5ecc6620cff4bb09891d86e8e9b8173f854aabb70f911cbc0"
@@ -7040,12 +7040,17 @@
       },
       "instagram": {
         "legenda": "Um cantor vivia dizendo que não ia cantar.\n\nE o empresário dele concordava.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nPrincípio dezoito: mostre compreensão pelas ideias e vontades do outro.\n\nCliente difícil?\n\nUm eu entendo você desarma muita briga.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18110867306358612",
+        "publicado_em": "2026-11-15T22:37:23.258980-03:00"
       },
       "facebook": {
         "legenda": "Um cantor vivia dizendo que não ia cantar.\n\nE o empresário dele concordava.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nPrincípio dezoito: mostre compreensão pelas ideias e vontades do outro.\n\nCliente difícil?\n\nUm eu entendo você desarma muita briga.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1142564451482791",
+        "publicado_em": "2026-11-15T22:37:36.559073-03:00"
+      },
+      "concluido_em": "2026-11-15T22:37:36.566574-03:00"
     },
     {
       "id": "reel-20261116-0800-491eeac5f5",
