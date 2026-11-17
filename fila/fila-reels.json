@@ -7267,7 +7267,7 @@
       "id": "reel-20261117-1400-7d830140ad",
       "data": "2026-11-17",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais que Dinheiro 16 - Aluguel mais consorcio.mp4",
         "sha256": "7d830140ad07936b1f1da1bd61cce0240485a5052218da6efa668887845946d1"
@@ -7280,12 +7280,17 @@
       },
       "instagram": {
         "legenda": "Dois mil e setecentos por mês, e a casa ainda não chegou.\n\nExemplo nosso: aluguel de mil e quinhentos, mais um consórcio de mil e duzentos.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nEscolhe pelo seu prazo e pelo seu bolso.\n\nNão pela propaganda.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18121014920079958",
+        "publicado_em": "2026-11-17T16:27:02.913709-03:00"
       },
       "facebook": {
         "legenda": "Dois mil e setecentos por mês, e a casa ainda não chegou.\n\nExemplo nosso: aluguel de mil e quinhentos, mais um consórcio de mil e duzentos.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nEscolhe pelo seu prazo e pelo seu bolso.\n\nNão pela propaganda.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1869094450949251",
+        "publicado_em": "2026-11-17T16:27:18.824158-03:00"
+      },
+      "concluido_em": "2026-11-17T16:27:18.833684-03:00"
     },
     {
       "id": "reel-20261117-1700-8206076b17",
