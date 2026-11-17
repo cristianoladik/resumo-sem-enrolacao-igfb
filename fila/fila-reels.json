@@ -7207,7 +7207,7 @@
       "id": "reel-20261117-0800-6b5a84309b",
       "data": "2026-11-17",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "A Sutil Arte 16 - Demitido na crise.mp4",
         "sha256": "6b5a84309b7a4abeb9042ee86e37e1f5df3ff61687bcbb7a4cc4b6deee50800f"
@@ -7220,12 +7220,17 @@
       },
       "instagram": {
         "legenda": "A empresa te demitiu na crise.\n\nA culpa não é sua.\n\nMas o próximo emprego, ou o próximo cliente, é responsabilidade sua.\n\nEssa lição está no livro A Sutil Arte.\n\nA culpa é dele, mas achar outra saída é com você.\n\nÉ como no pôquer: quem ganha é quem joga melhor a mão que tem.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17940576960128076",
+        "publicado_em": "2026-11-17T09:31:53.433708-03:00"
       },
       "facebook": {
         "legenda": "A empresa te demitiu na crise.\n\nA culpa não é sua.\n\nMas o próximo emprego, ou o próximo cliente, é responsabilidade sua.\n\nEssa lição está no livro A Sutil Arte.\n\nA culpa é dele, mas achar outra saída é com você.\n\nÉ como no pôquer: quem ganha é quem joga melhor a mão que tem.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1829772778232914",
+        "publicado_em": "2026-11-17T09:32:03.715582-03:00"
+      },
+      "concluido_em": "2026-11-17T09:32:03.728548-03:00"
     },
     {
       "id": "reel-20261117-1100-44bcf2067a",
