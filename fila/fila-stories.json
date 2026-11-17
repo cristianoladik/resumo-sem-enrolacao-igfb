@@ -2517,7 +2517,7 @@
       "id": "story-20261117-9490c15e97",
       "data": "2026-11-17",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 16 - Comprar na crise.mp4",
         "sha256": "9490c15e974baa15e3ec2858a4341b551752711761fd55f00700f44af03dc165",
@@ -2527,7 +2527,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-9490c15e97-Pai-Rico-16---Comprar-na-crise.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-9490c15e97-Pai-Rico-16---Comprar-na-crise.mp4",
@@ -2536,13 +2536,30 @@
             "duracao_segundos": 29.767
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18131504215853423",
+            "publish_iniciado_em": "2026-11-17T09:33:17-03:00",
+            "id": "18154268272519794",
+            "publicado_em": "2026-11-17T09:33:26-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1648641293226234",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-17T09:33:32-03:00",
+            "post_id_candidato": "1703660518085846",
+            "finish_em": "2026-11-17T09:33:37-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjE3MDM2NjA1MjQ3NTI1MTI=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1703660518085846",
+            "publicado_em": "2026-11-17T09:34:14-03:00"
+          },
+          "concluido_em": "2026-11-17T09:34:14-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-17T09:34:14-03:00"
     },
     {
       "id": "story-20261118-c0677df069",
