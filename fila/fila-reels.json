@@ -7297,7 +7297,7 @@
       "id": "reel-20261117-1700-8206076b17",
       "data": "2026-11-17",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro os Segredos de Quem Tem 16 - Os sete mandamentos.mp4",
         "sha256": "8206076b17b58a60797c2fcce16d4537251c68c7cc7f368b151bfc09ae150706"
@@ -7310,12 +7310,17 @@
       },
       "instagram": {
         "legenda": "Sete regras pra quem já começou a investir.\n\nSão os sete mandamentos do livro Dinheiro, os Segredos de Quem Tem, do Gustavo Cerbasi.\n\nSete: ajusta o padrão de vida pro investimento caber.\n\nMas sem cortar o lazer e o cuidado pessoal.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18174713914461934",
+        "publicado_em": "2026-11-17T17:25:06.124428-03:00"
       },
       "facebook": {
         "legenda": "Sete regras pra quem já começou a investir.\n\nSão os sete mandamentos do livro Dinheiro, os Segredos de Quem Tem, do Gustavo Cerbasi.\n\nSete: ajusta o padrão de vida pro investimento caber.\n\nMas sem cortar o lazer e o cuidado pessoal.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1885601862878097",
+        "publicado_em": "2026-11-17T17:25:16.258890-03:00"
+      },
+      "concluido_em": "2026-11-17T17:25:16.266894-03:00"
     },
     {
       "id": "reel-20261117-2000-1d62b15b26",
