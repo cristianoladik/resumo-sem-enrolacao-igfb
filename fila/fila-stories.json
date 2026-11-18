@@ -2582,7 +2582,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-c0677df069-Mente-Milionaria-17---Patrimonio.mp4",
             "sha256": "c0677df06924ef8e1c50841954984b1f5bffad54ad5d395b0dd0023310504c35",
             "tamanho_bytes": 6426573,
-            "duracao_segundos": 26.3
+            "duracao_segundos": 26.3,
+            "removido_da_release_em": "2026-11-18T09:32:27.712784-03:00"
           },
           "instagram": {
             "status": "publicado",
