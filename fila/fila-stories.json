@@ -2566,7 +2566,7 @@
       "id": "story-20261118-c0677df069",
       "data": "2026-11-18",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 17 - Patrimonio.mp4",
         "sha256": "c0677df06924ef8e1c50841954984b1f5bffad54ad5d395b0dd0023310504c35",
@@ -2576,7 +2576,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-c0677df069-Mente-Milionaria-17---Patrimonio.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-c0677df069-Mente-Milionaria-17---Patrimonio.mp4",
@@ -2585,13 +2585,30 @@
             "duracao_segundos": 26.3
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18131590516853423",
+            "publish_iniciado_em": "2026-11-18T09:31:25-03:00",
+            "id": "18237904045321471",
+            "publicado_em": "2026-11-18T09:31:35-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1577384374154865",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-18T09:31:42-03:00",
+            "post_id_candidato": "939610035755015",
+            "finish_em": "2026-11-18T09:31:48-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjkzOTYxMDA0NTc1NTAxNA==/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "939610035755015",
+            "publicado_em": "2026-11-18T09:32:25-03:00"
+          },
+          "concluido_em": "2026-11-18T09:32:25-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-18T09:32:25-03:00"
     },
     {
       "id": "story-20261119-23bcab84c6",
