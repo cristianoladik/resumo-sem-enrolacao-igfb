@@ -7417,7 +7417,7 @@
       "id": "reel-20261118-1400-015e66c000",
       "data": "2026-11-18",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "A Sutil Arte 17 - O guardanapo do Picasso.mp4",
         "sha256": "015e66c0009cb0c4b36bb26a6f8a002fe71cd2b51bf57de4e3712e6fad58d07a"
@@ -7430,12 +7430,17 @@
       },
       "instagram": {
         "legenda": "O Picasso cobrou uma fortuna por um rabisco num guardanapo.\n\nEle desenhava num café quando uma mulher pediu pra ficar com o desenho.\n\nEssa lição está no livro A Sutil Arte.\n\nPro livro, o fracasso é o caminho.\n\nO tamanho do seu sucesso depende de quantas vezes você topa falhar.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18103760747368844",
+        "publicado_em": "2026-11-18T15:07:59.540668-03:00"
       },
       "facebook": {
         "legenda": "O Picasso cobrou uma fortuna por um rabisco num guardanapo.\n\nEle desenhava num café quando uma mulher pediu pra ficar com o desenho.\n\nEssa lição está no livro A Sutil Arte.\n\nPro livro, o fracasso é o caminho.\n\nO tamanho do seu sucesso depende de quantas vezes você topa falhar.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1551205926770645",
+        "publicado_em": "2026-11-18T15:08:08.786972-03:00"
+      },
+      "concluido_em": "2026-11-18T15:08:08.794594-03:00"
     },
     {
       "id": "reel-20261118-1700-2c3f225e4f",
