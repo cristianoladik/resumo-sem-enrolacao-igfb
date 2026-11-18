@@ -7357,7 +7357,7 @@
       "id": "reel-20261118-0800-c81255ab32",
       "data": "2026-11-18",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 16 - O boi que todo mundo tem.mp4",
         "sha256": "c81255ab32a049c71e2a96bc2f302815493a7779b5738f378ad7c904c77841e3"
@@ -7370,12 +7370,17 @@
       },
       "instagram": {
         "legenda": "Quase todo mundo escolhe o boi Nelore.\n\nPorque todo mundo tem.\n\nNo livro Os Códigos do Milhão, o Pablo Marçal escolheria outro.\n\nUma grande distribuidora que ele conhece lucra só um por cento.\n\nPra você: antes de investir, pergunta quanto tempo o dinheiro leva pra voltar.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18122756477087449",
+        "publicado_em": "2026-11-18T09:33:41.240059-03:00"
       },
       "facebook": {
         "legenda": "Quase todo mundo escolhe o boi Nelore.\n\nPorque todo mundo tem.\n\nNo livro Os Códigos do Milhão, o Pablo Marçal escolheria outro.\n\nUma grande distribuidora que ele conhece lucra só um por cento.\n\nPra você: antes de investir, pergunta quanto tempo o dinheiro leva pra voltar.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1180943804609676",
+        "publicado_em": "2026-11-18T09:33:50.380550-03:00"
+      },
+      "concluido_em": "2026-11-18T09:33:50.389882-03:00"
     },
     {
       "id": "reel-20261118-1100-9da4b45609",
