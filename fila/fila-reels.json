@@ -7327,7 +7327,7 @@
       "id": "reel-20261117-2000-1d62b15b26",
       "data": "2026-11-17",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 16 - Converse com os mortos.mp4",
         "sha256": "1d62b15b261e358323d288f69d043fe161fa7a721ea14656862e25348db52afe"
@@ -7340,12 +7340,17 @@
       },
       "instagram": {
         "legenda": "Um oráculo mandou um filósofo conversar com os mortos.\n\nO filósofo era Zenão, e ele queria saber como virar sábio.\n\nEssa lição está no livro Em Nome do Povo.\n\nE ele conta que leu cada página do próprio livro umas dez vezes antes de publicar.\n\nPra ele, rede social é fast-food.\n\nO livro foi comida feita em fogo baixo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17926476363216750",
+        "publicado_em": "2026-11-17T22:46:31.182175-03:00"
       },
       "facebook": {
         "legenda": "Um oráculo mandou um filósofo conversar com os mortos.\n\nO filósofo era Zenão, e ele queria saber como virar sábio.\n\nEssa lição está no livro Em Nome do Povo.\n\nE ele conta que leu cada página do próprio livro umas dez vezes antes de publicar.\n\nPra ele, rede social é fast-food.\n\nO livro foi comida feita em fogo baixo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1789988642234456",
+        "publicado_em": "2026-11-17T22:46:40.316242-03:00"
+      },
+      "concluido_em": "2026-11-17T22:46:40.327296-03:00"
     },
     {
       "id": "reel-20261118-0800-c81255ab32",
