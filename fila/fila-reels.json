@@ -7507,7 +7507,7 @@
       "id": "reel-20261119-0800-af5264b0f1",
       "data": "2026-11-19",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro os Segredos de Quem Tem 17 - O dinheiro nao traz felicidade.mp4",
         "sha256": "af5264b0f115c1f7e263b1a46603c41b114faab9fcc820c489d2ee19ccb772bf"
@@ -7520,12 +7520,17 @@
       },
       "instagram": {
         "legenda": "Um livro de finanças que começa dizendo: o dinheiro não traz felicidade.\n\nÉ o nome do primeiro capítulo de Dinheiro, os Segredos de Quem Tem, do Gustavo Cerbasi.\n\nPro Cerbasi, a felicidade se faz no dia a dia.\n\nO dinheiro só dá os meios.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18456900160132586",
+        "publicado_em": "2026-11-19T09:31:24.328755-03:00"
       },
       "facebook": {
         "legenda": "Um livro de finanças que começa dizendo: o dinheiro não traz felicidade.\n\nÉ o nome do primeiro capítulo de Dinheiro, os Segredos de Quem Tem, do Gustavo Cerbasi.\n\nPro Cerbasi, a felicidade se faz no dia a dia.\n\nO dinheiro só dá os meios.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1023065154160077",
+        "publicado_em": "2026-11-19T09:31:35.419121-03:00"
+      },
+      "concluido_em": "2026-11-19T09:31:35.432010-03:00"
     },
     {
       "id": "reel-20261119-1100-5695d925a6",
