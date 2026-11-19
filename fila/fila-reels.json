@@ -7567,7 +7567,7 @@
       "id": "reel-20261119-1400-6a1ed436c9",
       "data": "2026-11-19",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 17 - O jeans pelo triplo.mp4",
         "sha256": "6a1ed436c92ebee124ded039c6d3338a2d6b2bdaff4e3c132791344296aa9118"
@@ -7580,12 +7580,17 @@
       },
       "instagram": {
         "legenda": "Mesma calça jeans, feita nas mesmas confecções.\n\nUm vendia pelo triplo.\n\nA história está no livro Os Códigos do Milhão, do Pablo Marçal.\n\nConhecimento tem preço.\n\nDá de graça só o que transborda.\n\nPra você: coloca um preço na sua hora de trabalho.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18073666799503666",
+        "publicado_em": "2026-11-19T16:54:15.657414-03:00"
       },
       "facebook": {
         "legenda": "Mesma calça jeans, feita nas mesmas confecções.\n\nUm vendia pelo triplo.\n\nA história está no livro Os Códigos do Milhão, do Pablo Marçal.\n\nConhecimento tem preço.\n\nDá de graça só o que transborda.\n\nPra você: coloca um preço na sua hora de trabalho.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "28069122339431143",
+        "publicado_em": "2026-11-19T16:54:26.322322-03:00"
+      },
+      "concluido_em": "2026-11-19T16:54:26.332787-03:00"
     },
     {
       "id": "reel-20261119-1700-b3ccfc9618",
