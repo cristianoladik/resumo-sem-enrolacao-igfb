@@ -7537,7 +7537,7 @@
       "id": "reel-20261119-1100-5695d925a6",
       "data": "2026-11-19",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 17 - Um livro que da pouco dinheiro.mp4",
         "sha256": "5695d925a60cc3c0c1c681b151fb88786714fd854a75d7fe0634cbcb111bae3b"
@@ -7550,12 +7550,17 @@
       },
       "instagram": {
         "legenda": "Um investidor escreveu um livro sabendo que ia ganhar pouco com ele.\n\nO livro é Em Nome do Povo, do Bruno Perini.\n\nO livro saiu pela editora Citadel, no fim de 2024.\n\nSão cento e sessenta páginas, numa linguagem simples.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18388807687239393",
+        "publicado_em": "2026-11-19T12:37:37.253734-03:00"
       },
       "facebook": {
         "legenda": "Um investidor escreveu um livro sabendo que ia ganhar pouco com ele.\n\nO livro é Em Nome do Povo, do Bruno Perini.\n\nO livro saiu pela editora Citadel, no fim de 2024.\n\nSão cento e sessenta páginas, numa linguagem simples.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1120132967473128",
+        "publicado_em": "2026-11-19T12:37:49.511871-03:00"
+      },
+      "concluido_em": "2026-11-19T12:37:49.522749-03:00"
     },
     {
       "id": "reel-20261119-1400-6a1ed436c9",
