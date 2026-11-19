@@ -7546,7 +7546,8 @@
         "asset": "reel-5695d925a6-Em-Nome-do-Povo-17---Um-livro-que-da-pouco-dinheiro.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/reel-5695d925a6-Em-Nome-do-Povo-17---Um-livro-que-da-pouco-dinheiro.mp4",
         "sha256": "5695d925a60cc3c0c1c681b151fb88786714fd854a75d7fe0634cbcb111bae3b",
-        "tamanho_bytes": 8556605
+        "tamanho_bytes": 8556605,
+        "removido_da_release_em": "2026-11-19T12:37:52.213556-03:00"
       },
       "instagram": {
         "legenda": "Um investidor escreveu um livro sabendo que ia ganhar pouco com ele.\n\nO livro é Em Nome do Povo, do Bruno Perini.\n\nO livro saiu pela editora Citadel, no fim de 2024.\n\nSão cento e sessenta páginas, numa linguagem simples.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
