@@ -2615,7 +2615,7 @@
       "id": "story-20261119-23bcab84c6",
       "data": "2026-11-19",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 17 - Garimpar oportunidade.mp4",
         "sha256": "23bcab84c6fa35ba46aefd39fc7f16c3123b5a6af2df787475707c57938706d6",
@@ -2625,7 +2625,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-23bcab84c6-Pai-Rico-17---Garimpar-oportunidade.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-23bcab84c6-Pai-Rico-17---Garimpar-oportunidade.mp4",
@@ -2634,13 +2634,30 @@
             "duracao_segundos": 29.333
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18131695405853423",
+            "publish_iniciado_em": "2026-11-19T09:33:00-03:00",
+            "id": "18352998370266777",
+            "publicado_em": "2026-11-19T09:33:07-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2645766789222215",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-19T09:33:13-03:00",
+            "post_id_candidato": "1435713035290680",
+            "finish_em": "2026-11-19T09:33:18-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjE0MzU3MTMwNDE5NTczNDY=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1435713035290680",
+            "publicado_em": "2026-11-19T09:33:54-03:00"
+          },
+          "concluido_em": "2026-11-19T09:33:54-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-19T09:33:54-03:00"
     },
     {
       "id": "story-20261120-f852cf083c",
