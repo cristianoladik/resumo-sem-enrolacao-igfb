@@ -7477,7 +7477,7 @@
       "id": "reel-20261118-2000-0ea182f0a3",
       "data": "2026-11-18",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais que Dinheiro 17 - Consorcio sem juros.mp4",
         "sha256": "0ea182f0a39748303dcd5c5ef36f37d61aaa8b6511e12a4b012b47440d7253fa"
@@ -7490,12 +7490,17 @@
       },
       "instagram": {
         "legenda": "Consórcio não tem juros.\n\nEntão é sempre melhor que financiamento?\n\nNão é tão simples.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nFinanciamento serve pra quem precisa do imóvel agora e aguenta pagar os juros.\n\nConsórcio, pra quem não tem pressa e já tem onde morar.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18213377581317093",
+        "publicado_em": "2026-11-18T21:18:03.992867-03:00"
       },
       "facebook": {
         "legenda": "Consórcio não tem juros.\n\nEntão é sempre melhor que financiamento?\n\nNão é tão simples.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nFinanciamento serve pra quem precisa do imóvel agora e aguenta pagar os juros.\n\nConsórcio, pra quem não tem pressa e já tem onde morar.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2632762343813754",
+        "publicado_em": "2026-11-18T21:18:14.973260-03:00"
+      },
+      "concluido_em": "2026-11-18T21:18:14.985095-03:00"
     },
     {
       "id": "reel-20261119-0800-af5264b0f1",
