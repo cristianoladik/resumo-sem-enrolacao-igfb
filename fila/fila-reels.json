@@ -7717,7 +7717,7 @@
       "id": "reel-20261120-1400-a3c6ddb222",
       "data": "2026-11-20",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Como Fazer Amigos 18 - Um numero escrito no chao.mp4",
         "sha256": "a3c6ddb222369dedfc3fa539fe5a93aa2c268b8b94b876b86b5b4d3669297fe9"
@@ -7730,12 +7730,17 @@
       },
       "instagram": {
         "legenda": "Um número escrito com giz no chão fez uma equipe produzir muito mais.\n\nNuma usina de aço, o gerente já tinha tentado de tudo.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nNinguém gosta de perder pro colega.\n\nPlacar visível faz a equipe correr sozinha.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17969290743227579",
+        "publicado_em": "2026-11-20T16:34:02.617817-03:00"
       },
       "facebook": {
         "legenda": "Um número escrito com giz no chão fez uma equipe produzir muito mais.\n\nNuma usina de aço, o gerente já tinha tentado de tudo.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nNinguém gosta de perder pro colega.\n\nPlacar visível faz a equipe correr sozinha.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2327714418010550",
+        "publicado_em": "2026-11-20T16:34:13.396259-03:00"
+      },
+      "concluido_em": "2026-11-20T16:34:13.405704-03:00"
     },
     {
       "id": "reel-20261120-1700-14f346b0fc",
