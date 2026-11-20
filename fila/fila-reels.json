@@ -7747,7 +7747,7 @@
       "id": "reel-20261120-1700-14f346b0fc",
       "data": "2026-11-20",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais que Dinheiro 18 - Patrimonio de noventa mil.mp4",
         "sha256": "14f346b0fca8ecda8d91a0c728d7a539f35ff3b4b048e430c545a946bd26b627"
@@ -7760,12 +7760,17 @@
       },
       "instagram": {
         "legenda": "Ele ainda deve cento e oitenta mil, e já tem noventa mil de patrimônio.\n\nExemplo nosso: o imóvel financiado hoje vale duzentos e setenta mil.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nE o imóvel pode valorizar com o tempo.\n\nPor trás, a mesma regra: dívida que compra ativo, dentro do que o bolso aguenta.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17964919430998715",
+        "publicado_em": "2026-11-20T18:00:42.420652-03:00"
       },
       "facebook": {
         "legenda": "Ele ainda deve cento e oitenta mil, e já tem noventa mil de patrimônio.\n\nExemplo nosso: o imóvel financiado hoje vale duzentos e setenta mil.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nE o imóvel pode valorizar com o tempo.\n\nPor trás, a mesma regra: dívida que compra ativo, dentro do que o bolso aguenta.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1369488141833113",
+        "publicado_em": "2026-11-20T18:00:51.516433-03:00"
+      },
+      "concluido_em": "2026-11-20T18:00:51.529080-03:00"
     },
     {
       "id": "reel-20261120-2000-92f2bd2b81",
