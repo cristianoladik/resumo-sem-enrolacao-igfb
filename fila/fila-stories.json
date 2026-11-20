@@ -2664,7 +2664,7 @@
       "id": "story-20261120-f852cf083c",
       "data": "2026-11-20",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 18 - Quando eu tiver mais eu organizo.mp4",
         "sha256": "f852cf083cf923f3c582a745f860975a85ffac71aa464d61bd61630f4bee1e29",
@@ -2674,7 +2674,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-f852cf083c-Mente-Milionaria-18---Quando-eu-tiver-mais-eu-organizo.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-f852cf083c-Mente-Milionaria-18---Quando-eu-tiver-mais-eu-organizo.mp4",
@@ -2683,13 +2683,30 @@
             "duracao_segundos": 28.933
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18131793337853423",
+            "publish_iniciado_em": "2026-11-20T09:33:07-03:00",
+            "id": "17953618041057295",
+            "publicado_em": "2026-11-20T09:33:15-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1885798592760488",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-20T09:33:20-03:00",
+            "post_id_candidato": "1453449032967468",
+            "finish_em": "2026-11-20T09:33:24-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjE0NTM0NDkwMzYzMDA4MDE=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1453449032967468",
+            "publicado_em": "2026-11-20T09:34:00-03:00"
+          },
+          "concluido_em": "2026-11-20T09:34:00-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-20T09:34:00-03:00"
     },
     {
       "id": "story-20261121-69ae5e0054",
