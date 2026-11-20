@@ -7687,7 +7687,7 @@
       "id": "reel-20261120-1100-fc7b2b58e1",
       "data": "2026-11-20",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "A Sutil Arte 18 - Vinte propostas e dezessete naos.mp4",
         "sha256": "fc7b2b58e1b63687b57bca4c0af09b2f9ce6ce684db3ebfd3d07ed9e4d792a4b"
@@ -7700,12 +7700,17 @@
       },
       "instagram": {
         "legenda": "Dezessete nãos no mês não quer dizer que você fracassou.\n\nQuem explica é o livro A Sutil Arte, do Mark Manson.\n\nEle diz que começar lá embaixo foi sorte: dali só dava pra subir.\n\nEntão, no próximo não, lembra: ele faz parte da conta.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18201925312390127",
+        "publicado_em": "2026-11-20T12:16:01.902800-03:00"
       },
       "facebook": {
         "legenda": "Dezessete nãos no mês não quer dizer que você fracassou.\n\nQuem explica é o livro A Sutil Arte, do Mark Manson.\n\nEle diz que começar lá embaixo foi sorte: dali só dava pra subir.\n\nEntão, no próximo não, lembra: ele faz parte da conta.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1777040550261504",
+        "publicado_em": "2026-11-20T12:16:11.586225-03:00"
+      },
+      "concluido_em": "2026-11-20T12:16:11.598630-03:00"
     },
     {
       "id": "reel-20261120-1400-a3c6ddb222",
