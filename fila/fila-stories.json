@@ -2680,7 +2680,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-f852cf083c-Mente-Milionaria-18---Quando-eu-tiver-mais-eu-organizo.mp4",
             "sha256": "f852cf083cf923f3c582a745f860975a85ffac71aa464d61bd61630f4bee1e29",
             "tamanho_bytes": 7033327,
-            "duracao_segundos": 28.933
+            "duracao_segundos": 28.933,
+            "removido_da_release_em": "2026-11-20T09:34:02.498985-03:00"
           },
           "instagram": {
             "status": "publicado",
