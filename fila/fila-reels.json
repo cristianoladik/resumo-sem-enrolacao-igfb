@@ -7807,7 +7807,7 @@
       "id": "reel-20261121-0800-6873ab4c46",
       "data": "2026-11-21",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 18 - O cliente nao paga pelo suor.mp4",
         "sha256": "6873ab4c46a463161660a3367c54ec14e57d63bd975031ec7e8eadc0edea49cc"
@@ -7820,12 +7820,17 @@
       },
       "instagram": {
         "legenda": "Seu cliente não paga pelo seu suor.\n\nEssa lição aparece logo no começo do livro Em Nome do Povo, do Bruno Perini.\n\nMas consumir é sempre mais rápido do que produzir.\n\nE o preço de quase tudo sobe junto.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18379774825213351",
+        "publicado_em": "2026-11-21T09:31:10.340010-03:00"
       },
       "facebook": {
         "legenda": "Seu cliente não paga pelo seu suor.\n\nEssa lição aparece logo no começo do livro Em Nome do Povo, do Bruno Perini.\n\nMas consumir é sempre mais rápido do que produzir.\n\nE o preço de quase tudo sobe junto.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1635964688024312",
+        "publicado_em": "2026-11-21T09:31:20.880784-03:00"
+      },
+      "concluido_em": "2026-11-21T09:31:20.891409-03:00"
     },
     {
       "id": "reel-20261121-1100-cf7eed88f9",
