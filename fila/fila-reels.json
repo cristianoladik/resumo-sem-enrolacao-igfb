@@ -7897,7 +7897,7 @@
       "id": "reel-20261121-1700-240e02fbaf",
       "data": "2026-11-21",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Pai Rico 18 - O timido que foi vender.mp4",
         "sha256": "240e02fbafe78575913460ce598c70350fabe6bfd1da21a8f7f75547575b51cb"
@@ -7910,12 +7910,17 @@
       },
       "instagram": {
         "legenda": "Ele era tímido.\n\nE foi vender de porta em porta de propósito.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nA pergunta não é só quanto eu ganho aqui.\n\nÉ o que eu tô aprendendo aqui.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18137737636671321",
+        "publicado_em": "2026-11-21T17:28:31.131506-03:00"
       },
       "facebook": {
         "legenda": "Ele era tímido.\n\nE foi vender de porta em porta de propósito.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nA pergunta não é só quanto eu ganho aqui.\n\nÉ o que eu tô aprendendo aqui.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1759101968514134",
+        "publicado_em": "2026-11-21T17:28:46.246227-03:00"
+      },
+      "concluido_em": "2026-11-21T17:28:46.258481-03:00"
     },
     {
       "id": "reel-20261121-2000-c46afeddc3",
