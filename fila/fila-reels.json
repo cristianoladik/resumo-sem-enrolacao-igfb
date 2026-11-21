@@ -7837,7 +7837,7 @@
       "id": "reel-20261121-1100-cf7eed88f9",
       "data": "2026-11-21",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 18 - Perguntaram quanto voce ganha.mp4",
         "sha256": "cf7eed88f9dca238fa09c5f7c2569ca27ed5fb1dfc145e33e42ada2528a28090"
@@ -7850,12 +7850,17 @@
       },
       "instagram": {
         "legenda": "Perguntaram quanto você ganha?\n\nNão responde.\n\nDevolve outra pergunta, com um sorriso.\n\nÉ a extração de diamantes, do livro Os Códigos do Milhão, do Pablo Marçal.\n\nPro livro, umas cinco perguntas bastam pra chegar no diamante.\n\nPra você: na próxima compra, faz três perguntas ao vendedor antes de falar em preço.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18101812229412422",
+        "publicado_em": "2026-11-21T11:30:14.767934-03:00"
       },
       "facebook": {
         "legenda": "Perguntaram quanto você ganha?\n\nNão responde.\n\nDevolve outra pergunta, com um sorriso.\n\nÉ a extração de diamantes, do livro Os Códigos do Milhão, do Pablo Marçal.\n\nPro livro, umas cinco perguntas bastam pra chegar no diamante.\n\nPra você: na próxima compra, faz três perguntas ao vendedor antes de falar em preço.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2586925755138988",
+        "publicado_em": "2026-11-21T11:30:23.270927-03:00"
+      },
+      "concluido_em": "2026-11-21T11:30:23.280565-03:00"
     },
     {
       "id": "reel-20261121-1400-faccd4ab56",
