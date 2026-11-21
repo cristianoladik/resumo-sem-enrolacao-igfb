@@ -7777,7 +7777,7 @@
       "id": "reel-20261120-2000-92f2bd2b81",
       "data": "2026-11-20",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro os Segredos de Quem Tem 18 - Divida nao e o problema.mp4",
         "sha256": "92f2bd2b81118250afdf2ab0d9866d1d891f88968d615df348f8e4c644e8061b"
@@ -7790,12 +7790,17 @@
       },
       "instagram": {
         "legenda": "Dívida não é o problema.\n\nQuem diz é o Gustavo Cerbasi, no livro Dinheiro, os Segredos de Quem Tem.\n\nA regra que resolve cabe numa frase.\n\nNunca pague um juro maior do que o que você recebe.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18035427152884906",
+        "publicado_em": "2026-11-20T23:07:01.827958-03:00"
       },
       "facebook": {
         "legenda": "Dívida não é o problema.\n\nQuem diz é o Gustavo Cerbasi, no livro Dinheiro, os Segredos de Quem Tem.\n\nA regra que resolve cabe numa frase.\n\nNunca pague um juro maior do que o que você recebe.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1174266035084350",
+        "publicado_em": "2026-11-20T23:07:10.135116-03:00"
+      },
+      "concluido_em": "2026-11-20T23:07:10.147635-03:00"
     },
     {
       "id": "reel-20261121-0800-6873ab4c46",
