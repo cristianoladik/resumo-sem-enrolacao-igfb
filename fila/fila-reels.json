@@ -8047,7 +8047,7 @@
       "id": "reel-20261122-1700-7e9ac2f0d7",
       "data": "2026-11-22",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro os Segredos de Quem Tem 19 - O rico faz planos.mp4",
         "sha256": "7e9ac2f0d7e9aa27b1558f176ba7aad5fc215d14e345507a15da7c06b67c24ba"
@@ -8060,12 +8060,17 @@
       },
       "instagram": {
         "legenda": "O que separa rico de pobre não é o salário.\n\nPro Gustavo Cerbasi, no livro Dinheiro, os Segredos de Quem Tem, é saber fazer planos.\n\nQuem vai te sustentar lá na frente é o seu dinheiro.\n\nE ele precisa começar a trabalhar agora.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18116239379137476",
+        "publicado_em": "2026-11-22T17:41:16.072605-03:00"
       },
       "facebook": {
         "legenda": "O que separa rico de pobre não é o salário.\n\nPro Gustavo Cerbasi, no livro Dinheiro, os Segredos de Quem Tem, é saber fazer planos.\n\nQuem vai te sustentar lá na frente é o seu dinheiro.\n\nE ele precisa começar a trabalhar agora.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1850031119484187",
+        "publicado_em": "2026-11-22T17:41:27.046013-03:00"
+      },
+      "concluido_em": "2026-11-22T17:41:27.058873-03:00"
     },
     {
       "id": "reel-20261122-2000-8d7e395c0a",
