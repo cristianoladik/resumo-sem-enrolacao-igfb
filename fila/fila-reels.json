@@ -7957,7 +7957,7 @@
       "id": "reel-20261122-0800-61e9453649",
       "data": "2026-11-22",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "A Sutil Arte 19 - Faca alguma coisa.mp4",
         "sha256": "61e9453649f3eb2c12e52cf91c2ff10a6a2d23bd62592b822df74b5d317ab496"
@@ -7970,12 +7970,17 @@
       },
       "instagram": {
         "legenda": "Sem vontade de trabalhar?\n\nVocê tá esperando na ordem errada.\n\nA gente acha que primeiro vem motivação, depois inspiração, depois ação.\n\nEssa lição está no livro A Sutil Arte.\n\nVocê age, a ação te inspira, e a inspiração te motiva a fazer mais.\n\nSem vontade de ligar pros clientes?\n\nLiga pra um só.\n\nO resto vem.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18143296801545866",
+        "publicado_em": "2026-11-22T09:31:08.861527-03:00"
       },
       "facebook": {
         "legenda": "Sem vontade de trabalhar?\n\nVocê tá esperando na ordem errada.\n\nA gente acha que primeiro vem motivação, depois inspiração, depois ação.\n\nEssa lição está no livro A Sutil Arte.\n\nVocê age, a ação te inspira, e a inspiração te motiva a fazer mais.\n\nSem vontade de ligar pros clientes?\n\nLiga pra um só.\n\nO resto vem.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1459679249477509",
+        "publicado_em": "2026-11-22T09:31:19.076095-03:00"
+      },
+      "concluido_em": "2026-11-22T09:31:19.125556-03:00"
     },
     {
       "id": "reel-20261122-1100-c20b630977",
