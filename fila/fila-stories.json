@@ -2762,7 +2762,7 @@
       "id": "story-20261122-7971dd4ddc",
       "data": "2026-11-22",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 19 - Dinheiro que trabalha.mp4",
         "sha256": "7971dd4ddc7270b7f1798f7b043ca7952010004ed79346efaac4f82f62ce17e7",
@@ -2772,7 +2772,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-7971dd4ddc-Mente-Milionaria-19---Dinheiro-que-trabalha.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-7971dd4ddc-Mente-Milionaria-19---Dinheiro-que-trabalha.mp4",
@@ -2781,13 +2781,30 @@
             "duracao_segundos": 31.3
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18132004423853423",
+            "publish_iniciado_em": "2026-11-22T09:32:35-03:00",
+            "id": "18124987153940042",
+            "publicado_em": "2026-11-22T09:32:43-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1132716539735809",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-22T09:32:48-03:00",
+            "post_id_candidato": "1515489420641532",
+            "finish_em": "2026-11-22T09:32:52-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjE1MTU0ODk0MjM5NzQ4NjU=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1515489420641532",
+            "publicado_em": "2026-11-22T09:33:28-03:00"
+          },
+          "concluido_em": "2026-11-22T09:33:28-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-22T09:33:28-03:00"
     },
     {
       "id": "story-20261123-1a1c1b7ac7",
