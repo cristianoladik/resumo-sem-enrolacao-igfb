@@ -8017,7 +8017,7 @@
       "id": "reel-20261122-1400-f9e30c4816",
       "data": "2026-11-22",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais que Dinheiro 19 - Meio ponto de juros.mp4",
         "sha256": "f9e30c481645449667b5ed67644dc93ae13a927f16445edb321b34876a1c8de2"
@@ -8030,12 +8030,17 @@
       },
       "instagram": {
         "legenda": "Meio ponto de juros pode custar vinte e quatro mil reais.\n\nExemplo nosso: duzentos mil financiados em trinta anos.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nEm trinta anos, isso vira uns vinte e quatro mil.\n\nPor isso, simula em mais de um banco antes de falar com o gerente.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17979268917151712",
+        "publicado_em": "2026-11-22T14:28:18.152675-03:00"
       },
       "facebook": {
         "legenda": "Meio ponto de juros pode custar vinte e quatro mil reais.\n\nExemplo nosso: duzentos mil financiados em trinta anos.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nEm trinta anos, isso vira uns vinte e quatro mil.\n\nPor isso, simula em mais de um banco antes de falar com o gerente.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1159102890032092",
+        "publicado_em": "2026-11-22T14:28:29.378724-03:00"
+      },
+      "concluido_em": "2026-11-22T14:28:29.390948-03:00"
     },
     {
       "id": "reel-20261122-1700-7e9ac2f0d7",
