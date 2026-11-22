@@ -2778,7 +2778,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-7971dd4ddc-Mente-Milionaria-19---Dinheiro-que-trabalha.mp4",
             "sha256": "7971dd4ddc7270b7f1798f7b043ca7952010004ed79346efaac4f82f62ce17e7",
             "tamanho_bytes": 6646447,
-            "duracao_segundos": 31.3
+            "duracao_segundos": 31.3,
+            "removido_da_release_em": "2026-11-22T09:33:30.019441-03:00"
           },
           "instagram": {
             "status": "publicado",
