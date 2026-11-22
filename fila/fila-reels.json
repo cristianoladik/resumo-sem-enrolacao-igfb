@@ -7987,7 +7987,7 @@
       "id": "reel-20261122-1100-c20b630977",
       "data": "2026-11-22",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Como Fazer Amigos 19 - Os charutos do Schwab.mp4",
         "sha256": "c20b6309770c4b2282c8ab64f7798bf89578446b9aa975229d2df05279dcdadb"
@@ -8000,12 +8000,17 @@
       },
       "instagram": {
         "legenda": "Ele pegou funcionários fumando bem embaixo de uma placa de proibido fumar.\n\nE deu um charuto pra cada um.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nPrincípio vinte e três: aponte o erro de forma indireta.\n\nNa sua equipe, em vez de dar bronca, mostra o jeito certo de fazer.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18653512342048949",
+        "publicado_em": "2026-11-22T11:26:09.138583-03:00"
       },
       "facebook": {
         "legenda": "Ele pegou funcionários fumando bem embaixo de uma placa de proibido fumar.\n\nE deu um charuto pra cada um.\n\nEssa lição está no livro Como Fazer Amigos e Influenciar Pessoas.\n\nPrincípio vinte e três: aponte o erro de forma indireta.\n\nNa sua equipe, em vez de dar bronca, mostra o jeito certo de fazer.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "918280284703688",
+        "publicado_em": "2026-11-22T11:26:18.461229-03:00"
+      },
+      "concluido_em": "2026-11-22T11:26:18.470998-03:00"
     },
     {
       "id": "reel-20261122-1400-f9e30c4816",
