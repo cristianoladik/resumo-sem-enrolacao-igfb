@@ -8137,7 +8137,7 @@
       "id": "reel-20261123-1100-e7f9e3f307",
       "data": "2026-11-23",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Mente Milionaria 19 - Dinheiro que trabalha.mp4",
         "sha256": "e7f9e3f307cc1bc964e43898b5e39c38075fe8e86ec340fa4edfbae9dcc0a8ce"
@@ -8150,18 +8150,23 @@
       },
       "instagram": {
         "legenda": "Cada real que você guarda pode virar um funcionário seu.\n\nE no final eu te mostro a conta que quem enriquece faz, e quase ninguém faz.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nLiberdade financeira.\n\nE ela começa com o primeiro real que você coloca pra trabalhar.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17948361687368957",
+        "publicado_em": "2026-11-23T14:53:17.326803-03:00"
       },
       "facebook": {
         "legenda": "Cada real que você guarda pode virar um funcionário seu.\n\nE no final eu te mostro a conta que quem enriquece faz, e quase ninguém faz.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nLiberdade financeira.\n\nE ela começa com o primeiro real que você coloca pra trabalhar.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1449893886714633",
+        "publicado_em": "2026-11-23T14:53:27.092298-03:00"
+      },
+      "concluido_em": "2026-11-23T14:53:27.104997-03:00"
     },
     {
       "id": "reel-20261123-1400-be86ae5cff",
       "data": "2026-11-23",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Pai Rico 19 - Paga voce primeiro.mp4",
         "sha256": "be86ae5cffebc778d32fbaf6b8fde485d9487e32b8b9b91a854333dc6a064e84"
@@ -8174,12 +8179,17 @@
       },
       "instagram": {
         "legenda": "Você paga todo mundo e investe o que sobra?\n\nPor isso nunca sobra.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nCom o tempo, o investimento vira ativo.\n\nE o ativo paga o luxo.\n\nQuem espera sobrar nunca investe.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18078792296475434",
+        "publicado_em": "2026-11-23T14:54:18.081805-03:00"
       },
       "facebook": {
         "legenda": "Você paga todo mundo e investe o que sobra?\n\nPor isso nunca sobra.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nCom o tempo, o investimento vira ativo.\n\nE o ativo paga o luxo.\n\nQuem espera sobrar nunca investe.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1685973863241103",
+        "publicado_em": "2026-11-23T14:54:28.720783-03:00"
+      },
+      "concluido_em": "2026-11-23T14:54:28.733932-03:00"
     },
     {
       "id": "reel-20261123-1700-5567935cf0",
