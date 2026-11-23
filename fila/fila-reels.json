@@ -8107,7 +8107,7 @@
       "id": "reel-20261123-0800-a1378341db",
       "data": "2026-11-23",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 19 - Peca as piores ideias primeiro.mp4",
         "sha256": "a1378341db42944cf98d9646c7ee0516aa198d7518ec74894dafa9195bf2d0ec"
@@ -8120,12 +8120,17 @@
       },
       "instagram": {
         "legenda": "Numa reunião de ideias, ele pede primeiro as piores.\n\nTá no livro Os Códigos do Milhão, do Pablo Marçal.\n\nE ninguém critica a ideia do outro.\n\nNinguém é dono de ideia, só do resultado.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18109839296371639",
+        "publicado_em": "2026-11-23T09:33:37.500823-03:00"
       },
       "facebook": {
         "legenda": "Numa reunião de ideias, ele pede primeiro as piores.\n\nTá no livro Os Códigos do Milhão, do Pablo Marçal.\n\nE ninguém critica a ideia do outro.\n\nNinguém é dono de ideia, só do resultado.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1678355370623617",
+        "publicado_em": "2026-11-23T09:33:50.824811-03:00"
+      },
+      "concluido_em": "2026-11-23T09:33:50.835636-03:00"
     },
     {
       "id": "reel-20261123-1100-e7f9e3f307",
