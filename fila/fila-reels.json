@@ -8077,7 +8077,7 @@
       "id": "reel-20261122-2000-8d7e395c0a",
       "data": "2026-11-22",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 19 - Comecou com cem reais.mp4",
         "sha256": "8d7e395c0adc9bfa048f5bdfd50e1f0d191be3366785262b7d81b29479540ec4"
@@ -8090,12 +8090,17 @@
       },
       "instagram": {
         "legenda": "Ele fez o primeiro investimento aos dezessete anos, com cem reais.\n\nE ficou milionário antes dos trinta.\n\nEssa lição está no livro Em Nome do Povo.\n\nSegundo a editora, foi ao topo da Amazon já na pré-venda.\n\nA ideia central: lucrar duas vezes, trabalhando e investindo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18105310217548657",
+        "publicado_em": "2026-11-22T23:33:12.277041-03:00"
       },
       "facebook": {
         "legenda": "Ele fez o primeiro investimento aos dezessete anos, com cem reais.\n\nE ficou milionário antes dos trinta.\n\nEssa lição está no livro Em Nome do Povo.\n\nSegundo a editora, foi ao topo da Amazon já na pré-venda.\n\nA ideia central: lucrar duas vezes, trabalhando e investindo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1451952080468517",
+        "publicado_em": "2026-11-22T23:33:20.527298-03:00"
+      },
+      "concluido_em": "2026-11-22T23:33:20.539780-03:00"
     },
     {
       "id": "reel-20261123-0800-a1378341db",
