@@ -2827,7 +2827,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-1a1c1b7ac7-Pai-Rico-19---Paga-voce-primeiro.mp4",
             "sha256": "1a1c1b7ac7fa88af4244f3b475aadf030efaec5b88125823e08c3cb7c4782ab9",
             "tamanho_bytes": 6071019,
-            "duracao_segundos": 27.033
+            "duracao_segundos": 27.033,
+            "removido_da_release_em": "2026-11-23T09:32:05.008450-03:00"
           },
           "instagram": {
             "status": "publicado",
