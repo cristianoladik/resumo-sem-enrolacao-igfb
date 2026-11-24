@@ -8347,7 +8347,7 @@
       "id": "reel-20261124-1700-c7674c3b08",
       "data": "2026-11-24",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 20 - A super data.mp4",
         "sha256": "c7674c3b08fefc659e36bd92ceb2bad821c35d6649ab0afd8c1e2768a983f747"
@@ -8360,12 +8360,17 @@
       },
       "instagram": {
         "legenda": "Ele marcou o dia de parar: dezessete de abril de dois mil e vinte e sete. Às dezoito horas.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nDuas receitas novas por ano, e férias uma vez por ano.\n\nNa prática: escreve a sua data e divide o caminho em dez pedaços.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18048599552834189",
+        "publicado_em": "2026-11-24T17:51:08.521525-03:00"
       },
       "facebook": {
         "legenda": "Ele marcou o dia de parar: dezessete de abril de dois mil e vinte e sete. Às dezoito horas.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nDuas receitas novas por ano, e férias uma vez por ano.\n\nNa prática: escreve a sua data e divide o caminho em dez pedaços.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1179132014640876",
+        "publicado_em": "2026-11-24T17:51:17.527759-03:00"
+      },
+      "concluido_em": "2026-11-24T17:51:17.540575-03:00"
     },
     {
       "id": "reel-20261124-2000-0f7bbefc2a",
