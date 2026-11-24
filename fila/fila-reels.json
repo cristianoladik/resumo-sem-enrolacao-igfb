@@ -8257,7 +8257,7 @@
       "id": "reel-20261124-0800-50bec117d0",
       "data": "2026-11-24",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais que Dinheiro 20 - Vai ter bolha.mp4",
         "sha256": "50bec117d09861408e69bc5b7e0cf80c5b7da966207b38cf157b80243533e15d"
@@ -8270,12 +8270,17 @@
       },
       "instagram": {
         "legenda": "Vai ter bolha imobiliária?\n\nEssa dúvida trava muita gente na hora de comprar.\n\nO livro Crédito Vale Mais que Dinheiro tem um capítulo só pra essa pergunta.\n\nÉ o risco de depender da economia ir bem, que o livro aponta.\n\nParcela folgada e reserva protegem mais do que tentar adivinhar o mercado.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17989378491105694",
+        "publicado_em": "2026-11-24T09:31:06.889480-03:00"
       },
       "facebook": {
         "legenda": "Vai ter bolha imobiliária?\n\nEssa dúvida trava muita gente na hora de comprar.\n\nO livro Crédito Vale Mais que Dinheiro tem um capítulo só pra essa pergunta.\n\nÉ o risco de depender da economia ir bem, que o livro aponta.\n\nParcela folgada e reserva protegem mais do que tentar adivinhar o mercado.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1177987041281270",
+        "publicado_em": "2026-11-24T09:31:17.422453-03:00"
+      },
+      "concluido_em": "2026-11-24T09:31:17.435578-03:00"
     },
     {
       "id": "reel-20261124-1100-948b32474f",
