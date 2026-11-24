@@ -2860,7 +2860,7 @@
       "id": "story-20261124-f8fb996e9f",
       "data": "2026-11-24",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 20 - Os 6 potes.mp4",
         "sha256": "f8fb996e9f771a0322f25fd8fe44a37e5274d162dc0ab451a6ec4c83fd6ae645",
@@ -2870,7 +2870,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-f8fb996e9f-Mente-Milionaria-20---Os-6-potes.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-f8fb996e9f-Mente-Milionaria-20---Os-6-potes.mp4",
@@ -2879,13 +2879,30 @@
             "duracao_segundos": 34.533
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18132211969853423",
+            "publish_iniciado_em": "2026-11-24T09:32:11-03:00",
+            "id": "18095040509226725",
+            "publicado_em": "2026-11-24T09:32:19-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1104496502403889",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-24T09:32:24-03:00",
+            "post_id_candidato": "3802697209893603",
+            "finish_em": "2026-11-24T09:32:29-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjM4MDI2OTcyMTk4OTM2MDI=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "3802697209893603",
+            "publicado_em": "2026-11-24T09:33:05-03:00"
+          },
+          "concluido_em": "2026-11-24T09:33:05-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-24T09:33:05-03:00"
     },
     {
       "id": "story-20261125-ca0258c4a6",
