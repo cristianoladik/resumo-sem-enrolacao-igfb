@@ -8287,7 +8287,7 @@
       "id": "reel-20261124-1100-948b32474f",
       "data": "2026-11-24",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro os Segredos de Quem Tem 20 - Nao tenho dinheiro nem tempo.mp4",
         "sha256": "948b32474f440065ed5fcad1ba0d40b86f01a40959bdc87a59e9277c82c62ae1"
@@ -8300,18 +8300,23 @@
       },
       "instagram": {
         "legenda": "Não tenho dinheiro nem tempo pra investir.\n\nPro Gustavo Cerbasi, no livro Dinheiro, os Segredos de Quem Tem, essa é a crença com menos fundamento.\n\nMesmo que a diferença seja pequena.\n\nE quanto antes começar, mais rico fica.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18103387883544714",
+        "publicado_em": "2026-11-24T14:26:16.744211-03:00"
       },
       "facebook": {
         "legenda": "Não tenho dinheiro nem tempo pra investir.\n\nPro Gustavo Cerbasi, no livro Dinheiro, os Segredos de Quem Tem, essa é a crença com menos fundamento.\n\nMesmo que a diferença seja pequena.\n\nE quanto antes começar, mais rico fica.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1150243304267607",
+        "publicado_em": "2026-11-24T14:26:29.206491-03:00"
+      },
+      "concluido_em": "2026-11-24T14:26:29.219145-03:00"
     },
     {
       "id": "reel-20261124-1400-c0384cfe40",
       "data": "2026-11-24",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 20 - Quem tem menos sente mais.mp4",
         "sha256": "c0384cfe40031c6d294cdea66cf3056a7c4bbe9a3a569e03844e9ee04492deae"
@@ -8324,12 +8329,17 @@
       },
       "instagram": {
         "legenda": "A inflação não pesa igual pra todo mundo.\n\nSegundo o livro Em Nome do Povo, do Bruno Perini, ela aumenta a desigualdade.\n\nPor isso a saída do livro é lucrar duas vezes.\n\nTrabalhar e guardar, e depois fazer o guardado render acima da inflação.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18064785197564789",
+        "publicado_em": "2026-11-24T14:27:21.788988-03:00"
       },
       "facebook": {
         "legenda": "A inflação não pesa igual pra todo mundo.\n\nSegundo o livro Em Nome do Povo, do Bruno Perini, ela aumenta a desigualdade.\n\nPor isso a saída do livro é lucrar duas vezes.\n\nTrabalhar e guardar, e depois fazer o guardado render acima da inflação.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2587567308405881",
+        "publicado_em": "2026-11-24T14:27:32.820403-03:00"
+      },
+      "concluido_em": "2026-11-24T14:27:32.832771-03:00"
     },
     {
       "id": "reel-20261124-1700-c7674c3b08",
