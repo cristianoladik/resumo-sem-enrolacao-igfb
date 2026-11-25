@@ -8437,7 +8437,7 @@
       "id": "reel-20261125-1100-f28dd46170",
       "data": "2026-11-25",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m00 - Babilonia 01 - As muralhas da Babilonia.mp4",
         "sha256": "f28dd461708865775ece406510407a2010e7da9cf32d36a85c18c28b8beeb542"
@@ -8450,18 +8450,23 @@
       },
       "instagram": {
         "legenda": "Um exército inteiro cercou a cidade mais rica do mundo.\n\nPor quase um mês.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nQuem construiu a muralha antes passa pelo cerco tranquilo.\n\nQuem não construiu perde em semanas o que levou anos pra juntar.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18115728593336421",
+        "publicado_em": "2026-11-25T14:02:44.726635-03:00"
       },
       "facebook": {
         "legenda": "Um exército inteiro cercou a cidade mais rica do mundo.\n\nPor quase um mês.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nQuem construiu a muralha antes passa pelo cerco tranquilo.\n\nQuem não construiu perde em semanas o que levou anos pra juntar.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1703456681337469",
+        "publicado_em": "2026-11-25T14:03:01.582042-03:00"
+      },
+      "concluido_em": "2026-11-25T14:03:01.594275-03:00"
     },
     {
       "id": "reel-20261125-1400-6db6e97e2d",
       "data": "2026-11-25",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m00 - Mente Milionaria 01 - Termostato do dinheiro.mp4",
         "sha256": "6db6e97e2db33831cfb559c92768d2c24a942e9110b6cbde512aaaa9487a0ad3"
@@ -8474,12 +8479,17 @@
       },
       "instagram": {
         "legenda": "Por que quem ganha na loteria, poucos anos depois, tá sem nada?\n\nNão é azar e não é falta de sorte.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nO dinheiro novo some igual ao da loteria.\n\nEntão, papo reto: antes de ganhar mais, regula o termostato.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18104062685646554",
+        "publicado_em": "2026-11-25T14:04:15.393488-03:00"
       },
       "facebook": {
         "legenda": "Por que quem ganha na loteria, poucos anos depois, tá sem nada?\n\nNão é azar e não é falta de sorte.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nO dinheiro novo some igual ao da loteria.\n\nEntão, papo reto: antes de ganhar mais, regula o termostato.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "29691277030562216",
+        "publicado_em": "2026-11-25T14:04:31.207466-03:00"
+      },
+      "concluido_em": "2026-11-25T14:04:31.219777-03:00"
     },
     {
       "id": "reel-20261125-1700-accfb70445",
