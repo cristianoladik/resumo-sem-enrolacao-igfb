@@ -2925,7 +2925,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-ca0258c4a6-Pai-Rico-20---O-que-trava-as-pessoas.mp4",
             "sha256": "ca0258c4a6a13125ccb9469062ab2ea6c265247721f10cc278e5bebccf2e57a2",
             "tamanho_bytes": 7015079,
-            "duracao_segundos": 28.833
+            "duracao_segundos": 28.833,
+            "removido_da_release_em": "2026-11-25T09:33:50.753747-03:00"
           },
           "instagram": {
             "status": "publicado",
