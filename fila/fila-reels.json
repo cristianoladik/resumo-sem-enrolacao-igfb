@@ -8617,7 +8617,7 @@
       "id": "reel-20261126-1400-c633b89353",
       "data": "2026-11-26",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Trabalhe Quatro Horas 01 - Ocupado e preguica.mp4",
         "sha256": "c633b8935338d15ac559dbf3835e7e27768f4cdfc9076b2d4d6d1250e68e794e"
@@ -8630,18 +8630,23 @@
       },
       "instagram": {
         "legenda": "Você passa o dia inteiro ocupado e mesmo assim sente que não fez nada?\n\nIsso tem explicação, e está no livro Trabalhe Quatro Horas por Semana.\n\nEssa lição está no livro Trabalhe 4 Horas por Semana.\n\nE ele se pergunta: se essa fosse a única tarefa que eu terminasse hoje, eu ficaria satisfeito?\n\nExperimenta fazer essa pergunta amanhã cedo, antes de abrir qualquer mensagem.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18058808168805885",
+        "publicado_em": "2026-11-26T17:52:34.167958-03:00"
       },
       "facebook": {
         "legenda": "Você passa o dia inteiro ocupado e mesmo assim sente que não fez nada?\n\nIsso tem explicação, e está no livro Trabalhe Quatro Horas por Semana.\n\nEssa lição está no livro Trabalhe 4 Horas por Semana.\n\nE ele se pergunta: se essa fosse a única tarefa que eu terminasse hoje, eu ficaria satisfeito?\n\nExperimenta fazer essa pergunta amanhã cedo, antes de abrir qualquer mensagem.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4619023478331699",
+        "publicado_em": "2026-11-26T17:52:44.198113-03:00"
+      },
+      "concluido_em": "2026-11-26T17:52:44.210493-03:00"
     },
     {
       "id": "reel-20261126-1700-a79bf5ee6a",
       "data": "2026-11-26",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m00 - Babilonia 02 - Bansir e Kobbi.mp4",
         "sha256": "a79bf5ee6a0290a832686a595c5c6f89c5ae5a8228ab52016167d04969bb4ada"
@@ -8654,12 +8659,17 @@
       },
       "instagram": {
         "legenda": "Por que a gente trabalha tanto e não sobra nada?\n\nEssa pergunta tem milhares de anos.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nAí eles lembram do Arkad, amigo de infância, que virou o homem mais rico da cidade.\n\nE os dois foram atrás dele, pra aprender.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18137475916783626",
+        "publicado_em": "2026-11-26T17:53:45.778897-03:00"
       },
       "facebook": {
         "legenda": "Por que a gente trabalha tanto e não sobra nada?\n\nEssa pergunta tem milhares de anos.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nAí eles lembram do Arkad, amigo de infância, que virou o homem mais rico da cidade.\n\nE os dois foram atrás dele, pra aprender.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "892709593900829",
+        "publicado_em": "2026-11-26T17:53:57.729286-03:00"
+      },
+      "concluido_em": "2026-11-26T17:53:57.741560-03:00"
     },
     {
       "id": "reel-20261126-2000-f45d883fbf",
