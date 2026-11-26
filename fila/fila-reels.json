@@ -8587,7 +8587,7 @@
       "id": "reel-20261126-1100-b96575f8c5",
       "data": "2026-11-26",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 3m00 - Mente Milionaria 01 - Termostato do dinheiro.mp4",
         "sha256": "b96575f8c5ecb4a1f90614db2fd8211c22b6ff345fc30e8e3fe61f757b37b7fe"
@@ -8600,12 +8600,17 @@
       },
       "instagram": {
         "legenda": "A maioria de quem ganha na loteria volta a ficar sem nada.\n\nE tem gente que quebra e fica rica de novo em pouco tempo.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nUm pensamento de cada vez.\n\nResumindo: antes de ganhar mais, regula o termostato.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18036242696856080",
+        "publicado_em": "2026-11-26T11:21:22.015255-03:00"
       },
       "facebook": {
         "legenda": "A maioria de quem ganha na loteria volta a ficar sem nada.\n\nE tem gente que quebra e fica rica de novo em pouco tempo.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nUm pensamento de cada vez.\n\nResumindo: antes de ganhar mais, regula o termostato.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1446766843842433",
+        "publicado_em": "2026-11-26T11:21:33.002339-03:00"
+      },
+      "concluido_em": "2026-11-26T11:21:33.009515-03:00"
     },
     {
       "id": "reel-20261126-1400-c633b89353",
