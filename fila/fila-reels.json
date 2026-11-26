@@ -8557,7 +8557,7 @@
       "id": "reel-20261126-0800-46bd22eae1",
       "data": "2026-11-26",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 3m00 - Babilonia 01 - As muralhas da Babilonia.mp4",
         "sha256": "46bd22eae16bd26b413f539a80d0f69cbbbdf50ac10e094a5137bc810af30420"
@@ -8570,12 +8570,17 @@
       },
       "instagram": {
         "legenda": "Um exército inteiro cercou a cidade mais rica do mundo.\n\nTrês semanas e cinco dias de ataque.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nA muralha foi construída muito antes, não no dia do ataque.\n\nCom você é igual.\n\nReserva se faz no mês tranquilo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17997068076109456",
+        "publicado_em": "2026-11-26T09:33:45.703592-03:00"
       },
       "facebook": {
         "legenda": "Um exército inteiro cercou a cidade mais rica do mundo.\n\nTrês semanas e cinco dias de ataque.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nA muralha foi construída muito antes, não no dia do ataque.\n\nCom você é igual.\n\nReserva se faz no mês tranquilo.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "3738078846343761",
+        "publicado_em": "2026-11-26T09:33:55.591533-03:00"
+      },
+      "concluido_em": "2026-11-26T09:33:55.601328-03:00"
     },
     {
       "id": "reel-20261126-1100-b96575f8c5",
