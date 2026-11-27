@@ -8737,7 +8737,7 @@
       "id": "reel-20261127-1100-0a687cfcef",
       "data": "2026-11-27",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Trabalhe Quatro Horas 02 - A lei de Parkinson.mp4",
         "sha256": "0a687cfcefc66f54134f07347bb3e28d7dea2f3b0e925e9396586121aae2b5e4"
@@ -8750,12 +8750,17 @@
       },
       "instagram": {
         "legenda": "Já reparou que uma tarefa de uma hora vira uma tarefa de um dia quando você tem o dia inteiro livre?\n\nO livro Trabalhe Quatro Horas por Semana explica o motivo.\n\nEssa lição está no livro Trabalhe 4 Horas por Semana.\n\nE o resto, que era enfeite, simplesmente desaparece.\n\nFaz o teste hoje: escolhe uma tarefa e dá pra ela metade do tempo de sempre.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18067917890540980",
+        "publicado_em": "2026-11-27T11:56:29.453108-03:00"
       },
       "facebook": {
         "legenda": "Já reparou que uma tarefa de uma hora vira uma tarefa de um dia quando você tem o dia inteiro livre?\n\nO livro Trabalhe Quatro Horas por Semana explica o motivo.\n\nEssa lição está no livro Trabalhe 4 Horas por Semana.\n\nE o resto, que era enfeite, simplesmente desaparece.\n\nFaz o teste hoje: escolhe uma tarefa e dá pra ela metade do tempo de sempre.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1560837529213127",
+        "publicado_em": "2026-11-27T11:56:37.703813-03:00"
+      },
+      "concluido_em": "2026-11-27T11:56:37.715776-03:00"
     },
     {
       "id": "reel-20261127-1400-0d7b7c88d3",
