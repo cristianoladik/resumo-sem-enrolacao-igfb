@@ -3007,7 +3007,7 @@
       "id": "story-20261127-0a81b9c068",
       "data": "2026-11-27",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Casais Inteligentes 01 - Dividir no meio e injusto.mp4",
         "sha256": "0a81b9c0684d024ca4aee2b48462c70d3ace640934e9331fe619c231915d0f2a",
@@ -3017,7 +3017,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-0a81b9c068-Babilonia-Casais-Inteligentes-01---Dividir-no-meio-e-injusto.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-0a81b9c068-Babilonia-Casais-Inteligentes-01---Dividir-no-meio-e-injusto.mp4",
@@ -3026,13 +3026,30 @@
             "duracao_segundos": 52.833
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18132522451853423",
+            "publish_iniciado_em": "2026-11-27T09:31:15-03:00",
+            "id": "17919388200494478",
+            "publicado_em": "2026-11-27T09:31:26-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1704707991067493",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-27T09:31:34-03:00",
+            "post_id_candidato": "1545932600700960",
+            "finish_em": "2026-11-27T09:31:39-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjE1NDU5MzI2MDQwMzQyOTM=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1545932600700960",
+            "publicado_em": "2026-11-27T09:32:15-03:00"
+          },
+          "concluido_em": "2026-11-27T09:32:15-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-27T09:32:15-03:00"
     },
     {
       "id": "story-20261128-c8836a1b09",
