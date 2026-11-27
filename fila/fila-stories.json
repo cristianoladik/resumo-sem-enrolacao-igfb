@@ -3023,7 +3023,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-0a81b9c068-Babilonia-Casais-Inteligentes-01---Dividir-no-meio-e-injusto.mp4",
             "sha256": "0a81b9c0684d024ca4aee2b48462c70d3ace640934e9331fe619c231915d0f2a",
             "tamanho_bytes": 12156902,
-            "duracao_segundos": 52.833
+            "duracao_segundos": 52.833,
+            "removido_da_release_em": "2026-11-27T09:32:19.174635-03:00"
           },
           "instagram": {
             "status": "publicado",
