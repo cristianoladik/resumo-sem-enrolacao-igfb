@@ -8767,7 +8767,7 @@
       "id": "reel-20261127-1400-0d7b7c88d3",
       "data": "2026-11-27",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m30 - Pai Rico 03 - O conselho do emprego seguro.mp4",
         "sha256": "0d7b7c88d3a77e43578a009fff222a00b7bc65dfdc7f5cb31583b4c5bba54a72"
@@ -8780,18 +8780,23 @@
       },
       "instagram": {
         "legenda": "\"Estuda e arruma um emprego seguro.\" Esse conselho pode te deixar pobre.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nNão largou os estudos.\n\nMudou o motivo de estudar.\n\nPapo reto: estuda, sim.\n\nMas estuda como o dinheiro funciona.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17959532292323533",
+        "publicado_em": "2026-11-27T17:38:00.807556-03:00"
       },
       "facebook": {
         "legenda": "\"Estuda e arruma um emprego seguro.\" Esse conselho pode te deixar pobre.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nNão largou os estudos.\n\nMudou o motivo de estudar.\n\nPapo reto: estuda, sim.\n\nMas estuda como o dinheiro funciona.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1126432006881516",
+        "publicado_em": "2026-11-27T17:38:09.909618-03:00"
+      },
+      "concluido_em": "2026-11-27T17:38:09.919964-03:00"
     },
     {
       "id": "reel-20261127-1700-d84e1b5f2c",
       "data": "2026-11-27",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m00 - Babilonia 03 - Comeu os filhos do ouro.mp4",
         "sha256": "d84e1b5f2c020f7d0e39b137ef7ca618776c9bae52d854385cd99766d1fb3446"
@@ -8804,12 +8809,17 @@
       },
       "instagram": {
         "legenda": "Ele fez tudo certo com o dinheiro.\n\nE errou no último passo.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nO Arkad obedeceu.\n\nDois anos depois, o dinheiro dele já rendia, e o rendimento rendia de novo.\n\nE ainda chamou ele pra ser sócio nas terras dele.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18120213292821206",
+        "publicado_em": "2026-11-27T17:40:03.846094-03:00"
       },
       "facebook": {
         "legenda": "Ele fez tudo certo com o dinheiro.\n\nE errou no último passo.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nO Arkad obedeceu.\n\nDois anos depois, o dinheiro dele já rendia, e o rendimento rendia de novo.\n\nE ainda chamou ele pra ser sócio nas terras dele.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1672038684368890",
+        "publicado_em": "2026-11-27T17:40:16.004832-03:00"
+      },
+      "concluido_em": "2026-11-27T17:40:16.015295-03:00"
     },
     {
       "id": "reel-20261127-2000-5ca3e0767f",
