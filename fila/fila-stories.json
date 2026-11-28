@@ -3056,7 +3056,7 @@
       "id": "story-20261128-c8836a1b09",
       "data": "2026-11-28",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia Como Fazer Amigos 01 - Cento e cinquenta naos.mp4",
         "sha256": "c8836a1b09a79a45dfee802b410622dd3911bb2385c5d458069c268f8dc23222",
@@ -3066,7 +3066,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-c8836a1b09-Babilonia-Como-Fazer-Amigos-01---Cento-e-cinquenta-naos.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-c8836a1b09-Babilonia-Como-Fazer-Amigos-01---Cento-e-cinquenta-naos.mp4",
@@ -3075,13 +3075,30 @@
             "duracao_segundos": 35.0
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18132620686853423",
+            "publish_iniciado_em": "2026-11-28T09:32:35-03:00",
+            "id": "17914135065589857",
+            "publicado_em": "2026-11-28T09:32:45-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2006388083870353",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-28T09:32:53-03:00",
+            "post_id_candidato": "4247264905570732",
+            "finish_em": "2026-11-28T09:32:58-03:00",
+            "url": "https://facebook.com/stories/122094839025498721/UzpfSVNDOjQyNDcyNjQ5MDg5MDQwNjU=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "4247264905570732",
+            "publicado_em": "2026-11-28T09:34:05-03:00"
+          },
+          "concluido_em": "2026-11-28T09:34:05-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-28T09:34:05-03:00"
     },
     {
       "id": "story-20261129-47605e5224",
