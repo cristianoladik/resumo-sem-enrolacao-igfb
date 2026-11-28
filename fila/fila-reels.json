@@ -8917,7 +8917,7 @@
       "id": "reel-20261128-1400-92e184607e",
       "data": "2026-11-28",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m30 - Mente Milionaria 03 - A raiz e o fruto.mp4",
         "sha256": "92e184607ec40b7afa72c9038a93a5c67a1a61404e6fe315d8910d29a98776d7"
@@ -8930,12 +8930,17 @@
       },
       "instagram": {
         "legenda": "Trabalhar mais não vai te deixar rico.\n\nE uma árvore mostra o motivo.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nO livro resume assim: o seu mundo de dentro cria o seu mundo de fora.\n\nQuer mudar o fruto?\n\nMuda a raiz.\n\nSimples assim.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18183064132435230",
+        "publicado_em": "2026-11-28T16:29:54.628183-03:00"
       },
       "facebook": {
         "legenda": "Trabalhar mais não vai te deixar rico.\n\nE uma árvore mostra o motivo.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nO livro resume assim: o seu mundo de dentro cria o seu mundo de fora.\n\nQuer mudar o fruto?\n\nMuda a raiz.\n\nSimples assim.\n\nSegue a página pra ver mais livros assim: @resumosemenrolacao",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2177098639681937",
+        "publicado_em": "2026-11-28T16:30:06.832956-03:00"
+      },
+      "concluido_em": "2026-11-28T16:30:06.845103-03:00"
     },
     {
       "id": "reel-20261128-1700-653a61773e",
