@@ -3072,7 +3072,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-sem-enrolacao-igfb/releases/download/fila-instagram-facebook/story-c8836a1b09-Babilonia-Como-Fazer-Amigos-01---Cento-e-cinquenta-naos.mp4",
             "sha256": "c8836a1b09a79a45dfee802b410622dd3911bb2385c5d458069c268f8dc23222",
             "tamanho_bytes": 7547886,
-            "duracao_segundos": 35.0
+            "duracao_segundos": 35.0,
+            "removido_da_release_em": "2026-11-28T09:34:08.697886-03:00"
           },
           "instagram": {
             "status": "publicado",
